@@ -1,0 +1,4 @@
+VER (30 12 36 17)
+k-mers = palavras consecutivas de tamanho k aparecendo na região promotora de um gene
+
+SVMotif extrai motifs de conjuntos de dados envolvendo promotores de genes que têm fatores de transcrição conhecidos.

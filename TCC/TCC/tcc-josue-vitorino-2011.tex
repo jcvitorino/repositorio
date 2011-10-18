@@ -1,0 +1,34 @@
+\documentclass[12pt,a4paper,ruledheader, capchap]{abnt}
+\usepackage{hyperref} % para ter hyperlinks no documento
+\usepackage[utf8]{inputenc} %hifenizacao
+\usepackage[center]{caption2} 
+\usepackage[brazil]{babel} %acentuacao para o idioma pt br
+\usepackage[T1]{fontenc}
+\usepackage{subfigure} % para subfiguras
+\usepackage[pdftex]{graphicx}
+\usepackage{abnt-alf} %pacote abnt
+\usepackage{latexsym}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{amsmath}
+\usepackage[alf]{abntcite}
+\usepackage{tabularx} % para tabelas grandes
+
+%altera fonte do capitulo
+\renewcommand{\ABNTchapterfont}{\bfseries} 
+%altera tamanho da fonte do capitulo
+\renewcommand{\ABNTchaptersize}{\Large}
+%altera tamanho da fonte dos apendices 
+\renewcommand{\ABNTanapsize}{\Large}
+
+
+\begin{document}
+\setcounter{page}{0}
+\tableofcontents
+%\include{./arquivos/svm}
+\include{./arquivos/biologica}
+\include{./arquivos/revisao}
+\bibliographystyle{abnt-alf}
+\bibliography{./arquivos/bibliografia}
+\end{document}

@@ -1,0 +1,31 @@
+\chapter{PROCEDIMENTOS METODOLÓGICOS/MÉTODOS E TÉCNICAS}
+
+Para o desenvolvimento deste trabalho, serão realizadas as seguintes atividades:
+
+\begin{itemize}
+\item Levantamento bibliográfico.
+
+O levantamento bibliográfico, ocorrera durante todo a realização do trabalho.
+
+\item Estudo de métodos para a predição de elementos regulatórios.
+
+Nesta fase sera estuda técnicas de predição de elementos regulatórios. identificada as técnicas com resultados mais precisos.
+
+\item Definição do conjunto de dados.
+
+Neste passo, será feito a coleta e separação de sequencias promotoras do DNA do genoma da soja.
+
+\item Implementação de métodos para predição de elementos regulatórios.
+
+Nesta etapa, será implementado de métodos para a predição dos elementos regulatórios da soja.
+
+\item Validação dos elementos encontrados no genoma da soja.
+
+Neste ponto os elementos encontrados serão comparados com elementos já existentes. Avaliando a precisão dos métodos implementados.
+
+\item Redação do TCC.
+
+O TCC será redigido durante todo a elaboração do trabalho.
+
+\end{itemize}
+

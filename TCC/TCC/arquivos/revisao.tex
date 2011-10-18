@@ -1,0 +1,128 @@
+\chapter{Busca de genes alvos de fatores de transcrição}
+
+Para decifrar a regulação gênica de um organismo, e consequentemente ter um domínio na manipulação genética do organismo, muitas metodologias \textit{in vitro} e \textit{in silico} foram propostas. Das metodologias \textit{in silico}, algumas focam na busca de genes alvos de fatores de transcrição, e outras na classificação da funcionalidade de um gene desconhecido a partir de um gene conhecido, busca de elementos regulatórios, construção da rede de regulação, entre outras. A seguir serão apresentados algumas metodologias para a busca de genes alvos de fatores de transcrição. Esta é uma tarefa importante, porque identificando o fator de transcrição associado ao gene é possível saber qual a funcionalidade do gene. A descoberta da funcionalidade de um gene e quais os fatores de transcrição estão associados com a transcrição deste, tem várias utilidades dependendo do organismo. Por exemplo em uma planta abre a possibilidade de fazer um melhoramentos genético. Em bactérias desenvolver drogas que inibem genes essenciais para a seu desenvolvimento. Existem inúmeras aplicações variando em cada organismo.
+%Explicar melhor sobre a importacia da busca de genes alvos aqui no incio antes de falar sobre trabalhos relacionados 
+
+\section{Estado da arte}
+Para inferir genes alvos do DREB na \textit{Arabidopsis} \cite{Wang2009}, criaram uma estratégia computacional, que combina a análise de elementos regulatórios e aprendizagem de máquina.
+
+Eles utilizaram como conjunto de dados: sequências da região promotora de genes alvos do DREB identificados experimentalmente, estes são identificados como genes mestres (MGs, do inglês \textit{Master genes}); \textit{DRE frame sequences} (DFSs), fragmentos de DNA com 206 pb (pares de bases), retirados das regiões promotora de MGs, contendo a subsequência consenso (A/GCCGAC) que é a região onde o DREB se conecta em um gene, identificada pelos autores como DRE-motif \footnote{\textit{motif} são regiões conservadas no DNA, assim todos os elementos regulatórios no DNA são \textit{motif}, e não todos os \textit{motifs} são elementos regulatórios}; \textit{Non-DRE frame sequences} (nDFS) fragmentos de DNA com 206 pb, retirados das regiões promotora de gene aleatórios, com um DRE-motif inserido artificialmente na região central. No total foram encontrados 48 DFSs de regiões promotora de MGs, que foram considerados como dados positivos, e 1000 nDFSs como dados negativos.
+
+Após a seleção do conjunto de dados, foi construído um classificador SVM para categorizar DFSs e nDFSs. O vetor de características utilizado no SVM, foi um vetor contendo hexâmeros (pequenos fragmentos de DNA com 6 nucleotídeos), que foram selecionados através do algoritmo HexDiff \cite{Chan2005}. Este algoritmo computa o valor da frequência de um hexâmero no conjunto positivo $F_{p}(h)$ e negativo $F_{n}(h)$ em ambos filamentos de DNA. Depois de calculada a frequência para cada hexâmero em ambos os conjuntos de dados foi calculado o valor da razão $R(h)$, como:
+\begin{equation}
+R(h) = \frac{F_{p}(h)}{F_{n}(h)}
+\end{equation}
+Os hexâmeros com a razão maior que um limite estabelecido, foram colocados em um vetor $H_{d}$, que é o vetor de características da SVM. Para cada hexâmero em $H_{d}$ que pertence ao conjunto de DFS foi atribuído o rótulo (+1), e os de nDFS foi atribuído (-1). A função Kernel utilizada no classificador SVM foi a \textit{Radial Basis Function}   (RBF). Para o treinamento do classificador, visto que havia uma disparidade grande entre os dados positivos e negativos, foram usadas apenas 100 amostras negativas e todas as 48 amostras positivas. Já na classificação de DFSs e nDFSs foram utilizadas as 1000 amostras negativas, os dados positivos passaram por um processo de reamostragem, uma vez que eles estavam em um quantidade bem menor (48 DFSs) em relação aos dados negativos, assim o conjunto de dados positivos aumentou para 500 amostras.
+
+Para a previsão de genes alvos do DREB, primeiramente foram selecionados genes em todo o genoma da \textit{Arabidopsis}, cuja a região promotora tem a sequência consenso do DREB (A/GCCGAC). Então foram selecionadas as regiões a esquerda da sequência consenso e a direita, ambas com 100 pb, que juntamente com o consenso forma uma subsequência de 206 pb. O conjunto de dados formado, com o procedimento descrito, foi classificado com o classificador SVM. Foram considerados genes alvos do DREB, todos os gene que contem  pelo menos um DFSs em sua região promotora. No total, 474 genes foram preditos pela SVM e considerados fortes candidatos a serem alvos do DREB.
+
+Segundo os autores, apenas encontrar regiões nos promotores de um gene contendo o consenso DREB, não é suficiente para inferir este gene como alvo do DREB, devido as perdas de características do DRE-motif. Vários estudos, apontam que elementos regulatórios distribuídos na região promotora influenciam na ligação de um fatore de transcrição e seu gene alvo. O que pode ser entendido que, na PR de genes alvos do DREB não somente o DRE-motif mas também outros elementos regulatórios, influenciam na conexão de um DREB na sequência. Estes outros elementos regulatórios agem como auxiliares para promover a conexão do DREB nos genes alvos. Com a utilização do HexDiff é selecionado regiões conservadas, que podem ser partes de elementos regulatórios que influenciam na ação do DREB, portanto um DFS será formado além da região consenso, também por sub-regiões conservadas.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Holloway2008
+\cite{Holloway2008} projetaram uma metodologia utilizando aprendizagem de máquina para a predição de genes alvos de fatores de transcrição específicos e análise da rede regulatória do \textit{Saccharomyces cerevisiae}, uma levedura muito utilizada em estudos genéticos por ter um genoma pequeno e simples comparado a outros organismos.
+
+%definir TF no texto base
+Para a classificação dos genes alvos de fatores de transcrição, eles utilizaram uma SVM, porque segundo os autores, os conjuntos de dados genômicos têm uma alta dimensionalidade, podendo chegar a milhares ou dezena de milhares de características numéricas para descrever um gene. Assim muitos algoritmos classificadores, podem ter um baixo desempenho com um número alto de características, ao contrário da SVM que tem um bom desempenho com dados de alta dimensionalidade.
+
+% Definir elementos regulatórios no texto base
+Como dados de entrada positivo para o treinamento da SVM, foram pegos genes com elementos regulatórios conhecidos, que se ligam a determinados fatores de transcrição que também são conhecidos. Os elementos regulatórios, seus respectivos genes e os fatores de transcrição, foram selecionados por meio de publicações na literatura. O conjunto de entradas negativo, foi escolhido de subconjuntos de genes que têm um alto \textit{p}-valor, consequentemente com uma probabilidade baixa de ter uma ligação nos fatores de transcrição utilizados.
+
+Depois de selecionado o conjunto negativo são construídos 50 classificadores para cada fator de transcrição, utilizando diferentes subamostras do conjunto negativo, com o mesmo tamanho da amostra positiva. É utilizado 50 classificadores para cada fator de transcrição, porque há uma pequena probabilidade de um gene ser associado incorretamente ao conjunto negativo. Com os 50 classificadores este inoportuno é suavizado.
+
+Para a avaliação de cada classificador é usado a abordagem  \textit{leave-one-out cross-validation} (LOOCV), e também as medidas de desempenho: precisão e valor preditivo positivo (PPV, do inglês positive predictive value), que são usadas como média entre os 50 classificadores.
+
+As características do classificador são selecionadas aplicando o algoritmo SVM \textit{recursive feture elimination} (SVM-RFE), que otimiza o vetor \textbf{w} da SVM, para conter componentes altas, que são melhores para separar as classes positivas e negativas de dados. O processo de seleção de características, usando o SVM-RFE, é repetido até atingir o numero desejado de características, que é 1500, este numero é escolhido porque, quando são usadas 1500 características a medida de precisão é aproximadamente 85\%, que é uma precisão consideravelmente boa. Estas características são escolhidas para cada fator de transcrição e são guardadas durante a avaliação dos 50 classificadores. No final obtiveram um grande conjunto de características para um fator de transcrição, lembrando que os elementos desse conjunto são subconjuntos de características. Então foram escolhidos os 40 características com maior valor, de cada subconjunto de características, que foram guardas em uma lista e é contada quantas vezes cada característica apareceu. Esta lista foi rearranjada, posicionando os elementos que tem uma frequência de aparição maior no topo, resultando o conjunto final de características. Essas características inclui um conjunto diverso de dados incluindo sequências promotoras, medidas de expressão de um gene, conservação filogenética de elementos de sequências, sobre-representação de sequências promotoras, temperatura de fusão de promotores, e outras.
+
+O esquema usado para a montagem dos classificadores funciona da seguinte maneira: passo 1, é reunido o conjunto de dados positivos e negativos, totalizando \textit{n}; passo 2, utilizando o LOOCV é pego \textit{n-1} genes para o conjunto de treinamento e 1 para o conjunto de teste; passo 3 então é usado o SVM-RFE para classificar as características no conjunto de treinamento; passo 4 construir um classificador SVM com as 1500 características. Salvar as características; passo 5, classificar o gene deixado de fora do conjunto de treinamento; passo 6 repetir os passos 2-5 até completar o LOOCV. Salvar todas as características; passo 7 calcular as estatísticas de desempenho (precisão, PPV, etc.); passo 8 repetir passos 1-5 50 vezes; último passo, calcular as estatísticas de desempenho final (média da precisão, média do PPV).
+
+Os autores aplicaram este método em 163 fatores de transcrição do \textit{S. cerevisiae}, com os resultados obtidos eles construíram uma rede de regulação que foi disponibilizada em um servidor web (http://cagt10.bu.edu/TFSVM/main.htm), onde é possível consultar quais são os genes alvos de um fator de transcrição, ou quais fatores de transcrição se ligam em um gene.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\cite{Lan2007} desenvolveu um método de classificação de genes segundo suas funcionalidades, mais especificamente de genes que estão envolvidos na resposta das plantas a estresses.
+
+Para a classificação dos genes foram desenvolvidos cinco métodos de aprendizado supervisionado, que foram: \textit{Logistic Regression} (LR), \textit{Linear Discriminant Analysis} (LDA), \textit{Quadratic Discriminant Analysis} (QDA), \textit{Naive Bayes} (NB) e \textit{K-Nearest Neighbors} (KNN). Foram escolhidos estes métodos básicos, porque eles requerem pouca computação e os resultados são bons o suficiente para se fazer análises biológicas. Todos os classificadores montados com os métodos, retornam um valor discriminativo para cada gene avaliado. Cada gene é representado por vetor com 290 dimensões cujas as componentes são valores de expressão do gene em 290 condições experimentais. O valor retornado por um classificador tem que ser maior que o limite estabelecido.
+
+O conjunto de dados usado foi extraído de experimentos relacionados com estresses. No total foram 22.746 genes sobre 290 condições experimentais diferentes. Desses 22.746 genes, 11.553 são genes anotados e com suas funções conhecidas, e desses 1.031 respondem à estresses. Os genes anotados formaram o conjunto de dados de treinamento, onde um gene foi considerado positivo se ele foi anotado como um gene de resposta a estresse, e negativo para os demais. Foram 11.193, o total de genes não anotados, estes foram usados para fazer as previsões. Podem haver alguns falsos negativos, visto que genes que não foram descobertas as funcionalidades, são introduzidos no conjunto negativo, entretanto eles podem ser genes de resposta a estresses.
+
+Antes dos dados serem treinados, eles passaram por um pré-processamento, para reduzir a dimensão do conjunto de dados, para que durante o aprendizado supervisionado os dados sejam usados eficientemente. Isto foi feito com o algoritmo \textit{Principal components analysis} (PCA), que mapeia vetores de alta dimensão para um dimensão menor. O PCA aplicado ao conjunto de dados, que originalmente tinha 290 dimensões, reduziu a dimensão para as dimensões de 5, 10, 15, 20, 40 e 100.
+
+Os classificadores foram treinados com todas as dimensões geradas pelo PCA e pela dimensão original com exceção do KNN, no caso do KNN é usado diferentes valores de $K$ na dimensão original, onde $K$ são os $K$ vizinho mais próximos de um gene. Então foi escolhida a dimensão em que cada algoritmo obteve melhores resultados (no caso do KNN o melhor $K$). Os classificadores com a sua melhor dimensão, foram combinados em um só classificador, onde o valor de discriminação do classificador combinado é uma combinação linear dos discriminastes dos classificadores individuais. Como esperado o classificador combinado obteve melhores resultados que os classificadores individuais.
+
+O resultado final da classificação é um conjunto de genes, que podem ser posicionados quanto ao valor discriminante de um gene responder a estresses, ficando os com maiores valores no topo.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\cite{Chan2005} desenvolveu o algoritmo HexDiff. Este algoritmo busca agrupamentos de elementos regulatórios, que atuam juntos na regulação de um gene. Um agrupamento de elementos regulatórios é comumente conhecido por CRM (do inglês \textit{cis-regulatory modules}).
+
+O HexDiff é um tipo de algoritmo de aprendizado de máquina, e foi projetado para discriminar dois tipos de sequências de DNA: CRM, e non-CRM(não agrupamento de elementos regulatórios). Para fazer a classificação é necessário um conjunto de dados de treinamentos, que é obtido através de conhecidos CRMs, que são colocados no conjunto positivo de treinamento, os não conhecidos, os non-CRMs, são inseridos no conjunto negativo. Os dados para teste foram pegos de conhecidos CRMs da  \textit{Drosophila}. Foram encontrados 16 genes que, contém um total de 52 CRMs. Após a seleção dos dados foi calculada a frequência de cada hexâmero, no conjunto negativo $f_{p}(h)$ e positivo $f_{n}(h)$, para calcular a razão $R(h)$:
+\begin{equation}
+R(h) = \frac{F_{p}(h)}{F_{n}(h)}
+\end{equation}
+Os hexâmeros mais comuns em CRMs do que em  non-CRMs, obtiveram um alto valor de $R(h)$ e foram armazenados no conjunto $H_{d}$. 
+
+Depois de gerado o conjunto $H_{d}$, ele foi usado para classificar cada posição em uma sequência não conhecida como uma sequência CRM e non-CRM. Para fazer a classificação foi construído uma janela na sequência, entre 1000-2000 pb, que a cada rodada movida 1 pb na sequência, e é calculado a pontuação $S_{i}$ para cada posição $i$ da janela na sequência, pelo produto da razão $R(h)$ e o numero de aparições de um hexâmeros $n(h_{d})$ em $H_{d}$ na janela. Qualquer posição que exceder o limite é considerada um CRM.
+
+Para a avaliação foi usado a abordagem  \textit{leave-one-out cross-validation} (LOOCV), onde dos 16 genes encontrados 15 são treinados e 1 é usado como teste, este processo é feito até que todos os 16 genes sejam usados no conjunto de teste. A precisão das previsões do modelo foi medida com a correlação de Matthew. 
+
+Quando aplicado a no-CRMs da \textit{Drosophila}, além dos CRMs já conhecidos serem previstos, outros 10 CRMs foram encontrados e indicados como fortes candidato a CRMs.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+Outro trabalho foi o de \cite{Zhang2005}, que projetaram uma aplicação para encontrar genes alvos de fatores de transcrição, na \textit{Arabidopsis thaliana} ,que são induzidos por ácido abscísico(ABA, do inglês \textit{abscisic acid}) e por estresses abióticos.
+
+Os dados utilizados foram coletados de uma plantação de \textit{A.thaliana}, que cresceu a uma temperatura de 24ºC durante 10 dias. Algumas mudas foram expostas ao ABA e/ou estresses abióticos, e outras não. Das sequências extraídas do experimento, foram coletadas no total 366 regiões promotoras de genes regulados após a exposição ao ABA e/ou estresses abióticos para análises.
+
+Para encontrar os genes alvos, primeiramente foi calculada a pontuação de cada subsequência de tamanho $w$ em uma determinada sequência, baseado em padrões com relevâncias biológicas (\textit{motifs}) e em um modelo de \textit{background}. Um \textit{motif} $W$ de tamanho $w$ é representado por uma matriz de peso (PMW, do inglês \textit{Position Weight Matrix}), com $PWM \Theta_{W} = (q_{l,b})$, onde $(q_{l,b})$ é a probabilidade de encontrar a base $b$ na posição $i$ do \textit{motif}, já o modelo de \textit{background} é criado utilizando o modelo de Markov. Este modelo calcula a probabilidade de uma base começar na $j-$ésima posição com $P(j|B_{m}) = \prod_{l=1}^wP(b_{j_l-1}|b_{j+l-2}...b_{j+l-l})$, onde $B_{m}$ é a $m-$ésima ordem do modelo de Markov, e $b_{j}$ é a $j-$ésima base da sequência. Também é calculada a probabilidade de uma subsequência ser um \textit{motif} $\Theta_{W}$, utilizando também o modelo de Markov, com $P(j|\Theta_{W}) = \prod_{l=1}^w q_{l,b_{j+l-1}}$, onde $q_{l,b_{j+l-1}}$ é a probabilidade de encontrar a base $b_{j+l-1}$ na posição $l$-ésima de um \textit{motif}. Então foi calculada a \textit{log-ratio} $A_{j,\Theta_{W},B_{m}} = ln\frac{P(j|\Theta)_{W}}{P(j|B_{m})}.$ A pontuação de uma sequência $S$ é feita utilizando dois \textit{motifs} $\Theta_{M}$ e $\Theta_{N}$ , neste caso um deles é o ABRE que é o elemento de resposta alvo, quando uma planta é exposta ao ABE, são consideradas todas as posições $i$ e $j$ dentro de $S$ e a combinação da pontuação das posições é computada como $A_{S,\Theta_{M},\Theta_{N},B_{m}} = max_{i,j}(A_{i,\Theta_{M},B_{m}} + A_{j,\Theta_{N},B_{m}})$. A combinação com maior pontuação é atribuída para a sequência, genes com sua sequência com maior pontuação têm uma probabilidade maior de serem genes alvos.
+
+Como resultados foram encontrados entre 1825 genes induzidos a estresses, 1530 onde pelo menos uma funcionalidade poderia ser atribuída. E foram selecionados 150 com maior pontuação onde 126 estão classificados em alguma categoria funcionalidade. O que levou aos autores a concluir que podem existir muitas atividades de regulações genicas após a exposição ao ABA.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\cite{Bigelow2004CisOrtho} desenvolveram o software CisOrtho , que identifica alvos de fatores de transcrição, com um elemento regulatório definido, utilizando rastros filogenéticos. O programa foi usado nos genomas de dois invertebrados, o \textit{Caenorhabditis elegans} e o \textit{Caenorhabditis briggsae}.
+
+O primeiro passo foi, identificar, classificar, e associar as regiões não codificantes dos genes, isto foi feito com as informações contidas em arquivos GFF (do inglês, \textit{General Feature Format}) extraídos de bancos de dados públicos. Foram retiradas as regiões codificantes porque é improvável que há elementos regulatórios nestas regiões e por elas serem impróprias para buscas filogenéticas apresentando uma alta conservação. O segundo passo consistiu em construir uma PWM (do inglês, \textit{Position Weight Matrix}) para um conjunto de elementos regulatórios definidos experimentalmente, neste trabalho foram usados os elementos regulatórios dos fatores de transcrição TTX-3 e CEH-10. Para a construção da PWM foi usado o software HMMER \cite{Eddy1998}, este software utiliza o modelo oculto de Markov para gerar a PWM. A PWM resultante é usada como entrada no CisOrtho, que faz uma busca nas sequências não codificantes, atribuindo uma pontuação para cada bloco de subsequência de tamanho $n$ (chamado de janela), onde o objetivo é encontrar subsequências com a maior pontuação $N$, e com no máximo $D$ subsequências, onde $N$ e $D$ são definidos pelo usuário. No quarto passo foi feita a análise filogenética, foram utilizados conjuntos de mapeamentos ortólogos\footnote{Sequências conservadas de diferentes organismo, que tem o mesmo ancestral} entre \textit{C. elegans} e \textit{C. briggasae} que provê pares de subsequências ortólogas\footnote{sequências derivadas de um mesmo ancestral}. Os pares de subsequências que apresentam uma alta pontuação são guardados, como um par de subsequência. O último passo classifica os pares de subsequências  de acordo com as suas pontuações e \textit{mismatches}\footnote{Bases diferentes, em uma mesma posição, neste caso é comparado as bases do \textit{C. elegans} e \textit{C. briggasae}}.
+
+Com o CisOrtho foi possível identificar novos genes alvos dos fatores de transcrição TTX-3 e CEH-10, foram encontrados 14 genes com subsequências com alta pontuação que satisfaziam os critérios para serem alvos de TTX-3/CEH-10, também foram encontrados genes com baixa pontuação, mas que atendiam os critérios para serem alvos de TTX-3/CEH-10, um total de 11 genes. Para subsequência com uma grande conservação mas, com uma baixa pontuação, foram feitas análises e foram encontrados também genes alvos.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Tabela comparativa}
+
+
+\begin{tabularx}{\textwidth}{ |X|X|X|X|X| }    \hline
+		  Trabalho	   & Organismo    & Entradas     & Técnicas usadas & Resultados obtidos       \\ \hline \hline	
+
+    \cite{Wang2009}     	 &  \textit{Arabidopsis} & sequências promotoras de genes que contém o DRE-motif e sequências que não contém o DRE-motif  & O algoritmo HexDiff e SVM & 474 genes alvos  \\ \hline
+    \cite{Holloway2008} 	   & \textit{Saccharomyces cerevisiae}  & sequências promotoras; medidas de expressão de um gene; conservação filogenética de elementos de sequências; sobre-representação de sequências promotoras; temperatura de fusão de promotores; K-mer conservados; k-mer com \textit{mismatches}; \textit{k-mer median position} & SVM & rede de regulação do \textit{Saccharomyces cerevisiae}\\ \hline
+
+\end{tabularx}
+
+
+
+\begin{tabularx}{\textwidth}{ |X|X|X|X|X| }    \hline
+		  	Trabalho      & Organismo    & Entradas     & Técnicas usadas & Resultados obtidos       \\ \hline \hline
+
+    \cite{Lan2007}     		   & \textit{Arabidopis thaliana}  & 22.746 genes sobre 290 condições experimentais diferentes   & \textit{Logistic Regression} (LR), \textit{Linear Discriminant Analysis} (LDA), \textit{Quadratic Discriminant Analysis} (QDA), \textit{Naive Bayes} (NB) e \textit{K-Nearest Neighbors} (KNN)& Genes com grandes possibilidades de serem expressos mediante a condições de estresses abióticos \\ \hline
+    \cite{Chan2005}            & \textit{Drosophila}  & CRM e não-CRM   & HexDiff & 10 novos CRMs\\ \hline
+    \cite{Zhang2005}           & \textit{Arabidopsis thaliana}  & dados de plantas expostas ao ABA e/ou estresses abióticos & PWM e modelo de Markov & 1530 genes que pode ser adicionada alguma funcionalidade \\ \hline
+    \cite{Bigelow2004CisOrtho} & \textit{Caenorhabditis elegans} e o \textit{Caenorhabditis briggsae}  & arquivos GFF e conjuntos de mapeamentos ortólogos  & Modelo oculto de Markov, PWM e rastros filogenéticos & mais de 25 genes alvos de TTX-3 e CEH-10  \\ \hline           
+
+\end{tabularx}
+
+\section{Discussão}
+
+Podemos observar que a maioria dos trabalhos realizados na busca de genes alvos de fatores de transcrição, estão em comum acordo quanto a degeneração dos elementos regulatórios, e a dependência de um elemento regulatório de outros elementos regulatórios para a regulação de um gene formando os CRMs. Essas observações foram comprovadas em experimentos \textit{in vitro}, como visto em \cite{Davidson1983},\cite{Priest2009} e \cite{Zhang2005}. 
+
+Observamos o importante papel que algoritmos de aprendizado de máquina tem na busca de genes alvos, estes algoritmos são usados em pelo menos uma das etapas das metodologias apresentadas. Em \cite{Holloway2008} e \cite{Lan2007}, é discutido que os dados genômicos apresentam uma alta dimensionalidade, o que nos leva a concluir que a predominância do SVM nas metodologias é devido a facilidade que SVM tem em lidar com alta dimensionalidades e os bons resultados obtidos mediante estas condições.
+
+Quanto a uma análise de desempenho e precisão entre os algoritmos fica inconclusiva, uma vez que os trabalhos foram feitos em diferentes tipos de organismos, mesmo os trabalhos em que os organismo eram os mesmos, eles eram aplicados a diferentes tipos de fatores de transcrição.
+
+Finalizando, é de grande importância descobrir os genes alvos de fatores de transcrição, uma vez que, ainda existem vários genes que ainda não foi associada nenhuma função. Como a função de um gene está diretamente ligada ao tipo de fatores de transcrição que conectam nele, é possível classificar estes genes a partir de fatores de transcrição conhecidos.

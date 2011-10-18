@@ -1,0 +1,21 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.52 }
+
+\bibitem[Blanchette, Schwikowski e Tompa 2000]{Blanchette2000}
+\abntrefinfo{Blanchette, Schwikowski e Tompa}{BLANCHETTE; SCHWIKOWSKI;
+  TOMPA}{2000}
+{BLANCHETTE, M.; SCHWIKOWSKI, B.; TOMPA, M. {An exact algorithm to identify
+  motifs in orthologous sequences from multiple species.}
+\emph{Proceedings / ... International Conference on Intelligent Systems for
+  Molecular Biology ; ISMB. International Conference on Intelligent Systems for
+  Molecular Biology}, v.~8, p. 37--45, 2000.
+ISSN 1553-0833.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/view\-.ncbi\-.nlm\-.nih\-.gov\-/pubmed\-/10%
+977064$>$}{http://view.ncbi.nlm.nih.gov/pubmed/10977064}.}
+
+\end{thebibliography}

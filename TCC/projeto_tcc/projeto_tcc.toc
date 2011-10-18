@@ -1,0 +1,24 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}RESUMO}{3}{chapter.1}
+<<<<<<< .mine
+\contentsline {chapter}{\numberline {2}FUNDAMENTA\IeC {\c C}\IeC {\~A}O TE\IeC {\'O}RICO-METODOL\IeC {\'O}GICA}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}In\IeC {\'\i }cio da regula\IeC {\c c}\IeC {\~a}o de um gene}{4}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}\IeC {\'A}cidos nucleicos}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2} Transcri\IeC {\c c}\IeC {\~a}o e a s\IeC {\'\i }ntese de RNA}{7}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Elementos regulat\IeC {\'o}rios}{11}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Fatores de transcri\IeC {\c c}\IeC {\~a}o que ativam elementos regulat\IeC {\'o}rios em resposta a estresses abi\IeC {\'o}ticos}{11}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}M\IeC {\'e}todos computacionais para a predi\IeC {\c c}\IeC {\~a}o de elementos regulat\IeC {\'o}rios}{12}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Algoritmos de predi\IeC {\c c}\IeC {\~a}o baseada em palavras}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Algoritmos de predi\IeC {\c c}\IeC {\~a}o probabil\IeC {\'\i }stica}{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Algoritmos baseados em rastros filogen\IeC {\'e}ticos}{14}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Algoritmos que combinam t\IeC {\'e}cnicas probabil\IeC {\'\i }sticas e de rastros filogen\IeC {\'e}ticos}{15}{subsection.2.2.4}
+\contentsline {chapter}{\numberline {3}OBJETIVOS}{16}{chapter.3}
+\contentsline {chapter}{\numberline {4}PROCEDIMENTOS METODOL\IeC {\'O}GICOS/M\IeC {\'E}TODOS E T\IeC {\'E}CNICAS}{17}{chapter.4}
+\contentsline {chapter}{\numberline {5}CONTRIBUI\IeC {\c C}\IeC {\~O}ES E/OU RESULTADOS ESPERADOS}{18}{chapter.5}
+\contentsline {chapter}{\numberline {6}CRONOGRAMA DE DESENVOLVIMENTO}{19}{chapter.6}
+\contentsline {chapter}{Refer\^encias}{20}{table.6.2}
+=======
+\contentsline {chapter}{\numberline {2}FUNDAMENTA\IeC {\c C}\IeC {\~A}O TE\IeC {\'O}RICO-METODOL\IeC {\'O}GICA}{4}{chapter.2}
+\contentsline {chapter}{\numberline {3}JUSTIFICATIVA CIRCUNSTANCIADA}{8}{chapter.3}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{9}{chapter.3}
+>>>>>>> .r3

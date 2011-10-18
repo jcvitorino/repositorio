@@ -1,0 +1,47 @@
+% This file was created with JabRef 2.6.
+% Encoding: ISO-8859-1
+
+@ARTICLE{PradeepK.Agarwal2006,
+  author = {Pradeep K. Agarwal and Parinita Agarwal and M. K. Reddy and Sudhir
+	K. Sopory.},
+  title = {Role of DREB transcription factors in abiotic and biotic stress tolerance
+	in plants},
+  journal = {Plant Cell},
+  year = {2006},
+  volume = {25},
+  pages = {1263-1274},
+  owner = {root},
+  timestamp = {2011.01.27}
+}
+
+@ARTICLE{WANG2009,
+  author = {X. Wang and G. Haberer and K. Mayer},
+  title = {Discovery of cis-elements between sorghum and rice using co-expression
+	and evolutionary conservation},
+  journal = {BMC Genomics},
+  year = {2009},
+  volume = {10},
+  pages = {1471-2164},
+  owner = {root},
+  timestamp = {2011.01.27}
+}
+
+@ARTICLE{WASSERMAN2004,
+  author = {W. W. WASSERMAN and  A. SANDELIN},
+  title = {Applied bioinformatics for the identification of regulatory elements},
+  journal = {Natural Reviews Genetics},
+  year = {2004},
+  volume = {5},
+  pages = {276-287},
+  owner = {root},
+  timestamp = {2011.01.27}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

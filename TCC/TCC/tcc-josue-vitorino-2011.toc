@@ -1,0 +1,15 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o a biologia molecular do funcionamento g\IeC {\^e}nico}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}\IeC {\'A}cidos nucleicos}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Prote\IeC {\'\i }nas}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Transcri\IeC {\c c}\IeC {\~a}o}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}C\IeC {\'o}digo gen\IeC {\'e}tico}{12}{section.1.4}
+\contentsline {section}{\numberline {1.5}Tradu\IeC {\c c}\IeC {\~a}o}{14}{section.1.5}
+\contentsline {section}{\numberline {1.6}Regula\IeC {\c c}\IeC {\~a}o no in\IeC {\'\i }cio da transcri\IeC {\c c}\IeC {\~a}o}{16}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Regula\IeC {\c c}\IeC {\~a}o combinada}{17}{subsection.1.6.1}
+\contentsline {section}{\numberline {1.7}Dehydration responsive element binding proteins (DREB)}{17}{section.1.7}
+\contentsline {chapter}{\numberline {2}Busca de genes alvos de fatores de transcri\IeC {\c c}\IeC {\~a}o}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Estado da arte}{19}{section.2.1}
+\contentsline {section}{\numberline {2.2}Tabela comparativa}{27}{section.2.2}
+\contentsline {section}{\numberline {2.3}Discuss\IeC {\~a}o}{28}{section.2.3}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{30}{section.2.3}

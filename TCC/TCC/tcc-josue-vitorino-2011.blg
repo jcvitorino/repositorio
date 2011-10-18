@@ -1,0 +1,30 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: tcc-josue-vitorino-2011.aux
+A level-1 auxiliary file: ./arquivos/biologica.aux
+A level-1 auxiliary file: ./arquivos/revisao.aux
+The style file: abnt-alf.bst
+Database file #1: abnt-options.bib
+Database file #2: ./arquivos/bibliografia.bib
+I was expecting a `,' or a `}'---line 310 of file ./arquivos/bibliografia.bib
+ : 
+ : PAGES = {18-28},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 668 of file ./arquivos/bibliografia.bib
+ : @article{Agarwal2006
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 694 of file ./arquivos/bibliografia.bib
+ : @article{Nakashima2009
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 722 of file ./arquivos/bibliografia.bib
+ : @article{Chen2007GmDREB2
+ :                         ,
+I'm skipping whatever remains of this entry
++---------------------------------------------------------+
+| Estilo bibliografico abnt-alf.bst versao 1.52           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+(There were 4 error messages)

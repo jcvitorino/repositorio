@@ -1,0 +1,131 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: projeto_tcc.aux
+A level-1 auxiliary file: ./capa.aux
+A level-1 auxiliary file: ./resumo.aux
+A level-1 auxiliary file: ./fundamentacao.aux
+A level-1 auxiliary file: ./objetivos.aux
+A level-1 auxiliary file: ./procedimento.aux
+A level-1 auxiliary file: ./justificativa.aux
+<<<<<<< .mine
+A level-1 auxiliary file: ./cronograma.aux
+=======
+Case mismatch error between cite keys WANG2009 and Wang2009
+---line 2 of file ./justificativa.aux
+ : \citation{WANG2009
+ :                   }
+I'm skipping whatever remains of this command
+>>>>>>> .r3
+The style file: abnt-alf.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+<<<<<<< .mine
+Database file #1: abnt-options.bib
+Database file #2: bibliografia/bibliografia.bib
+=======
+Database file #1: abnt-options.bib
+Database file #2: bibliografia/bibliografia.bib
+Warning--I didn't find a database entry for "WASSERMAN2004"
+>>>>>>> .r3
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
++---------------------------------------------------------+
+| Estilo bibliografico abnt-alf.bst versao 1.52           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+<<<<<<< .mine
+You've used 32 entries,
+=======
+You've used 19 entries,
+>>>>>>> .r3
+            6523 wiz_defined-function locations,
+<<<<<<< .mine
+            1451 strings with 18645 characters,
+and the built_in function-call counts, 90362 in all, are:
+= -- 13019
+> -- 1168
+< -- 2741
++ -- 3117
+- -- 342
+* -- 5001
+:= -- 9313
+add.period$ -- 154
+call.type$ -- 33
+change.case$ -- 385
+chr.to.int$ -- 112
+cite$ -- 30
+duplicate$ -- 11795
+empty$ -- 1910
+format.name$ -- 1653
+if$ -- 17684
+int.to.chr$ -- 1
+=======
+            1339 strings with 14835 characters,
+and the built_in function-call counts, 49781 in all, are:
+= -- 7113
+> -- 654
+< -- 1476
++ -- 1698
+- -- 191
+* -- 2776
+:= -- 5196
+add.period$ -- 85
+call.type$ -- 20
+change.case$ -- 221
+chr.to.int$ -- 69
+cite$ -- 17
+duplicate$ -- 6353
+empty$ -- 1105
+format.name$ -- 933
+if$ -- 9809
+int.to.chr$ -- 1
+>>>>>>> .r3
+int.to.str$ -- 0
+<<<<<<< .mine
+missing$ -- 576
+newline$ -- 210
+num.names$ -- 150
+pop$ -- 904
+=======
+missing$ -- 327
+newline$ -- 127
+num.names$ -- 85
+pop$ -- 501
+>>>>>>> .r3
+preamble$ -- 1
+<<<<<<< .mine
+purify$ -- 141
+=======
+purify$ -- 83
+>>>>>>> .r3
+quote$ -- 0
+<<<<<<< .mine
+skip$ -- 11746
+=======
+skip$ -- 6395
+>>>>>>> .r3
+stack$ -- 1
+<<<<<<< .mine
+substring$ -- 3732
+swap$ -- 3434
+text.length$ -- 134
+=======
+substring$ -- 2077
+swap$ -- 1878
+text.length$ -- 83
+>>>>>>> .r3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+<<<<<<< .mine
+while$ -- 291
+=======
+while$ -- 167
+>>>>>>> .r3
+width$ -- 0
+<<<<<<< .mine
+write$ -- 584
+=======
+write$ -- 339
+(There was 1 error message)
+>>>>>>> .r3

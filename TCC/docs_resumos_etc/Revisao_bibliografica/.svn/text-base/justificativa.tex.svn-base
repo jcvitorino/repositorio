@@ -1,0 +1,15 @@
+<<<<<<< .mine
+\chapter{CONTRIBUIÇÕES E/OU RESULTADOS ESPERADOS}
+=======
+\chapter{JUSTIFICATIVA CIRCUNSTANCIADA}
+A região promotora e seus elementos regulatórios, presentes na estrutura de cada gene, são fundamentais para o processo de transcrição de um gene. Por isso, entre outros aspectos, o conhecimento dos elementos regulatórios e dos fatores de transcrição é essencial para o entendimento da regulação de um determinado gene \cite{WANG2009} e um passo fundamental na construo da rede de regulação de um gene.  Esse conhecimento  fundamental para interpretar e modelar as respostas de uma célula a diversos estímulos \cite{WASSERMAN2004}.
+>>>>>>> .r3
+
+<<<<<<< .mine
+A região promotora e seus elementos regulatórios, presentes na estrutura de cada gene, são fundamentais para o processo de transcrição de um gene. Por isso, entre outros aspectos, o conhecimento dos elementos regulatórios e dos fatores de transcrição é essencial para o entendimento da regulação de um determinado gene \cite{WangHaberer2009} e um passo fundamental na construção da rede de regulação de um gene.  Esse conhecimento é fundamental para interpretar e modelar as respostas de uma célula a diversos estímulos \cite{Wasserman2004}.
+
+Na soja, que é uma cultura amplamente usada na alimentação mundial, são poucos os estudos computacionais direcionados para a predição dos elementos regulatórios. Existem algumas ferramentas para a identificação dos elementos regulatórios em plantas e bancos de dados como o PLACE \cite{Higo1999}, AGRIS \cite{Palaniswamy2006} e o PlantCARE \cite{Rombauts1999}, mas a maior parte dos dados contidos neles, são referentes a planta Arabidopsis.
+
+Com a descoberta de novos elementos regulatórios na soja e fatores de transcrição, é possível desenvolver através de engenharia genética, plantas tolerantes a estresses. Aumentando a produtividade e a qualidade dos grãos, assim como evitar o uso de agrotóxicos na cultivação da cultura.
+=======
+A identificação experimental de elementos regulatórios é  cara, demorada e difícil. Isso faz dos métodos computacionais as ferramentas ideais para predizer elementos regulatórios, antecipando os estudos experimentais de regulação da expressão gênica.>>>>>>> .r3

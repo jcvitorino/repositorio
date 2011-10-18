@@ -1,0 +1,35 @@
+
+\documentclass[12pt,a4paper,ruledheader]{abnt}
+\usepackage[utf8x]{inputenc}
+%\usepackage[utf8]{inputenc}
+\usepackage[center]{caption2}
+\usepackage[brazil]{babel}
+\usepackage{tabularx} % para tabelas grandes
+
+\usepackage[pdftex]{graphicx}
+%\usepackage{abnt-alf}
+\usepackage{latexsym}
+\usepackage{ae}
+\usepackage{hyperref}
+\usepackage[alf]{abntcite}
+\usepackage{lscape}
+\usepackage{multirow}
+\renewcommand{\rmdefault}{aess}
+\renewcommand{\sfdefault}{aess}
+	
+\setlength{\parindent}{1.6cm}
+
+\begin{document}
+
+\include{./capa}
+\tableofcontents
+\include{./resumo} %introduçao
+\include{./fundamentacao} % parte biologica
+\include{./artigo1} % parte computacional
+\include{./objetivos} % conclusão
+
+\bibliographystyle{abnt-alf}
+\bibliography{bibliografia/bibliografia}
+
+\end{document}
+

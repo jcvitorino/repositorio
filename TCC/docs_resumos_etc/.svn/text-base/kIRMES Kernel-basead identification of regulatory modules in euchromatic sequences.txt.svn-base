@@ -1,0 +1,8 @@
+*Busca de CRM
+
+O objetivo deste trabalho é a identificaçã de cis-regulatoey modules (CRMs). Muitos genes de organismos eucarioticos são controlados por uma combinação de fatores de transcrição e suas respectivas regiões onde irão se ligar(cis-regulatory ou elementos regulatórios) formando clusters homogêneos ou heterogêneos que são conhecidos como cis-regulatory module.
+Em sintese a implementação do método proposto foi composta em dois passos. Primeiro foram buscados motifs usando ferramentas como o "de novo" ou banco de dados publicos como o TRANSFAC ou JASPAR. Então foram usados support vector machines (SVMs) com o kernel regulatory modules (RM) para classificar as sequências promotoras.
+
+Para classificar uma sequência com o SVM é utilizado um label que atribui +1 em uma sequência que pertença ao grupo de sequências que é regulada pela mesma combinação de fatores de transcrição (TFs), caso contrario é atribuido -1.
+
+O algoritmo para a classificação foi implementado em Python. Para o SVM foi utilizando um kernel proposto pelos autores que combina o Kernel WDSC e RBF. O organismo usado como teste e validação do metodo foi a Arabidopsis Thaliana.

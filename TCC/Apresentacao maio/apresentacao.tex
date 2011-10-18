@@ -1,0 +1,37 @@
+\documentclass[12pt,a4paper,twocolumn,titlepage]{beamer}
+\usepackage{beamerthemeAntibes}%tema beamer
+\usepackage[utf8x]{inputenc}
+\usepackage{ragged2e}%para usar \justifying
+\usepackage[brazil]{babel}
+\usepackage{ucs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\author{Josué Crispim}
+\title{Estratégias computacionais para a busca de genes alvos de \textit{ dehydration responsive binding proteins} (DREBs) na soja}
+
+\begin{document}
+	\frame{\titlepage}
+	
+%Apresentar conteudo em cada transição de assunto
+\AtBeginSection[]
+{
+   \begin{frame}
+       \frametitle{Sumário}
+       \tableofcontents[currentsection]
+   \end{frame}
+}
+
+\include{./transcricao}
+\include{./elementos_regulatorios}
+\include{./drebs}
+\include{./busca_elemetos}
+\include{./busca_drebs}
+\include{./conclusoes}
+
+%\bibliographystyle{abnt-alf}
+  \frame{
+    \frametitle{Bibliografia}
+\bibliography{bibliografia}
+}
+\end{document}

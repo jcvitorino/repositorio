@@ -1,0 +1,20 @@
+\chapter{Artigos estudados}
+
+\section{An exact algorithm to identify motifs in orthologous sequences from multiple species.}
+
+Autores \cite{Blanchette2000}.
+
+A abordagem proposta neste trabalho é o desenvolvimento de um algoritmo que processa entradas de sequências de espécies ortólogas. Tendo como entrada uma arvore filogenética, sequências promotoras de varias espécies e o tamanho $k$ dos elemntos regulatórios. Do ponto de vista computacional, o problema pode ser modelado como: dado um conjunto de sequências $s_{1},s_{2},..,s_{n}$, uma sequência de cada uma das espécies relacionadas. Procurar por subsequências $t_{1},t_{2},..,t_{n}$, onde $t_{i}$ pertence a $s_{i}$, tal que $t_{1},t_{2},..,t_{3}$ tem uma medida de mútua similaridade não usual alta. Uma medida alta de mútua similaridade não usual, é quando sequências de diferentes espécies não muito proximas apresentam grandes similaridades.
+% O algoritmo descrito abaixo resolve o problema da parsimonia
+A arvore de entrada pode ser modelada como um grafo $T = (V,E)$ com as $n$ espécies nas folhas da arvore, e a mútua similaridade é medida por parsimonia. Supondo que $T$ é numerada nas folhas de $1,2,...,n$ e que os nós internos de $n+1,n+2,...|V|$. O problema da parsimonia é encontrar substrings $t_{1},t_{2},...,t_{n}$ de $s_{1},s_{2},...,s_{n}$ e strings $t_{n+1},t_{n+2},...,t_{|V|}$ que minimize: $ P(T) = \sum_{u,v \in E} d(t_{u},t_{v})$. Onde $d(t,t')$ é a distância de Hamming entre $t$ e $t'$ e o tamanho de $t_{i}$ é $k$.
+
+O algoritmo computa e guarda para cada nó $v$ da arvore e cada subsequência $t \in \sum^{k}$, onde $\sum = {A,C,G,T}$, a pontuação da subarvore $d_{v}^*(t)$. $d_{v}^*(t)$ é a menor pontuação de parsimonia na subarvore $v$ rotulada por $t$. As pontuações das subarvores são calculadas recursivamente partindo das folhas até a raiz. Para cada folha $v$ se $t$ é uma substring de $s_{v}$ de tamanho $k$ então $d_{v}^*(t) := 0$ senão $d_{v}^*(t) := \infty$. Para os nos $v$ internos com filhos $C(v)$ e qualquer sequencia $t \in \sum_{k}$, $d_{v}^* = \sum_{w \in C(v)} min_{t' \in \sum^{k}}(d_{w}^*(t')+d(t',t)$. A melhor pontuação para a toda a arvore é a melhor pontuação do nó raiz $r$, nomeado de $min_{t} \in \sum^{k} d_{r}^*(t)$.
+
+Depois de encontrada uma sequência $t_{r}$ otima, escolhas otimas para encontrar sequências $t_{w}$ para os outros nós $w$ podem novamente serem encontradas recurcivamente movendo da raiz até as folhas. No caso onde $t_{v}$ foi determinada para um nó pai $v$ de um nó $w$, então $t'$ é uma escolha otima para $t_{w}$ se e somente se $d_{w}^*(t')+d(t',t_{v})$ é minimo. Esta implementação é a mais simples do problema da parsimonia e também tem um elevado custo computacional de $O(nk(l +4_{2k}))$, no mesmo trabalho os autores sugerem modificações para diminuir o custo computacionalp para $O(nk(l +4_{k}))$, permitindo que o usuario entre com um valor de $k$ maior.
+
+O algoritmo foi aplicado na região promotora de diversar espécies ortologas. Em plantas foi utilizado para encontrar os elementos regulatórios que regulam o gene ribulose-1,5-bisphophate carboxylase \textit{(rbcS)} e de genes do chloroplast genome. Também usado em algumas espécies de \textit{Drosophila} para no gene alcohol-dehydrogenase(adh).
+
+Para analizar a significancia de uma região conservada $R$ de sequências $s_{1},s_{2},...,s_{n}$ na arvore $T$, foram geradas sequências $r_{1},...,r_{n}$ que simulava a evolução de $s_{1},...,s_{n}$ mas sem pressão seletiva ou alguma lacuna. Eles geraram um conjunto $G$ de $p$ conjuntos de sequências $r_{1},...,r_{n}$ com divergencia similar de $s_{1},...,s_{n}$ aplicando um algoritmo proposto neste trabalho para a geração do conjunto, e então aplicaram o algoritmo anterior no conjunto G gerado.
+%Então aplicado um algoritmo que  $div(T,s_{1},...,s_{n})$ é a quantidade de divergencia que ocorreu durante a evolução de $s_{1},...,s_{n}$ na arvore $T$. Onde $div(T,s_{1},...,s_{n})$ é a arvore de evolução minima.
+
+

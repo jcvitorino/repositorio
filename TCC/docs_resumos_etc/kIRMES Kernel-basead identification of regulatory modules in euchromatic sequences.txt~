@@ -1,0 +1,15 @@
+Para classificar uma sequência com o SVM é utilizado um label que atribui +1 em uma sequência que pertença ao grupo de sequências que é regulada pela mesma combinação de fatores de transcrição (TFs), caso contrario é atribuido -1.
+
+Nuvem(Kernels e interpretação dos resultados)
+
+*Busca de CRM
+
+O objetivo deste trabalho é a identificação de cis-regulatory modules (CRMs). Muitos genes de organismos eucarioticos são controlados por uma combinação de fatores de transcrição e suas respectivas regiões onde irão se ligar(cis-regulatory ou elementos regulatórios) formando clusters homogêneos ou heterogêneos que são conhecidos como cis-regulatory module.
+Em sintese a implementação do método proposto foi composta em dois passos. Primeiro foram buscados motifs usando ferramentas como o "de novo" ou banco de dados publicos como o TRANSFAC ou JASPAR. Então foram usados support vector machines (SVMs) com o kernel regulatory modules (RM) para classificar as sequências promotoras.
+
+O algoritmo para a classificação foi implementado em Python. Para o SVM foi utilizando um kernel proposto pelos autores que combina o Kernel WDSC e RBF. O organismo usado como teste e validação do metodo foi a Arabidopsis Thaliana.
+
+O primeiro passo é encontrar os motifs M e criar subkernels para os M motifs. Para não incluir motifs que eram muito similares foram utilizadas 3 estratégias: criados modelos de background para os organismos; o minimo de ocorrencia de um motif éra de 15% ou 3 genes de um conjunto; ultima 1000 genes randomicos foram gerados, e procurados motifd de tamanhos iguais. Isto foi calculado utilizando o Gibbs sampling(?Porq não podem ser similares?). Como sequencias de tamanho grande consomem muito tempo dependendo da entrada. Foi usada uma abordagem onde contava-se todas as ocorrencias de oligomers de tamanho 6. Então desses oligomers foram escolhidos os que apareciam em pelo menos 15% de todas as sequencias.
+O o proximo passo foi o treinamento do SVM, o SVM utilizado foi o SHOGUN. Foi criado um Kernel para cada motif candidato M usando um janela de 20bp para cada ocorrencia em cada sequencia. Por ultimo são interpretados os resultados.
+
+

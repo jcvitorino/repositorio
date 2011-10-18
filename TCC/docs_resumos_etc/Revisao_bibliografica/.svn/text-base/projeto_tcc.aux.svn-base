@@ -1,0 +1,227 @@
+\relax 
+\catcode`"\active
+\ifx\hyper@anchor\@undefined
+\global \let \oldcontentsline\contentsline
+\gdef \contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global \let \oldnewlabel\newlabel
+\gdef \newlabel#1#2{\newlabelxx{#1}#2}
+\gdef \newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\let \contentsline\oldcontentsline
+\let \newlabel\oldnewlabel}
+\else
+\global \let \hyper@last\relax 
+\fi
+
+<<<<<<< .mine
+\citation{abnt-url-package=hyperref}
+=======
+\citation{abnt-url-package=hyperref}
+\citation{abnt-nbr10520=2002}
+>>>>>>> .r3
+\@input{./capa.aux}
+\select@language{brazil}
+\@writefile{toc}{\select@language{brazil}}
+\@writefile{lof}{\select@language{brazil}}
+\@writefile{lot}{\select@language{brazil}}
+\@input{./resumo.aux}
+\@input{./fundamentacao.aux}
+\@input{./objetivos.aux}
+\@input{./procedimento.aux}
+\@input{./justificativa.aux}
+\@input{./cronograma.aux}
+\bibstyle{abnt-alf}
+<<<<<<< .mine
+\bibdata{abnt-options,bibliografia/bibliografia}
+\bibcite{Agarwal2006}{Agarwal et al.}
+\bibciteEXPL{Agarwal2006}{Agarwal et al.}
+\bibciteIMPL{Agarwal2006}{AGARWAL et al.}
+\bibciteYEAR{Agarwal2006}{}
+\bibcite{Alberts2002}{Alberts 2002}
+\bibciteEXPL{Alberts2002}{Alberts}
+\bibciteIMPL{Alberts2002}{ALBERTS}
+\bibciteYEAR{Alberts2002}{2002}
+\bibcite{Bailey2006}{Bailey et al. 2006}
+\bibciteEXPL{Bailey2006}{Bailey et al.}
+\bibciteIMPL{Bailey2006}{BAILEY et al.}
+\bibciteYEAR{Bailey2006}{2006}
+\bibcite{Berg2007}{Berg, Tymoczko e Stryer 2007}
+\bibciteEXPL{Berg2007}{Berg, Tymoczko e Stryer}
+\bibciteIMPL{Berg2007}{BERG; TYMOCZKO; STRYER}
+\bibciteYEAR{Berg2007}{2007}
+\bibcite{Blanchette2002}{Blanchette e Tompa 2002}
+\bibciteEXPL{Blanchette2002}{Blanchette e Tompa}
+\bibciteIMPL{Blanchette2002}{BLANCHETTE; TOMPA}
+\bibciteYEAR{Blanchette2002}{2002}
+\bibcite{Carmack2007}{Carmack et al. 2007}
+\bibciteEXPL{Carmack2007}{Carmack et al.}
+\bibciteIMPL{Carmack2007}{CARMACK et al.}
+\bibciteYEAR{Carmack2007}{2007}
+\bibcite{Chan2005}{Chan e Kibler 2005}
+\bibciteEXPL{Chan2005}{Chan e Kibler}
+\bibciteIMPL{Chan2005}{CHAN; KIBLER}
+\bibciteYEAR{Chan2005}{2005}
+\bibcite{Das2007}{Das e Dai 2007}
+\bibciteEXPL{Das2007}{Das e Dai}
+\bibciteIMPL{Das2007}{DAS; DAI}
+\bibciteYEAR{Das2007}{2007}
+\bibcite{Eskin2002}{Eskin e Pevzner 2002}
+\bibciteEXPL{Eskin2002}{Eskin e Pevzner}
+\bibciteIMPL{Eskin2002}{ESKIN; PEVZNER}
+\bibciteYEAR{Eskin2002}{2002}
+\bibcite{Helden1998}{Helden, Andr\'{e} e Collado-Vides 1998}
+\bibciteEXPL{Helden1998}{Helden, Andr\'{e} e Collado-Vides}
+\bibciteIMPL{Helden1998}{HELDEN; ANDR\'{e}; COLLADO-VIDES}
+\bibciteYEAR{Helden1998}{1998}
+\bibcite{Higgs2005}{Higgs e Attwood 2005}
+\bibciteEXPL{Higgs2005}{Higgs e Attwood}
+\bibciteIMPL{Higgs2005}{HIGGS; ATTWOOD}
+\bibciteYEAR{Higgs2005}{2005}
+\@writefile{toc}{\contentsline {chapter}{Refer\^encias}{20}{table.6.2}}
+\bibcite{Higo1999}{Higo et al. 1999}
+\bibciteEXPL{Higo1999}{Higo et al.}
+\bibciteIMPL{Higo1999}{HIGO et al.}
+\bibciteYEAR{Higo1999}{1999}
+\bibcite{Hu2005}{Hu, Li e Kihara 2005}
+\bibciteEXPL{Hu2005}{Hu, Li e Kihara}
+\bibciteIMPL{Hu2005}{HU; LI; KIHARA}
+\bibciteYEAR{Hu2005}{2005}
+\bibcite{Lawrence1993}{Lawrence et al. 1993}
+\bibciteEXPL{Lawrence1993}{Lawrence et al.}
+\bibciteIMPL{Lawrence1993}{LAWRENCE et al.}
+\bibciteYEAR{Lawrence1993}{1993}
+\bibcite{Lawrence1990}{Lawrence e Reilly 1990}
+\bibciteEXPL{Lawrence1990}{Lawrence e Reilly}
+\bibciteIMPL{Lawrence1990}{LAWRENCE; REILLY}
+\bibciteYEAR{Lawrence1990}{1990}
+\bibcite{LiuBrutlag2001}{Liu, Brutlag e Liu 2001}
+\bibciteEXPL{LiuBrutlag2001}{Liu, Brutlag e Liu}
+\bibciteIMPL{LiuBrutlag2001}{LIU; BRUTLAG; LIU}
+\bibciteYEAR{LiuBrutlag2001}{2001}
+\bibcite{LiuBrutlag2002}{Liu, Brutlag e Liu 2002}
+\bibciteEXPL{LiuBrutlag2002}{Liu, Brutlag e Liu}
+\bibciteIMPL{LiuBrutlag2002}{LIU; BRUTLAG; LIU}
+\bibciteYEAR{LiuBrutlag2002}{2002}
+\bibcite{Palaniswamy2006}{Palaniswamy et al. 2006}
+\bibciteEXPL{Palaniswamy2006}{Palaniswamy et al.}
+\bibciteIMPL{Palaniswamy2006}{PALANISWAMY et al.}
+\bibciteYEAR{Palaniswamy2006}{2006}
+\bibcite{Rombauts1999}{Rombauts et al. 1999}
+\bibciteEXPL{Rombauts1999}{Rombauts et al.}
+\bibciteIMPL{Rombauts1999}{ROMBAUTS et al.}
+\bibciteYEAR{Rombauts1999}{1999}
+\bibcite{Rombauts2003}{Rombauts et al. 2003}
+\bibciteEXPL{Rombauts2003}{Rombauts et al.}
+\bibciteIMPL{Rombauts2003}{ROMBAUTS et al.}
+\bibciteYEAR{Rombauts2003}{2003}
+\bibcite{Roth1998}{Roth et al. 1998}
+\bibciteEXPL{Roth1998}{Roth et al.}
+\bibciteIMPL{Roth1998}{ROTH et al.}
+\bibciteYEAR{Roth1998}{1998}
+\bibcite{Sinha2004}{Sinha, Blanchette e Tompa 2004}
+\bibciteEXPL{Sinha2004}{Sinha, Blanchette e Tompa}
+\bibciteIMPL{Sinha2004}{SINHA; BLANCHETTE; TOMPA}
+\bibciteYEAR{Sinha2004}{2004}
+\bibcite{Sinha2003}{Sinha e Tompa 2003}
+\bibciteEXPL{Sinha2003}{Sinha e Tompa}
+\bibciteIMPL{Sinha2003}{SINHA; TOMPA}
+\bibciteYEAR{Sinha2003}{2003}
+\bibcite{Thijs2002}{Thijs et al. 2002}
+\bibciteEXPL{Thijs2002}{Thijs et al.}
+\bibciteIMPL{Thijs2002}{THIJS et al.}
+\bibciteYEAR{Thijs2002}{2002}
+\bibcite{Wang2009}{Wang et al. 2009}
+\bibciteEXPL{Wang2009}{Wang et al.}
+\bibciteIMPL{Wang2009}{WANG et al.}
+\bibciteYEAR{Wang2009}{2009}
+\bibcite{Wang2005}{Wang 2005}
+\bibciteEXPL{Wang2005}{Wang}
+\bibciteIMPL{Wang2005}{WANG}
+\bibciteYEAR{Wang2005}{2005}
+\bibcite{Wang2003}{Wang e Stormo 2003}
+\bibciteEXPL{Wang2003}{Wang e Stormo}
+\bibciteIMPL{Wang2003}{WANG; STORMO}
+\bibciteYEAR{Wang2003}{2003}
+\bibcite{WangHaberer2009}{Wang, Haberer e Mayer 2009}
+\bibciteEXPL{WangHaberer2009}{Wang, Haberer e Mayer}
+\bibciteIMPL{WangHaberer2009}{WANG; HABERER; MAYER}
+\bibciteYEAR{WangHaberer2009}{2009}
+\bibcite{Wasserman2004}{Wasserman e Sandelin 2004}
+\bibciteEXPL{Wasserman2004}{Wasserman e Sandelin}
+\bibciteIMPL{Wasserman2004}{WASSERMAN; SANDELIN}
+\bibciteYEAR{Wasserman2004}{2004}
+\bibcite{Zaha2000}{Zaha 2000}
+\bibciteEXPL{Zaha2000}{Zaha}
+\bibciteIMPL{Zaha2000}{ZAHA}
+\bibciteYEAR{Zaha2000}{2000}
+=======
+\bibdata{abnt-options,bibliografia/bibliografia}
+\bibcite{Agarwal2006}{Agarwal et al.}
+\bibciteEXPL{Agarwal2006}{Agarwal et al.}
+\bibciteIMPL{Agarwal2006}{AGARWAL et al.}
+\bibciteYEAR{Agarwal2006}{}
+\bibcite{Bailey2006}{Bailey et al. 2006}
+\bibciteEXPL{Bailey2006}{Bailey et al.}
+\bibciteIMPL{Bailey2006}{BAILEY et al.}
+\bibciteYEAR{Bailey2006}{2006}
+\bibcite{Blanchette2002}{Blanchette e Tompa 2002}
+\bibciteEXPL{Blanchette2002}{Blanchette e Tompa}
+\bibciteIMPL{Blanchette2002}{BLANCHETTE; TOMPA}
+\bibciteYEAR{Blanchette2002}{2002}
+\bibcite{Carmack2007}{Carmack et al. 2007}
+\bibciteEXPL{Carmack2007}{Carmack et al.}
+\bibciteIMPL{Carmack2007}{CARMACK et al.}
+\bibciteYEAR{Carmack2007}{2007}
+\bibcite{Chan2005}{Chan e Kibler 2005}
+\bibciteEXPL{Chan2005}{Chan e Kibler}
+\bibciteIMPL{Chan2005}{CHAN; KIBLER}
+\bibciteYEAR{Chan2005}{2005}
+\bibcite{Das2007}{Das e Dai 2007}
+\bibciteEXPL{Das2007}{Das e Dai}
+\bibciteIMPL{Das2007}{DAS; DAI}
+\bibciteYEAR{Das2007}{2007}
+\bibcite{Eskin2002}{Eskin e Pevzner 2002}
+\bibciteEXPL{Eskin2002}{Eskin e Pevzner}
+\bibciteIMPL{Eskin2002}{ESKIN; PEVZNER}
+\bibciteYEAR{Eskin2002}{2002}
+\bibcite{Helden1998}{Helden, Andr\'{e} e Collado-Vides 1998}
+\bibciteEXPL{Helden1998}{Helden, Andr\'{e} e Collado-Vides}
+\bibciteIMPL{Helden1998}{HELDEN; ANDR\'{e}; COLLADO-VIDES}
+\bibciteYEAR{Helden1998}{1998}
+\bibcite{Lawrence1993}{Lawrence et al. 1993}
+\bibciteEXPL{Lawrence1993}{Lawrence et al.}
+\bibciteIMPL{Lawrence1993}{LAWRENCE et al.}
+\bibciteYEAR{Lawrence1993}{1993}
+\bibcite{Rombauts2003}{Rombauts et al. 2003}
+\bibciteEXPL{Rombauts2003}{Rombauts et al.}
+\bibciteIMPL{Rombauts2003}{ROMBAUTS et al.}
+\bibciteYEAR{Rombauts2003}{2003}
+\@writefile{toc}{\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{9}{chapter.3}}
+\bibcite{Roth1998}{Roth et al. 1998}
+\bibciteEXPL{Roth1998}{Roth et al.}
+\bibciteIMPL{Roth1998}{ROTH et al.}
+\bibciteYEAR{Roth1998}{1998}
+\bibcite{Sinha2004}{Sinha, Blanchette e Tompa 2004}
+\bibciteEXPL{Sinha2004}{Sinha, Blanchette e Tompa}
+\bibciteIMPL{Sinha2004}{SINHA; BLANCHETTE; TOMPA}
+\bibciteYEAR{Sinha2004}{2004}
+\bibcite{Sinha2003}{Sinha e Tompa 2003}
+\bibciteEXPL{Sinha2003}{Sinha e Tompa}
+\bibciteIMPL{Sinha2003}{SINHA; TOMPA}
+\bibciteYEAR{Sinha2003}{2003}
+\bibcite{Thijs2002}{Thijs et al. 2002}
+\bibciteEXPL{Thijs2002}{Thijs et al.}
+\bibciteIMPL{Thijs2002}{THIJS et al.}
+\bibciteYEAR{Thijs2002}{2002}
+\bibcite{Wang2009}{Wang et al. 2009}
+\bibciteEXPL{Wang2009}{Wang et al.}
+\bibciteIMPL{Wang2009}{WANG et al.}
+\bibciteYEAR{Wang2009}{2009}
+\bibcite{Wang2005}{Wang 2005}
+\bibciteEXPL{Wang2005}{Wang}
+\bibciteIMPL{Wang2005}{WANG}
+\bibciteYEAR{Wang2005}{2005}
+\bibcite{Wang2003}{Wang e Stormo 2003}
+\bibciteEXPL{Wang2003}{Wang e Stormo}
+\bibciteIMPL{Wang2003}{WANG; STORMO}
+\bibciteYEAR{Wang2003}{2003}
+>>>>>>> .r3

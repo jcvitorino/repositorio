@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: revisao_bibliografica.aux
+A level-1 auxiliary file: ./fundamentacao.aux
+The style file: abnt-alf.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: abnt-options.bib
+Database file #2: bibliografia/bibliografia.bib
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
++---------------------------------------------------------+
+| Estilo bibliografico abnt-alf.bst versao 1.52           |
+| Implementa a NBR6023, NBR10520 e NBR10523               |
+| Em caso de duvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 3 entries,
+            6523 wiz_defined-function locations,
+            1176 strings with 9726 characters,
+and the built_in function-call counts, 4300 in all, are:
+= -- 642
+> -- 52
+< -- 93
++ -- 153
+- -- 15
+* -- 221
+:= -- 513
+add.period$ -- 5
+call.type$ -- 4
+change.case$ -- 21
+chr.to.int$ -- 5
+cite$ -- 1
+duplicate$ -- 407
+empty$ -- 168
+format.name$ -- 70
+if$ -- 907
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 40
+newline$ -- 15
+num.names$ -- 5
+pop$ -- 64
+preamble$ -- 1
+purify$ -- 11
+quote$ -- 0
+skip$ -- 545
+stack$ -- 1
+substring$ -- 182
+swap$ -- 115
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 13
+width$ -- 0
+write$ -- 26

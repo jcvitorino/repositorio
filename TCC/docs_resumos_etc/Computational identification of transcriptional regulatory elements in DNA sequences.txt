@@ -1,0 +1,28 @@
+Representação e busca de elementos regulatórios
+
+*Modelos de representação (padrão e PWM)
+*Metodologia adotada para escolhas das sequências
+*Dificuldades para encontrar elementos regulatórios
+*Modelagens para diminuir as taxas de falsos positivos
+*Algoritmos de identificação de elementos regulatórios
+	*word-based, 
+	*probalilistico, 
+	*comparação entre genomas, 
+	*modulos de elementos regulatórios.
+
+
+Comumente motifs(pequeno seguimento na sequência, que seguem um padrão), são modelados por padrões(expressão regular), seguindo a usual representação de palavras com quatro letras representadas pelo alfabeto (A,C,G,T) que representam as bases, ou por matrizes de peso (PWMs de position weight matrices ou PSSM position-specific scoring matrices), onde são matrizes com 4xL, onde cada uma das quatro linhas representa uma base e as colunas uma posição na sequência de tamanho L, em cada célula da matriz está a frequência de cada base em umas das posições. Caso ocorra uma variação em uma posição específica é utilizado a representação IUPAC. Alguns DNA-biding site motifs são bipartidos, eles têm duas metades que algumas vezes são separadas por um(s) elementos espaçadores entre as metádes. Estes tipos de motifs bipartidos são frequêntimente palindromes, por exemplo 5'-CGGnnnnnnnnnnnCCG-3'. Existem dois compreensivos bancos de dados para TFs JASPAR e TRANSFAC. *****ENTENDER MELHOR E ACHAR UM MANEIRA PARA FALAR******
+
+Em ambas as representações por padrões e PWM, a significancia de um motif em particular é dada pela medida da porcentagem estatística de um motif dado um dado. Em caso de padrões pode-se utilizar procedimentos estatísticos padrões para encontrar todas as ocorrencias de um padrão. Utilizado muito esse método para encontrar motifs sobre-representados em uma sequência. Já em PWM a significancia é comumente dada pela informação do conteúdo(IC, também chamado de entropia relativa, no artigo detalha a formula).
+
+Dado um DNA motif, encontrar sequências candidatas é simples, mas diferenciar sitios reais dos não reais é dificíl. Por ser facíl em algumas buscas o sinal-ruído é frequêntemente pequeno. O problema para distinguir verdadeiro do falso é pelo fato que muitos elementos regulatórios são usualmente degenerados e muitas subsequências podem se combinar dado um motif.(no artigo tem um caso com um motif de uma levedura).
+
+Para distinguir elementos regulatórios verdadeiros dos falsos existêm métodos computacionais para contornar isto. Como Ic verdadeiro menos o IC esperado, ou calcular as taxas previstas em sequências que contem elementos conhecidos e em sequências que  possivelmente não contem, então as previssões falsas positivas são computadas. Entre outros modelos que determinam o limite ou corte para a discriminação dos dados verdadeiros dos falsos.
+
+Identificação de elementos regulatórios
+
+A busca por padrão pode ser descrita como, dado um conjunto de sequências de DNA e um tamanho L, o objetivo é identificar os padrões  mais significantes de tamanhos L. Como solução podemos gerar todos os possíveis padrões na sequência, então buscar o numero de ocorrência de cada padrão, reportando os que tiverem a maior frequência, como sendo os mais significativos. Este tipo de técnica garante bons resultados, até mesmo em padrões degenerados. Porém a procura por padrões com tamanhos grandes em um espaço de 4^L, têm um grande custo computacional, fazendo que se torne inviavel para buscas com L > 10. Para contornar este problema recorre-se ao uso de dados pré-processados, para diminuir o espaço e a busca se tornar menos custosa. Ou combinar a sobreposição de pequenos padrões encontrados para encontrar padrões maiores e mais complexos. Também, pode-se usar arvores sufixas que diminuem a complexidade e aumenta o tamanho de L. Estes tipos de abordagens também são conhecidas como abordagens de busca baseada em palavras.
+
+Nos metodos dirigidos pelas sequências o objetivo é encontrar a localização dos motifs e a PWM representativa usando apenas os dados da sequência, como a informação da localização dos motifs não é conhecida, está informação tem que ser aprendida. Para isto utiliza-se algoritmos de aprendizagem de maquina. Varios algoritmos foram propostos utilizando esta abordagem, como algoritmos gulosos, expectation-maximization (EM), Gibbs samplis entre outros.
+
+Outras abordagens  que vêm se destacando são: o de comparação entre os genomas para a busca dos elementos reguçatórios e da busca de modulos de elementos regualtórios.

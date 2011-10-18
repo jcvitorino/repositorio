@@ -1,0 +1,135 @@
+\relax 
+<<<<<<< .mine
+\citation{Zaha2000}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}FUNDAMENTA\IeC {\c C}\IeC {\~A}O TE\IeC {\'O}RICO-METODOL\IeC {\'O}GICA}{4}{chapter.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}In\IeC {\'\i }cio da regula\IeC {\c c}\IeC {\~a}o de um gene}{4}{section.2.1}}
+\citation{Zaha2000}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.1}\IeC {\'A}cidos nucleicos}{5}{subsection.2.1.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Componentes de um nucleot\IeC {\'\i }deo}}{5}{figure.2.1}}
+\newlabel{fig:nucleotideo}{{1}{5}{Componentes de um nucleotídeo\relax }{figure.2.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Sequ\IeC {\^e}ncia linear de nucleot\IeC {\'\i }deos ligados}}{5}{figure.2.2}}
+\newlabel{fig:sequencia_nucleotideo}{{2}{5}{Sequência linear de nucleotídeos ligados\relax }{figure.2.2}{}}
+\citation{Berg2007}
+\citation{Berg2007}
+\citation{Higgs2005}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Tipos de a\IeC {\c c}\IeC {\'u}car encontrados nos \IeC {\'a}cidos nucleicos. \cite  [Adaptada]{Berg2007})}}{6}{figure.2.3}}
+\newlabel{fig:tipos_acucar}{{3}{6}{Tipos de açúcar encontrados nos ácidos nucleicos. \cite [Adaptada]{Berg2007})\relax }{figure.2.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Estrutura do DNA e RNA. \cite  [Adaptada]{Higgs2005}}}{6}{figure.2.4}}
+\newlabel{fig:estrutura_DNA_RNA}{{4}{6}{Estrutura do DNA e RNA. \cite [Adaptada]{Higgs2005}\relax }{figure.2.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Reapresenta\IeC {\c c}\IeC {\~a}o do RNA e DNA}}{7}{figure.2.5}}
+\newlabel{fig:repre_sequencia}{{5}{7}{Reapresentação do RNA e DNA\relax }{figure.2.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Principais passos da express\IeC {\~a}o de gen\IeC {\'e}tica}}{7}{figure.2.6}}
+\newlabel{fig:passo_expresscao_genica}{{6}{7}{Principais passos da expressão de genética\relax }{figure.2.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.2} Transcri\IeC {\c c}\IeC {\~a}o e a s\IeC {\'\i }ntese de RNA}{7}{subsection.2.1.2}}
+\citation{Higgs2005}
+\citation{Higgs2005}
+\citation{Alberts2002}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces RNA formado, complementar ao filamento modelo}}{8}{figure.2.7}}
+\newlabel{fig:seq_DNA_molde_e_nao_model}{{7}{8}{RNA formado, complementar ao filamento modelo\relax }{figure.2.7}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Forma\IeC {\c c}\IeC {\~a}o do RNA atrav\IeC {\'e}s da RNA polimerase \cite  [Adaptada]{Higgs2005}}}{9}{figure.2.8}}
+\newlabel{fig:RNAPOLII}{{8}{9}{Formação do RNA através da RNA polimerase \cite [Adaptada]{Higgs2005}\relax }{figure.2.8}{}}
+\citation{Zaha2000}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces RNA polimerase e os fatores de transcri\IeC {\c c}\IeC {\~a}o gerais \cite  [Adaptada]{Alberts2002} }}{10}{figure.2.9}}
+\newlabel{fig:complexo_RNA-polimerase}{{9}{10}{RNA polimerase e os fatores de transcrição gerais \cite [Adaptada]{Alberts2002} \relax }{figure.2.9}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Regi\IeC {\~a}o promotora e as sequ\IeC {\^e}ncias consenso}}{10}{figure.2.10}}
+\newlabel{fig:promotores_noDNA}{{10}{10}{Região promotora e as sequências consenso\relax }{figure.2.10}{}}
+\citation{Agarwal2006}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.3}Elementos regulat\IeC {\'o}rios}{11}{subsection.2.1.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.4}Fatores de transcri\IeC {\c c}\IeC {\~a}o que ativam elementos regulat\IeC {\'o}rios em resposta a estresses abi\IeC {\'o}ticos}{11}{subsection.2.1.4}}
+\citation{Agarwal2006}
+\citation{Rombauts2003}
+\citation{Rombauts2003}
+\citation{Das2007}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}M\IeC {\'e}todos computacionais para a predi\IeC {\c c}\IeC {\~a}o de elementos regulat\IeC {\'o}rios}{12}{section.2.2}}
+\citation{Rombauts2003}
+\citation{Helden1998}
+\citation{Das2007}
+\citation{Lawrence1990}
+\citation{Wang2009}
+\citation{Chan2005}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Algoritmos de predi\IeC {\c c}\IeC {\~a}o baseada em palavras}{13}{subsection.2.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Algoritmos de predi\IeC {\c c}\IeC {\~a}o probabil\IeC {\'\i }stica}{13}{subsection.2.2.2}}
+\citation{Hu2005}
+\citation{Roth1998}
+\citation{LiuBrutlag2001}
+\citation{LiuBrutlag2002}
+\citation{Bailey2006}
+\citation{Thijs2002}
+\citation{Blanchette2002}
+\citation{Das2007}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.3}Algoritmos baseados em rastros filogen\IeC {\'e}ticos}{14}{subsection.2.2.3}}
+\citation{Sinha2004}
+\citation{Helden1998}
+\citation{Sinha2003}
+\citation{Eskin2002}
+\citation{Bailey2006}
+\citation{Lawrence1993}
+\citation{Roth1998}
+\citation{Thijs2002}
+\citation{Blanchette2002}
+\citation{Wang2005}
+\citation{Carmack2007}
+\citation{Carmack2007}
+\citation{Wang2003}
+\citation{Sinha2004}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.4}Algoritmos que combinam t\IeC {\'e}cnicas probabil\IeC {\'\i }sticas e de rastros filogen\IeC {\'e}ticos}{15}{subsection.2.2.4}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Implementa\IeC {\c c}\IeC {\~o}es de modelos de predi\IeC {\c c}\IeC {\~a}o}}{15}{table.2.1}}
+\newlabel{tab:metodos_busca_elementos}{{1}{15}{Implementações de modelos de predição\relax }{table.2.1}{}}
+=======
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}FUNDAMENTA\IeC {\c C}\IeC {\~A}O TE\IeC {\'O}RICO-METODOL\IeC {\'O}GICA}{4}{chapter.2}}
+\citation{Agarwal2006}
+\citation{Agarwal2006}
+\citation{Das2007}
+\citation{Rombauts2003}
+\citation{Das2007}
+\citation{Das2007}
+\citation{Wang2009}
+\citation{Chan2005}
+\citation{Helden1998}
+\citation{Sinha2003}
+\citation{Eskin2002}
+\citation{Bailey2006}
+\citation{Lawrence1993}
+\citation{Roth1998}
+\citation{Thijs2002}
+\citation{Blanchette2002}
+\citation{Wang2005}
+\citation{Carmack2007}
+\citation{Carmack2007}
+\citation{Wang2003}
+\citation{Sinha2004}
+\@writefile{lot}{\contentsline {table}{\numberline {2.1}{\ignorespaces Implementa\IeC {\c c}\IeC {\~o}es de modelos de predi\IeC {\c c}\IeC {\~a}o}}{7}{table.2.1}}
+>>>>>>> .r3
+\@setckpt{./fundamentacao}{
+<<<<<<< .mine
+\setcounter{page}{16}
+=======
+\setcounter{page}{8}
+>>>>>>> .r3
+\setcounter{equation}{0}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{2}
+\setcounter{section}{2}
+\setcounter{subsection}{4}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+<<<<<<< .mine
+\setcounter{figure}{10}
+\setcounter{table}{1}
+=======
+\setcounter{figure}{0}
+\setcounter{table}{1}
+>>>>>>> .r3
+\setcounter{Item}{0}
+\setcounter{Hfootnote}{0}
+\setcounter{ABCIaux}{0}
+\setcounter{ABCImax}{0}
+\setcounter{section@level}{0}
+}

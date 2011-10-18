@@ -1,0 +1,4 @@
+* Foge do escopo do trabalho pode ser utilizado com uma pequena introdução de PWM até a sessão 2.1.
+
+Elementos regulatórios são frequêntementes modelados por uma matriz de peso(PWM do ingles position weight matrices ou PSSM de position specific score matrices). A PWM é um modelo probabilistico que caracteriza a disposição de um fator de transcrição (TF) se ligar em um região de ligação do DNA(Neste caso elementos regulatórios). A PWM tem uma grande utilidade tanto na modelagem de TF quanto na distinção de sitios de ligação verdadeiros dos falsos no DNA. Algoritmos como o MEME e o Gibbs sampler têm uma grande dependencia na PWM sendo de grande importancia uma boa modelagem da PWM. Uma PWM geralmente é formada por uma coleção de sequências de sitios de ligação de DNA de possiveis TFs, alinhadas.
+Os autores deste trabalho propuseram uma nova abordagem para encontrar a PWM de uma sequência,utilizando tanto sequências e dados de expressão cmo ChIP-chip. 
