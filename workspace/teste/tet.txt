@@ -1,0 +1,54 @@
+AAACAGATGAGCGGGTCACGCCCTTATGTCTT
+t ou L = 3
+a = s
+(n - l) + 1 = 9
+
+AGAAAAAAAG
+          
+GGAAAAAAAT
+           
+GCAAACAAAT
+------------------------------------------------------
+t  -   number of sample DNA sequences
+n  -   length of each DNA sequence
+DNA - sample of DNA sequences (t x n array)
+l  -   length of the motif (l-mer)
+si -   starting position of an l-mer in sequence i
+s=(s1, s2,… st) -   array of motif’s starting 		
+				positions
+-------------------------------------------------------
+NextVertex(a,i,L,k)     // a : the array of digits
+  if i < L                    // i  : prefix length 
+    a i+1 <- 1               // L: max length
+    return ( a,i+1)       // k : max digit value
+  else
+    for j <- l  to 1
+      if aj < k
+        aj <- aj +1
+        return( a,j )
+  return(a,0)
+-------------------------------------------------------
+	Bypass(a,i,L,k)     // a: array of digits
+	for j <- i to 1     // i : prefix length
+        if aj < k         // L: maximum length
+           aj <- aj +1   // k : max digit value
+           return(a,j)
+	return(a,0)
+-------------------------------------------------------
+NextLeaf( a,L, k )       // a : the array of digits
+for i <- L to 1             // L: length of the array
+    if ai < k                 // k : max digit value
+       ai <- ai + 1
+       return a
+    ai <- 1
+return a
+-------------------------------------------------------
+	BruteForceMotifSearchAgain(DNA, t, n, l)
+	s <- (1,1,…, 1)
+	bestScore <- Score(s,DNA)
+	while forever
+		s <-  NextLeaf (s, t, n- l +1)
+		if (Score(s,DNA) > bestScore)
+			bestScore <- Score(s, DNA)
+			bestMotif <- (s1,s2 , . . . , st) 
+	return bestMotif

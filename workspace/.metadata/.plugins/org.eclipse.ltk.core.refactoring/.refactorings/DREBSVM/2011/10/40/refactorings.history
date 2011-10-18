@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DREBSVM/src/DREBSearch&apos; to &apos;DREBSearch.py&apos;" description="Rename resource &apos;DREBSearch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/DREBSearch" name="DREBSearch.py" stamp="1317502431410" updateReferences="true"/>
+</session>

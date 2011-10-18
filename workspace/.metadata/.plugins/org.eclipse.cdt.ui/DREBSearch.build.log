@@ -1,0 +1,19 @@
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+Building file: ../src/DREBSearch.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DREBSearch.d" -MT"src/DREBSearch.d" -o "src/DREBSearch.o" "../src/DREBSearch.cpp"
+../src/DREBSearch.cpp: In function ‘int main()’:
+../src/DREBSearch.cpp:16: warning: deprecated conversion from string constant to ‘char*’
+../src/DREBSearch.cpp:18: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/DREBSearch.cpp
+ 
+Building target: DREBSearch
+Invoking: GCC C++ Linker
+g++  -o "DREBSearch"  ./src/DNA.o ./src/DNAseq.o ./src/DREBSearch.o ./src/HexDiff.o   
+Finished building target: DREBSearch
+ 
+
+**** Build Finished ****

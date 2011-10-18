@@ -1,0 +1,3458 @@
+Oligo-Analisys
+300
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAAAA 1770 20 0.00354 1.40426e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAAAC 1770 7 0.001239 3.54541e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAAAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAAAT 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAACA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAACC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAAGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAATA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAATC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAATG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACAT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACCT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAACTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAGAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAGCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAAGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAATAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAATAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAATCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAATGT 1770 11 0.001947 3.92976e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAATTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACAAA 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACAAC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACAAT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACACC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACAGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACATT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCAC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACGAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACTCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACTGC 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACTGG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AACTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGCGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGGCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AAGTTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATACG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATCCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGCA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGTA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATGTT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATTAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AATTTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAAAA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAACC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAATG 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACAT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACACTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAGAG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAGGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACAGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACATTT 1770 11 0.001947 3.92976e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCAAC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCACA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCCAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCCCA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCCCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCGGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCTAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACCTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACGACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACGACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACGATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACGCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACGTAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACGTGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTCAG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGCA 1770 7 0.001239 3.54541e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTTAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTTCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTTCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ACTTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAAAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAGCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGAGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGATAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGATAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGATAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGATGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGATGC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCCAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCCTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCCTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCGCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCTCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGCTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGAGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGCAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGCGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGCGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGCTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGGTTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTCAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTCAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTCGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTCTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTTAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTTAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTTGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTTGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTTGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+AGTTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATAAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATAACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATAACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATAATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATAATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATATCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATATTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCCCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCCTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCTAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCTGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATCTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGAAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGAGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGCAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGCAG 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGCGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGGCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTAC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTGT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATGTTT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTCCA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTCGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTGTT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTGG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+ATTTTT 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAAAA 1770 8 0.001416 3.8693e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAAAC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAAAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAACA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAATG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACCA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAACTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAGCG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAAGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAATAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAATCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAATGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAATGC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACACC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACAGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACCAC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACCCC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACCGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACGTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACTCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CACTTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGACA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGAGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGATA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGATG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGCCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGCTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTTA 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CAGTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATAAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATCCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATCGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATCTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATCTG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGTA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTGT 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTTG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CATTTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAAAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAAAT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAACC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAACG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCACAC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCACCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCACCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCACCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCACTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCAGTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCATCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCATCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCATGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCATGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCAAC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCAAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCACC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCAGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCAGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCAGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCAG 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCCTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCGACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCGGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCGGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCGGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTAGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTCCC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTGAG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTTAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTTCA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CCTTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGAAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGAATA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGACAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGACCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGACTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGAGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGAGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGATAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGATGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGATGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCCAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCTTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGCTTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGGAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGGGGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGGGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGGTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGGTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTCTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTGTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CGTTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTACAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTAGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTAGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTAGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTAGGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTAGGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTAGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCAGG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCCCC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCCTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCTGT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTCTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGAAC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGAAG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGAGT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGCAG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGCAT 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGCGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGGAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGGGG 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGGGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTGTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTAAA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCAG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTGAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+CTTTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAAGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAACAA 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAACAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAACAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAACCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAACGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAAGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAATAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAATCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAATGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACACG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACCAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACCGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTCA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GACTTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGAAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGCGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGCTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGGAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGTCA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GAGTTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATAAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATGAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATGCA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATTCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GATTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAAAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAACT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCACAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCACAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCACCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCAGTT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCATAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCATAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCATCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCATCT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCATGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCATTG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCAAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCAAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCCAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCCCA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCTAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCCTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGAAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGCAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGCAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGCCA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGCTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCGTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTCTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTGAA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTTAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTTCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GCTTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAACA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAACG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAATC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGACCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAGGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGAGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGATAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGATGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGATGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGATTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGATTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCCTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCGCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCGCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGCTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGAGG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGCAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGCGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGAG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGTG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGGTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTCAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTCGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTGG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GGTTTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTAAAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTAACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTACAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTACAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTACAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTACAT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTAGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTATTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCAAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCACG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCATC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCGGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCTAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCTCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCTGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTCTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGACC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGCAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGGGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGGTG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGGTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTGG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTGTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTAAC 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTAAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTATT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCAG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGGG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGGT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTGTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTTG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+GTTTTT 1770 7 0.001239 3.54541e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAAAA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAAAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAACC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAACAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAACAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAACAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAACCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAACTG 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAAGTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAATGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAATTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACATG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACATT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACCAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TACTTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGACG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TAGTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATCGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATCTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATTCG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TATTTT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAAGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCACAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCACGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCACTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCAGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATGT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCATTG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCAAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCAGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCCAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCCCA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCCCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCCCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCTCC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCTGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCTGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCCTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGAGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGCCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGTGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCGTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTAGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTCAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTCCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTCGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTCGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTGAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTGCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTGGG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTTTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TCTTTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAACA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAACG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAAGC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAAGG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAAGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGACCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGACCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGACTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGACTC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGACTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGACTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAGTC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGAGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGATGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGATTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCACA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCAGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCAGT 1770 7 0.001239 3.54541e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCATA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCATC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCATT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCCAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCCAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCCCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCGCC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGCTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGAAT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCGC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGCTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGGA 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGGC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGGT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGGTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTGT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTTG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGGTTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTAAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTACA 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTACT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTATC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTATG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTCGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTCTG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTGAA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTGCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTGGT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTGTA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTGTG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTCA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTCC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTGG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTTG 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TGTTTT 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAAA 1770 7 0.001239 3.54541e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAAC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAACA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAACT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAAGT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTAATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTACAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTATCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTATGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTATGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTATTG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTATTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCAAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCAGA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCAGC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCAGT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCATC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCATG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCCAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCCAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCCGA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCTCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCTCG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCTGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCTTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTCTTT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGAAC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGAAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGACT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGAGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGCAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGCAT 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGCCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGCTC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGAA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGCC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGCG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGCT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGGC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGGG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGGT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGTC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGGTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTAT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTTC 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTTG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTGTTT 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTAAA 1770 8 0.001416 3.8693e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTAAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTAAG 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTACA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTATT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTCAG 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTCAT 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTCTC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTCTT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGAA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGAC 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGAG 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGCA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGGA 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGGC 1770 4 0.000708 1.69215e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGTA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTGTT 1770 6 0.001062 3.0536e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTAA 1770 7 0.001239 3.54541e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTCA 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTCT 1770 1 0.000177 6.75969e-13
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTGA 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTGC 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTGG 1770 3 0.000531 9.76193e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTGT 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTTA 1770 5 0.000885 2.41674e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTTC 1770 2 0.000354 3.95504e-12
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTTG 1770 8 0.001416 3.8693e-11
+fatorial(T)  3.55687e+14
+fatorial((T - n))  3.55687e+14
+TTTTTT 1770 20 0.00354 1.40426e-11

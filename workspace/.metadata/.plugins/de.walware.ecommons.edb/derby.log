@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Jul 05 10:30:56 BRT 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0130-fa7e-9102-fffffc1fc311 
+on database directory /home/josue/Dropbox/TCC Estagio/workspace/.metadata/.plugins/de.walware.statet.r.core/db  with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@454719db 
+Loaded from file:/home/josue/eclipse/plugins/de.walware.thirdparty-org.apache.derby.core_10.8.1000002.b201106190930E37sw.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_24-b07
+user.dir=/home/josue/eclipse
+derby.system.home=/home/josue/Dropbox/TCC Estagio/workspace/.metadata/.plugins/de.walware.ecommons.edb
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jul 05 13:58:51 BRT 2011: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Jul 05 13:58:53 BRT 2011:
+Shutting down instance a816c00e-0130-fa7e-9102-fffffc1fc311 on database directory /home/josue/Dropbox/TCC Estagio/workspace/.metadata/.plugins/de.walware.statet.r.core/db with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@454719db 
+----------------------------------------------------------------

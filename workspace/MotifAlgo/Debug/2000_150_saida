@@ -1,0 +1,1534 @@
+CAGGTA 2.71129
+TACCTG 2.71129
+ACCTAG 2.44574
+CTAGGT 2.44574
+AATCCT 2.38568
+AGGATT 2.38568
+AGGTCA 2.27755
+TGACCT 2.27755
+CGCGGA 2.2337
+TCCGCG 2.2337
+AGGTAG 2.21695
+CTACCT 2.21695
+GCGCGA 2.21417
+TCGCGC 2.21417
+AGGACC 2.1767
+GGTCCT 2.1767
+ACGCGG 2.17333
+CCGCGT 2.17333
+CAGGTC 2.17333
+GACCTG 2.17333
+CCTGCG 2.15593
+CGCAGG 2.15593
+GCCTAC 2.12833
+GTAGGC 2.12833
+ACCGGT 2.12393
+CCGCGG 2.12393
+AGGTCC 2.1048
+GGACCT 2.1048
+AAGGAT 2.07073
+ATCCTT 2.07073
+AGGACA 2.07036
+TGTCCT 2.07036
+CCTTCC 2.06665
+GGAAGG 2.06665
+CGTAAA 2.06325
+TTTACG 2.06325
+CAGGAC 2.0551
+GTCCTG 2.0551
+CTAGTC 2.02125
+GACTAG 2.02125
+GCGGAA 2.02013
+TTCCGC 2.02013
+CGGGAA 2.00852
+TTCCCG 2.00852
+AGGACG 1.99837
+CGTCCT 1.99837
+GGATCA 1.98555
+TGATCC 1.98555
+AAGGAC 1.97194
+GTCCTT 1.97194
+CCTACC 1.96743
+GGTAGG 1.96743
+GAGGAC 1.91872
+GTCCTC 1.91872
+AGGTCG 1.9072
+CGACCT 1.9072
+AGGATC 1.88902
+GATCCT 1.88902
+GGATTA 1.88242
+TAATCC 1.88242
+CCTAGG 1.85423
+AACCCG 1.85285
+CGGGTT 1.85285
+CGCGAA 1.85056
+TTCGCG 1.85056
+GGACTA 1.84959
+TAGTCC 1.84959
+TACCTA 1.84889
+TAGGTA 1.84889
+GCGAGA 1.84872
+TCTCGC 1.84872
+CGCGCA 1.8469
+TGCGCG 1.8469
+CCGTAA 1.83241
+TTACGG 1.83241
+GCGAAA 1.82644
+TTTCGC 1.82644
+AAAGGA 1.82031
+TCCTTT 1.82031
+CCTAAA 1.81283
+TTTAGG 1.81283
+CGCGGC 1.80839
+GCCGCG 1.80839
+GACCTC 1.78194
+GAGGTC 1.78194
+GCAGGA 1.77304
+TCCTGC 1.77304
+AATCGC 1.76994
+GCGATT 1.76994
+CGGTCC 1.76471
+GGACCG 1.76471
+AACCCT 1.76152
+AGGGTT 1.76152
+GAAGGA 1.76045
+TCCTTC 1.76045
+GGTACC 1.75852
+AAGGTC 1.75006
+GACCTT 1.75006
+CCGCTA 1.74912
+TAGCGG 1.74912
+AGGGAT 1.74827
+ATCCCT 1.74827
+TCCTAA 1.74053
+TTAGGA 1.74053
+CCTTTC 1.73646
+GAAAGG 1.73646
+ACCTGC 1.73582
+GCAGGT 1.73582
+GTCATA 1.71969
+TATGAC 1.71969
+CCCGCG 1.71789
+CGCGGG 1.71789
+AGGGCC 1.71473
+GGCCCT 1.71473
+GGACAA 1.7041
+TTGTCC 1.7041
+CGGGAG 1.70259
+CTCCCG 1.70259
+AAGTCA 1.69961
+TGACTT 1.69961
+AAAGTC 1.69654
+GACTTT 1.69654
+ACAGGG 1.69634
+CCCTGT 1.69634
+CCTAAG 1.69441
+CTTAGG 1.69441
+GGCCGA 1.69299
+TCGGCC 1.69299
+GCGGGA 1.68624
+TCCCGC 1.68624
+CGCTAG 1.68384
+CTAGCG 1.68384
+AAGGGT 1.67736
+ACCCTT 1.67736
+CCTACA 1.674
+TGTAGG 1.674
+CTAATC 1.674
+GATTAG 1.674
+CCTGTC 1.6688
+GACAGG 1.6688
+CGGAAA 1.6623
+TTTCCG 1.6623
+AGCGAG 1.64962
+CTCGCT 1.64962
+CCGCGA 1.64273
+TCGCGG 1.64273
+CACAGG 1.63953
+CCTGTG 1.63953
+CCTTAG 1.63953
+CTAAGG 1.63953
+TACGCA 1.63953
+TGCGTA 1.63953
+AGGAAG 1.63752
+CTTCCT 1.63752
+CCCTTC 1.63732
+GAAGGG 1.63732
+
+
+
+
+-----------------------------------
+position: 14486   score: 150.809
+position: 14487   score: 150.809
+position: 14488   score: 150.809
+position: 14489   score: 150.809
+position: 14490   score: 150.809
+position: 14491   score: 150.809
+position: 14492   score: 152.508
+position: 14493   score: 154.205
+position: 14494   score: 154.205
+position: 14495   score: 154.205
+position: 14496   score: 154.205
+position: 14497   score: 154.205
+position: 14498   score: 154.205
+position: 14499   score: 155.978
+position: 14500   score: 155.978
+position: 14501   score: 155.978
+position: 14502   score: 155.978
+position: 14503   score: 155.978
+position: 14504   score: 155.978
+position: 14505   score: 155.978
+position: 14506   score: 155.978
+position: 14507   score: 155.978
+position: 14508   score: 155.978
+position: 14509   score: 155.978
+position: 14510   score: 155.978
+position: 14511   score: 155.978
+position: 14512   score: 155.978
+position: 14513   score: 158.041
+position: 14514   score: 158.041
+position: 14515   score: 158.041
+position: 14516   score: 158.041
+position: 14517   score: 158.041
+position: 14518   score: 158.041
+position: 14519   score: 158.041
+position: 14520   score: 158.041
+position: 14521   score: 158.041
+position: 14522   score: 158.041
+position: 14523   score: 157.938
+position: 14524   score: 156.049
+position: 14525   score: 153.978
+position: 14526   score: 153.978
+position: 14527   score: 153.978
+position: 14528   score: 153.978
+position: 14529   score: 153.978
+position: 14530   score: 153.978
+position: 14531   score: 153.978
+position: 14532   score: 153.978
+position: 14533   score: 153.978
+position: 14534   score: 153.978
+position: 14535   score: 153.978
+position: 14536   score: 153.978
+position: 14537   score: 153.978
+position: 14538   score: 153.978
+position: 14539   score: 153.978
+position: 14540   score: 153.978
+position: 14541   score: 153.978
+position: 14542   score: 153.978
+position: 14543   score: 155.696
+position: 14544   score: 157.82
+position: 14545   score: 159.628
+position: 14546   score: 159.628
+position: 14547   score: 159.628
+position: 14548   score: 159.628
+position: 14549   score: 159.628
+position: 14550   score: 159.628
+position: 14551   score: 159.628
+position: 14552   score: 159.628
+position: 14553   score: 159.628
+position: 14554   score: 159.628
+position: 14555   score: 159.628
+position: 14556   score: 159.628
+position: 14557   score: 159.628
+position: 14558   score: 159.628
+position: 14559   score: 159.628
+position: 14560   score: 159.628
+position: 14561   score: 159.628
+position: 14562   score: 159.628
+position: 14563   score: 159.628
+position: 14564   score: 159.628
+position: 14565   score: 159.628
+position: 14566   score: 159.628
+position: 14567   score: 159.628
+position: 14568   score: 159.628
+position: 14569   score: 159.628
+position: 14570   score: 159.628
+position: 14571   score: 159.628
+position: 14572   score: 159.628
+position: 14573   score: 159.628
+position: 14574   score: 159.628
+position: 14575   score: 159.628
+position: 14576   score: 159.628
+position: 14577   score: 159.628
+position: 14578   score: 159.628
+position: 14579   score: 159.628
+position: 14580   score: 159.628
+position: 14581   score: 159.628
+position: 14582   score: 159.628
+position: 14583   score: 159.628
+position: 14584   score: 159.628
+position: 14585   score: 159.628
+position: 14586   score: 159.628
+position: 14587   score: 159.628
+position: 14588   score: 159.628
+position: 14589   score: 159.628
+position: 14590   score: 159.628
+position: 14591   score: 159.628
+position: 14592   score: 159.628
+position: 14593   score: 159.628
+position: 14594   score: 157.879
+position: 14595   score: 157.879
+position: 14596   score: 157.879
+position: 14597   score: 157.879
+position: 14598   score: 157.879
+position: 14599   score: 157.879
+position: 14600   score: 157.879
+position: 14601   score: 157.879
+position: 14602   score: 157.879
+position: 14603   score: 157.879
+position: 14604   score: 157.879
+position: 14605   score: 157.879
+position: 14606   score: 159.519
+position: 14607   score: 159.519
+position: 14608   score: 161.574
+position: 14609   score: 163.751
+position: 14610   score: 165.855
+position: 14611   score: 167.605
+position: 14612   score: 167.605
+position: 14613   score: 167.605
+position: 14614   score: 167.605
+position: 14615   score: 167.605
+position: 14616   score: 167.605
+position: 14617   score: 167.605
+position: 14618   score: 167.605
+position: 14619   score: 167.605
+position: 14620   score: 167.605
+position: 14621   score: 167.605
+position: 14622   score: 167.605
+position: 14623   score: 167.605
+position: 14624   score: 167.605
+position: 14625   score: 167.605
+position: 14626   score: 167.605
+position: 14627   score: 167.605
+position: 14628   score: 167.605
+position: 14629   score: 167.605
+position: 14630   score: 167.605
+position: 14631   score: 167.605
+position: 14632   score: 167.605
+position: 14633   score: 167.605
+position: 14634   score: 167.605
+position: 14635   score: 167.605
+position: 14636   score: 167.605
+position: 14637   score: 167.605
+position: 14638   score: 167.605
+position: 14639   score: 167.605
+position: 14640   score: 167.605
+position: 14641   score: 167.605
+position: 14642   score: 167.605
+position: 14643   score: 165.785
+position: 14644   score: 163.813
+position: 14645   score: 161.743
+position: 14646   score: 160.039
+position: 14647   score: 160.039
+position: 14648   score: 160.039
+position: 14649   score: 160.039
+position: 14650   score: 160.039
+position: 14651   score: 160.039
+position: 14652   score: 160.039
+position: 14653   score: 160.039
+position: 14654   score: 160.039
+position: 14655   score: 160.039
+position: 14656   score: 160.039
+position: 14657   score: 160.039
+position: 14658   score: 160.039
+position: 14659   score: 160.039
+position: 14660   score: 160.039
+position: 14661   score: 160.039
+position: 14662   score: 158.266
+position: 14663   score: 158.266
+position: 14664   score: 156.377
+position: 14665   score: 156.377
+position: 14666   score: 156.377
+position: 14667   score: 156.377
+position: 14668   score: 156.377
+position: 14669   score: 156.377
+position: 14670   score: 156.377
+position: 14671   score: 154.556
+position: 14672   score: 152.584
+position: 14673   score: 150.514
+position: 14674   score: 150.514
+position: 14675   score: 150.514
+position: 14676   score: 150.514
+position: 14677   score: 150.514
+position: 14678   score: 150.514
+position: 14679   score: 150.514
+position: 14680   score: 150.514
+position: 14681   score: 150.514
+position: 14682   score: 152.363
+position: 14683   score: 152.363
+position: 14684   score: 152.363
+position: 14685   score: 152.363
+position: 14686   score: 152.363
+position: 14687   score: 152.363
+position: 14688   score: 152.363
+position: 14689   score: 152.363
+position: 14690   score: 152.363
+position: 14691   score: 152.363
+position: 14692   score: 152.363
+position: 14693   score: 152.363
+position: 14694   score: 152.363
+position: 14695   score: 152.363
+position: 14696   score: 152.363
+position: 14697   score: 152.363
+position: 14698   score: 152.363
+position: 14699   score: 152.363
+position: 14700   score: 152.363
+position: 14701   score: 152.363
+position: 14702   score: 152.363
+position: 14703   score: 152.363
+position: 14704   score: 152.363
+position: 14705   score: 152.363
+position: 14706   score: 152.363
+position: 14707   score: 152.363
+position: 14708   score: 152.363
+position: 14709   score: 152.363
+position: 14710   score: 152.363
+position: 14711   score: 152.363
+position: 14712   score: 152.363
+position: 14713   score: 152.363
+position: 14714   score: 152.363
+position: 14715   score: 152.363
+position: 14716   score: 152.363
+position: 14717   score: 152.363
+position: 14718   score: 152.363
+position: 14719   score: 152.363
+position: 14720   score: 152.363
+position: 14721   score: 152.363
+position: 14722   score: 152.363
+position: 14723   score: 152.363
+position: 14724   score: 152.363
+position: 14725   score: 152.363
+position: 14726   score: 152.363
+position: 14727   score: 152.363
+position: 14728   score: 150.659
+position: 15093   score: 150.864
+position: 15094   score: 152.538
+position: 15095   score: 152.538
+position: 15096   score: 152.538
+position: 15097   score: 152.538
+position: 15098   score: 152.538
+position: 15099   score: 152.538
+position: 15100   score: 152.538
+position: 15101   score: 152.538
+position: 15102   score: 152.538
+position: 15103   score: 152.538
+position: 15104   score: 152.538
+position: 15105   score: 152.538
+position: 15106   score: 152.538
+position: 15107   score: 152.538
+position: 15108   score: 152.538
+position: 15109   score: 154.188
+position: 15110   score: 156.037
+position: 15111   score: 156.037
+position: 15112   score: 156.037
+position: 15113   score: 156.037
+position: 15114   score: 156.037
+position: 15115   score: 156.037
+position: 15116   score: 156.037
+position: 15117   score: 156.037
+position: 15118   score: 157.723
+position: 15119   score: 157.723
+position: 15120   score: 157.723
+position: 15121   score: 157.723
+position: 15122   score: 157.723
+position: 15123   score: 157.723
+position: 15124   score: 157.723
+position: 15125   score: 157.723
+position: 15126   score: 157.723
+position: 15127   score: 157.723
+position: 15128   score: 157.723
+position: 15129   score: 157.723
+position: 15130   score: 157.723
+position: 15131   score: 157.723
+position: 15132   score: 157.723
+position: 15133   score: 157.723
+position: 15134   score: 157.723
+position: 15135   score: 157.723
+position: 15136   score: 157.723
+position: 15137   score: 157.723
+position: 15138   score: 157.723
+position: 15139   score: 157.723
+position: 15140   score: 157.723
+position: 15141   score: 157.723
+position: 15142   score: 157.723
+position: 15143   score: 157.723
+position: 15144   score: 157.723
+position: 15145   score: 157.723
+position: 15146   score: 157.723
+position: 15147   score: 159.422
+position: 15148   score: 159.422
+position: 15149   score: 159.422
+position: 15150   score: 159.422
+position: 15151   score: 159.422
+position: 15152   score: 159.422
+position: 15153   score: 159.422
+position: 15154   score: 159.422
+position: 15155   score: 159.422
+position: 15156   score: 159.422
+position: 15157   score: 159.422
+position: 15158   score: 159.422
+position: 15159   score: 159.422
+position: 15160   score: 159.422
+position: 15161   score: 159.422
+position: 15162   score: 159.422
+position: 15163   score: 159.422
+position: 15164   score: 159.422
+position: 15165   score: 159.422
+position: 15166   score: 159.422
+position: 15167   score: 159.422
+position: 15168   score: 159.422
+position: 15169   score: 159.422
+position: 15170   score: 159.422
+position: 15171   score: 159.422
+position: 15172   score: 159.422
+position: 15173   score: 159.422
+position: 15174   score: 159.422
+position: 15175   score: 159.422
+position: 15176   score: 159.422
+position: 15177   score: 159.422
+position: 15178   score: 159.422
+position: 15179   score: 157.575
+position: 15180   score: 157.575
+position: 15181   score: 157.575
+position: 15182   score: 157.575
+position: 15183   score: 157.575
+position: 15184   score: 157.575
+position: 15185   score: 157.575
+position: 15186   score: 157.575
+position: 15187   score: 157.575
+position: 15188   score: 157.575
+position: 15189   score: 157.575
+position: 15190   score: 157.575
+position: 15191   score: 157.575
+position: 15192   score: 157.575
+position: 15193   score: 157.575
+position: 15194   score: 157.575
+position: 15195   score: 157.575
+position: 15196   score: 159.792
+position: 15197   score: 162.504
+position: 15198   score: 162.504
+position: 15199   score: 162.504
+position: 15200   score: 162.504
+position: 15201   score: 162.504
+position: 15202   score: 162.504
+position: 15203   score: 162.504
+position: 15204   score: 162.504
+position: 15205   score: 162.504
+position: 15206   score: 162.504
+position: 15207   score: 162.504
+position: 15208   score: 162.504
+position: 15209   score: 162.504
+position: 15210   score: 162.504
+position: 15211   score: 162.504
+position: 15212   score: 162.504
+position: 15213   score: 162.504
+position: 15214   score: 162.504
+position: 15215   score: 162.504
+position: 15216   score: 162.504
+position: 15217   score: 162.504
+position: 15218   score: 162.504
+position: 15219   score: 162.504
+position: 15220   score: 162.504
+position: 15221   score: 162.504
+position: 15222   score: 162.504
+position: 15223   score: 162.504
+position: 15224   score: 162.504
+position: 15225   score: 162.504
+position: 15226   score: 164.489
+position: 15227   score: 164.489
+position: 15228   score: 164.489
+position: 15229   score: 164.489
+position: 15230   score: 164.489
+position: 15231   score: 164.489
+position: 15232   score: 164.489
+position: 15233   score: 164.489
+position: 15234   score: 164.489
+position: 15235   score: 164.489
+position: 15236   score: 164.489
+position: 15237   score: 164.489
+position: 15238   score: 164.489
+position: 15239   score: 164.489
+position: 15240   score: 164.489
+position: 15241   score: 164.489
+position: 15242   score: 164.489
+position: 15243   score: 164.489
+position: 15244   score: 164.489
+position: 15245   score: 164.489
+position: 15246   score: 164.489
+position: 15247   score: 164.489
+position: 15248   score: 164.489
+position: 15249   score: 164.489
+position: 15250   score: 164.489
+position: 15251   score: 164.489
+position: 15252   score: 164.489
+position: 15253   score: 164.489
+position: 15254   score: 166.132
+position: 15255   score: 167.94
+position: 15256   score: 167.94
+position: 15257   score: 167.94
+position: 15258   score: 167.94
+position: 15259   score: 167.94
+position: 15260   score: 169.614
+position: 15261   score: 169.614
+position: 15262   score: 169.614
+position: 15263   score: 169.614
+position: 15264   score: 169.614
+position: 15265   score: 169.614
+position: 15266   score: 169.614
+position: 15267   score: 169.614
+position: 15268   score: 169.614
+position: 15269   score: 169.614
+position: 15270   score: 169.614
+position: 15271   score: 169.614
+position: 15272   score: 169.614
+position: 15273   score: 169.614
+position: 15274   score: 169.614
+position: 15275   score: 169.614
+position: 15276   score: 169.614
+position: 15277   score: 169.614
+position: 15278   score: 169.614
+position: 15279   score: 169.614
+position: 15280   score: 169.614
+position: 15281   score: 169.614
+position: 15282   score: 169.614
+position: 15283   score: 169.614
+position: 15284   score: 169.614
+position: 15285   score: 169.614
+position: 15286   score: 169.614
+position: 15287   score: 169.614
+position: 15288   score: 169.614
+position: 15289   score: 169.614
+position: 15290   score: 169.614
+position: 15291   score: 169.614
+position: 15292   score: 169.614
+position: 15293   score: 169.614
+position: 15294   score: 169.614
+position: 15295   score: 169.614
+position: 15296   score: 169.614
+position: 15297   score: 171.6
+position: 15298   score: 171.6
+position: 15299   score: 171.6
+position: 15300   score: 171.6
+position: 15301   score: 171.6
+position: 15302   score: 171.6
+position: 15303   score: 171.6
+position: 15304   score: 171.6
+position: 15305   score: 171.6
+position: 15306   score: 171.6
+position: 15307   score: 171.6
+position: 15308   score: 171.6
+position: 15309   score: 171.6
+position: 15310   score: 171.6
+position: 15311   score: 171.6
+position: 15312   score: 171.6
+position: 15313   score: 171.6
+position: 15314   score: 171.6
+position: 15315   score: 171.6
+position: 15316   score: 171.6
+position: 15317   score: 171.6
+position: 15318   score: 171.6
+position: 15319   score: 171.6
+position: 15320   score: 171.6
+position: 15321   score: 171.6
+position: 15322   score: 171.6
+position: 15323   score: 171.6
+position: 15324   score: 171.6
+position: 15325   score: 171.6
+position: 15326   score: 171.6
+position: 15327   score: 171.6
+position: 15328   score: 171.6
+position: 15329   score: 171.6
+position: 15330   score: 171.6
+position: 15331   score: 171.6
+position: 15332   score: 173.237
+position: 15333   score: 173.237
+position: 15334   score: 173.237
+position: 15335   score: 173.237
+position: 15336   score: 173.237
+position: 15337   score: 173.237
+position: 15338   score: 173.237
+position: 15339   score: 173.237
+position: 15340   score: 173.237
+position: 15341   score: 173.237
+position: 15342   score: 173.237
+position: 15343   score: 173.237
+position: 15344   score: 173.237
+position: 15345   score: 174.911
+position: 15346   score: 174.911
+position: 15347   score: 174.911
+position: 15348   score: 174.911
+position: 15349   score: 174.911
+position: 15350   score: 174.911
+position: 15351   score: 174.911
+position: 15352   score: 174.911
+position: 15353   score: 174.911
+position: 15354   score: 174.911
+position: 15355   score: 174.911
+position: 15356   score: 174.911
+position: 15357   score: 174.911
+position: 15358   score: 174.911
+position: 15359   score: 174.911
+position: 15360   score: 174.911
+position: 15361   score: 174.911
+position: 15362   score: 174.911
+position: 15363   score: 174.911
+position: 15364   score: 174.911
+position: 15365   score: 174.911
+position: 15366   score: 174.911
+position: 15367   score: 174.911
+position: 15368   score: 174.911
+position: 15369   score: 174.911
+position: 15370   score: 174.911
+position: 15371   score: 174.911
+position: 15372   score: 174.911
+position: 15373   score: 174.911
+position: 15374   score: 174.911
+position: 15375   score: 174.911
+position: 15376   score: 174.911
+position: 15377   score: 174.911
+position: 15378   score: 173.099
+position: 15379   score: 173.099
+position: 15380   score: 173.099
+position: 15381   score: 173.099
+position: 15382   score: 173.099
+position: 15383   score: 173.099
+position: 15384   score: 173.099
+position: 15385   score: 173.099
+position: 15386   score: 173.099
+position: 15387   score: 173.099
+position: 15388   score: 173.099
+position: 15389   score: 173.099
+position: 15390   score: 173.099
+position: 15391   score: 173.099
+position: 15392   score: 173.099
+position: 15393   score: 173.099
+position: 15394   score: 173.099
+position: 15395   score: 173.099
+position: 15396   score: 173.099
+position: 15397   score: 173.099
+position: 15398   score: 173.099
+position: 15399   score: 173.099
+position: 15400   score: 173.099
+position: 15401   score: 173.099
+position: 15402   score: 173.099
+position: 15403   score: 173.099
+position: 15404   score: 173.099
+position: 15405   score: 173.099
+position: 15406   score: 173.099
+position: 15407   score: 173.099
+position: 15408   score: 173.099
+position: 15409   score: 173.099
+position: 15410   score: 173.099
+position: 15411   score: 173.099
+position: 15412   score: 173.099
+position: 15413   score: 173.099
+position: 15414   score: 173.099
+position: 15415   score: 173.099
+position: 15416   score: 173.099
+position: 15417   score: 173.099
+position: 15418   score: 173.099
+position: 15419   score: 173.099
+position: 15420   score: 173.099
+position: 15421   score: 173.099
+position: 15422   score: 173.099
+position: 15423   score: 173.099
+position: 15424   score: 173.099
+position: 15425   score: 171.436
+position: 15426   score: 171.436
+position: 15427   score: 171.436
+position: 15428   score: 171.436
+position: 15429   score: 171.436
+position: 15430   score: 171.436
+position: 15431   score: 171.436
+position: 15432   score: 171.436
+position: 15433   score: 171.436
+position: 15434   score: 171.436
+position: 15435   score: 171.436
+position: 15436   score: 171.436
+position: 15437   score: 171.436
+position: 15438   score: 171.436
+position: 15439   score: 171.436
+position: 15440   score: 171.436
+position: 15441   score: 171.436
+position: 15442   score: 171.436
+position: 15443   score: 171.436
+position: 15444   score: 171.436
+position: 15445   score: 171.436
+position: 15446   score: 171.436
+position: 15447   score: 171.436
+position: 15448   score: 171.436
+position: 15449   score: 171.436
+position: 15450   score: 171.436
+position: 15451   score: 169.586
+position: 15452   score: 167.943
+position: 15453   score: 167.943
+position: 15454   score: 167.943
+position: 15455   score: 167.943
+position: 15456   score: 167.943
+position: 15457   score: 167.943
+position: 15458   score: 167.943
+position: 15459   score: 167.943
+position: 15460   score: 167.943
+position: 15461   score: 167.943
+position: 15462   score: 167.943
+position: 15463   score: 167.943
+position: 15464   score: 167.943
+position: 15465   score: 167.943
+position: 15466   score: 167.943
+position: 15467   score: 167.943
+position: 15468   score: 167.943
+position: 15469   score: 167.943
+position: 15470   score: 167.943
+position: 15471   score: 167.943
+position: 15472   score: 167.943
+position: 15473   score: 167.943
+position: 15474   score: 167.943
+position: 15475   score: 167.943
+position: 15476   score: 167.943
+position: 15477   score: 167.943
+position: 15478   score: 167.943
+position: 15479   score: 167.943
+position: 15480   score: 167.943
+position: 15481   score: 167.943
+position: 15482   score: 167.943
+position: 15483   score: 167.943
+position: 15484   score: 167.943
+position: 15485   score: 167.943
+position: 15486   score: 167.943
+position: 15487   score: 166.123
+position: 15488   score: 166.123
+position: 15489   score: 166.123
+position: 15490   score: 166.123
+position: 15491   score: 166.123
+position: 15492   score: 166.123
+position: 15493   score: 166.123
+position: 15494   score: 166.123
+position: 15495   score: 166.123
+position: 15496   score: 166.123
+position: 15497   score: 166.123
+position: 15498   score: 166.123
+position: 15499   score: 166.123
+position: 15500   score: 166.123
+position: 15501   score: 166.123
+position: 15502   score: 166.123
+position: 15503   score: 166.123
+position: 15504   score: 166.123
+position: 15505   score: 166.123
+position: 15506   score: 166.123
+position: 15507   score: 166.123
+position: 15508   score: 166.123
+position: 15509   score: 166.123
+position: 15510   score: 166.123
+position: 15511   score: 166.123
+position: 15512   score: 166.123
+position: 15513   score: 166.123
+position: 15514   score: 166.123
+position: 15515   score: 166.123
+position: 15516   score: 166.123
+position: 15517   score: 166.123
+position: 15518   score: 164.302
+position: 15519   score: 164.302
+position: 15520   score: 164.302
+position: 15521   score: 164.302
+position: 15522   score: 164.302
+position: 15523   score: 164.302
+position: 15524   score: 164.302
+position: 15525   score: 164.302
+position: 15526   score: 164.302
+position: 15527   score: 164.302
+position: 15528   score: 164.302
+position: 15529   score: 164.302
+position: 15530   score: 164.302
+position: 15531   score: 164.302
+position: 15532   score: 164.302
+position: 15533   score: 164.302
+position: 15534   score: 164.302
+position: 15535   score: 164.302
+position: 15536   score: 164.302
+position: 15537   score: 164.302
+position: 15538   score: 164.302
+position: 15539   score: 164.302
+position: 15540   score: 164.302
+position: 15541   score: 164.302
+position: 15542   score: 164.302
+position: 15543   score: 164.302
+position: 15544   score: 164.302
+position: 15545   score: 164.302
+position: 15546   score: 164.302
+position: 15547   score: 164.302
+position: 15548   score: 164.302
+position: 15549   score: 164.302
+position: 15550   score: 162.663
+position: 15551   score: 160.967
+position: 15552   score: 160.967
+position: 15553   score: 160.967
+position: 15554   score: 160.967
+position: 15555   score: 160.967
+position: 15556   score: 160.967
+position: 15557   score: 160.967
+position: 15558   score: 160.967
+position: 15559   score: 160.967
+position: 15560   score: 160.967
+position: 15561   score: 160.967
+position: 15562   score: 160.967
+position: 15563   score: 160.967
+position: 15564   score: 162.663
+position: 15565   score: 162.663
+position: 15566   score: 162.663
+position: 15567   score: 162.663
+position: 15568   score: 162.663
+position: 15569   score: 162.663
+position: 15570   score: 162.663
+position: 15571   score: 162.663
+position: 15572   score: 162.663
+position: 15573   score: 162.663
+position: 15574   score: 162.663
+position: 15575   score: 162.663
+position: 15576   score: 162.663
+position: 15577   score: 162.663
+position: 15578   score: 162.663
+position: 15579   score: 164.433
+position: 15580   score: 164.433
+position: 15581   score: 164.433
+position: 15582   score: 164.433
+position: 15583   score: 164.433
+position: 15584   score: 164.433
+position: 15585   score: 164.433
+position: 15586   score: 164.433
+position: 15587   score: 164.433
+position: 15588   score: 164.433
+position: 15589   score: 164.433
+position: 15590   score: 164.433
+position: 15591   score: 164.433
+position: 15592   score: 164.433
+position: 15593   score: 164.433
+position: 15594   score: 164.433
+position: 15595   score: 164.433
+position: 15596   score: 164.433
+position: 15597   score: 164.433
+position: 15598   score: 164.433
+position: 15599   score: 166.711
+position: 15600   score: 166.711
+position: 15601   score: 169.156
+position: 15602   score: 169.156
+position: 15603   score: 169.156
+position: 15604   score: 169.156
+position: 15605   score: 169.156
+position: 15606   score: 169.156
+position: 15607   score: 169.156
+position: 15608   score: 169.156
+position: 15609   score: 169.156
+position: 15610   score: 169.156
+position: 15611   score: 169.156
+position: 15612   score: 169.156
+position: 15613   score: 169.156
+position: 15614   score: 169.156
+position: 15615   score: 169.156
+position: 15616   score: 169.156
+position: 15617   score: 169.156
+position: 15618   score: 169.156
+position: 15619   score: 169.156
+position: 15620   score: 169.156
+position: 15621   score: 169.156
+position: 15622   score: 169.156
+position: 15623   score: 169.156
+position: 15624   score: 169.156
+position: 15625   score: 169.156
+position: 15626   score: 169.156
+position: 15627   score: 169.156
+position: 15628   score: 169.156
+position: 15629   score: 169.156
+position: 15630   score: 169.156
+position: 15631   score: 169.156
+position: 15632   score: 169.156
+position: 15633   score: 169.156
+position: 15634   score: 169.156
+position: 15635   score: 169.156
+position: 15636   score: 169.156
+position: 15637   score: 169.156
+position: 15638   score: 169.156
+position: 15639   score: 169.156
+position: 15640   score: 169.156
+position: 15641   score: 169.156
+position: 15642   score: 169.156
+position: 15643   score: 169.156
+position: 15644   score: 169.156
+position: 15645   score: 169.156
+position: 15646   score: 169.156
+position: 15647   score: 169.156
+position: 15648   score: 169.156
+position: 15649   score: 169.156
+position: 15650   score: 169.156
+position: 15651   score: 169.156
+position: 15652   score: 169.156
+position: 15653   score: 169.156
+position: 15654   score: 169.156
+position: 15655   score: 169.156
+position: 15656   score: 169.156
+position: 15657   score: 169.156
+position: 15658   score: 169.156
+position: 15659   score: 169.156
+position: 15660   score: 169.156
+position: 15661   score: 169.156
+position: 15662   score: 169.156
+position: 15663   score: 167.482
+position: 15664   score: 167.482
+position: 15665   score: 167.482
+position: 15666   score: 167.482
+position: 15667   score: 167.482
+position: 15668   score: 167.482
+position: 15669   score: 167.482
+position: 15670   score: 167.482
+position: 15671   score: 167.482
+position: 15672   score: 167.482
+position: 15673   score: 167.482
+position: 15674   score: 167.482
+position: 15675   score: 167.482
+position: 15676   score: 167.482
+position: 15677   score: 167.482
+position: 15678   score: 167.482
+position: 15679   score: 167.482
+position: 15680   score: 167.482
+position: 15681   score: 167.482
+position: 15682   score: 167.482
+position: 15683   score: 167.482
+position: 15684   score: 167.482
+position: 15685   score: 167.482
+position: 15686   score: 167.482
+position: 15687   score: 167.482
+position: 15688   score: 167.482
+position: 15689   score: 169.179
+position: 15690   score: 169.179
+position: 15691   score: 169.179
+position: 15692   score: 169.179
+position: 15693   score: 169.179
+position: 15694   score: 169.179
+position: 15695   score: 169.179
+position: 15696   score: 169.179
+position: 15697   score: 169.179
+position: 15698   score: 169.179
+position: 15699   score: 169.179
+position: 15700   score: 169.179
+position: 15701   score: 169.179
+position: 15702   score: 169.179
+position: 15703   score: 169.179
+position: 15704   score: 169.179
+position: 15705   score: 169.179
+position: 15706   score: 169.179
+position: 15707   score: 169.179
+position: 15708   score: 169.179
+position: 15709   score: 169.179
+position: 15710   score: 169.179
+position: 15711   score: 169.179
+position: 15712   score: 169.179
+position: 15713   score: 169.179
+position: 15714   score: 169.179
+position: 15715   score: 169.179
+position: 15716   score: 169.179
+position: 15717   score: 169.179
+position: 15718   score: 169.179
+position: 15719   score: 169.179
+position: 15720   score: 169.179
+position: 15721   score: 169.179
+position: 15722   score: 169.179
+position: 15723   score: 169.179
+position: 15724   score: 169.179
+position: 15725   score: 169.179
+position: 15726   score: 167.37
+position: 15727   score: 165.197
+position: 15728   score: 167.169
+position: 15729   score: 169.239
+position: 15730   score: 168.88
+position: 15731   score: 168.88
+position: 15732   score: 168.88
+position: 15733   score: 168.88
+position: 15734   score: 167.13
+position: 15735   score: 164.853
+position: 15736   score: 164.853
+position: 15737   score: 164.853
+position: 15738   score: 164.853
+position: 15739   score: 164.853
+position: 15740   score: 164.853
+position: 15741   score: 164.853
+position: 15742   score: 164.853
+position: 15743   score: 164.853
+position: 15744   score: 164.853
+position: 15745   score: 164.853
+position: 15746   score: 164.853
+position: 15747   score: 164.853
+position: 15748   score: 164.853
+position: 15749   score: 164.853
+position: 15750   score: 164.853
+position: 15751   score: 164.853
+position: 15752   score: 166.825
+position: 15753   score: 168.895
+position: 15754   score: 168.895
+position: 15755   score: 166.988
+position: 15756   score: 165.238
+position: 15757   score: 165.238
+position: 15758   score: 165.238
+position: 15759   score: 165.238
+position: 15760   score: 165.238
+position: 15761   score: 165.238
+position: 15762   score: 165.238
+position: 15763   score: 165.238
+position: 15764   score: 165.238
+position: 15765   score: 165.238
+position: 15766   score: 165.238
+position: 15767   score: 165.238
+position: 15768   score: 162.96
+position: 15769   score: 160.787
+position: 15770   score: 160.787
+position: 15771   score: 160.787
+position: 15772   score: 160.787
+position: 15773   score: 160.787
+position: 15774   score: 160.787
+position: 15775   score: 160.787
+position: 15776   score: 160.787
+position: 15777   score: 160.787
+position: 15778   score: 160.787
+position: 15779   score: 160.787
+position: 15780   score: 160.787
+position: 15781   score: 160.787
+position: 15782   score: 160.787
+position: 15783   score: 160.787
+position: 15784   score: 160.787
+position: 15785   score: 160.787
+position: 15786   score: 160.787
+position: 15787   score: 160.787
+position: 15788   score: 160.787
+position: 15789   score: 160.787
+position: 15790   score: 160.787
+position: 15791   score: 160.787
+position: 15792   score: 160.787
+position: 15793   score: 160.787
+position: 15794   score: 160.787
+position: 15795   score: 160.787
+position: 15796   score: 160.787
+position: 15797   score: 160.787
+position: 15798   score: 160.787
+position: 15799   score: 160.787
+position: 15800   score: 162.607
+position: 15801   score: 162.607
+position: 15802   score: 162.607
+position: 15803   score: 162.607
+position: 15804   score: 162.607
+position: 15805   score: 162.607
+position: 15806   score: 162.607
+position: 15807   score: 162.607
+position: 15808   score: 162.607
+position: 15809   score: 162.607
+position: 15810   score: 162.607
+position: 15811   score: 162.607
+position: 15812   score: 162.607
+position: 15813   score: 162.607
+position: 15814   score: 162.607
+position: 15815   score: 162.607
+position: 15816   score: 162.607
+position: 15817   score: 162.607
+position: 15818   score: 162.607
+position: 15819   score: 162.607
+position: 15820   score: 162.607
+position: 15821   score: 162.607
+position: 15822   score: 162.607
+position: 15823   score: 162.607
+position: 15824   score: 162.607
+position: 15825   score: 162.607
+position: 15826   score: 162.607
+position: 15827   score: 162.607
+position: 15828   score: 162.607
+position: 15829   score: 162.607
+position: 15830   score: 162.607
+position: 15831   score: 162.607
+position: 15832   score: 162.607
+position: 15833   score: 162.607
+position: 15834   score: 160.97
+position: 15835   score: 159.293
+position: 15836   score: 159.293
+position: 15837   score: 159.293
+position: 15838   score: 159.293
+position: 15839   score: 159.293
+position: 15840   score: 159.293
+position: 15841   score: 159.293
+position: 15842   score: 159.293
+position: 15843   score: 159.293
+position: 15844   score: 159.293
+position: 15845   score: 159.293
+position: 15846   score: 159.293
+position: 15847   score: 159.293
+position: 15848   score: 159.293
+position: 15849   score: 159.293
+position: 15850   score: 159.293
+position: 15851   score: 159.293
+position: 15852   score: 159.293
+position: 15853   score: 159.293
+position: 15854   score: 159.293
+position: 15855   score: 159.293
+position: 15856   score: 159.293
+position: 15857   score: 159.293
+position: 15858   score: 159.293
+position: 15859   score: 159.293
+position: 15860   score: 159.293
+position: 15861   score: 159.293
+position: 15862   score: 159.293
+position: 15863   score: 159.293
+position: 15864   score: 159.293
+position: 15865   score: 159.293
+position: 15866   score: 159.293
+position: 15867   score: 159.293
+position: 15868   score: 159.293
+position: 15869   score: 159.293
+position: 15870   score: 159.293
+position: 15871   score: 159.293
+position: 15872   score: 159.293
+position: 15873   score: 159.293
+position: 15874   score: 159.293
+position: 15875   score: 159.293
+position: 15876   score: 159.293
+position: 15877   score: 159.293
+position: 15878   score: 159.293
+position: 15879   score: 159.293
+position: 15880   score: 159.293
+position: 15881   score: 159.293
+position: 15882   score: 157.532
+position: 15883   score: 157.532
+position: 15884   score: 157.532
+position: 15885   score: 157.532
+position: 15886   score: 157.532
+position: 15887   score: 159.232
+position: 15888   score: 159.232
+position: 15889   score: 159.232
+position: 15890   score: 159.232
+position: 15891   score: 159.232
+position: 15892   score: 159.232
+position: 15893   score: 159.232
+position: 15894   score: 159.232
+position: 15895   score: 159.232
+position: 15896   score: 159.232
+position: 15897   score: 159.232
+position: 15898   score: 159.232
+position: 15899   score: 159.232
+position: 15900   score: 160.951
+position: 15901   score: 160.951
+position: 15902   score: 160.951
+position: 15903   score: 160.951
+position: 15904   score: 160.951
+position: 15905   score: 160.951
+position: 15906   score: 160.951
+position: 15907   score: 160.951
+position: 15908   score: 160.951
+position: 15909   score: 160.951
+position: 15910   score: 160.951
+position: 15911   score: 160.951
+position: 15912   score: 160.951
+position: 15913   score: 160.951
+position: 15914   score: 160.951
+position: 15915   score: 160.951
+position: 15916   score: 160.951
+position: 15917   score: 160.951
+position: 15918   score: 160.951
+position: 15919   score: 160.951
+position: 15920   score: 160.951
+position: 15921   score: 160.951
+position: 15922   score: 160.951
+position: 15923   score: 160.951
+position: 15924   score: 160.951
+position: 15925   score: 160.951
+position: 15926   score: 160.951
+position: 15927   score: 160.951
+position: 15928   score: 160.951
+position: 15929   score: 160.951
+position: 15930   score: 160.951
+position: 15931   score: 160.951
+position: 15932   score: 160.951
+position: 15933   score: 160.951
+position: 15934   score: 160.951
+position: 15935   score: 160.951
+position: 15936   score: 160.951
+position: 15937   score: 160.951
+position: 15938   score: 160.951
+position: 15939   score: 160.951
+position: 15940   score: 160.951
+position: 15941   score: 160.951
+position: 15942   score: 160.951
+position: 15943   score: 160.951
+position: 15944   score: 160.951
+position: 15945   score: 160.951
+position: 15946   score: 160.951
+position: 15947   score: 160.951
+position: 15948   score: 160.951
+position: 15949   score: 160.951
+position: 15950   score: 160.951
+position: 15951   score: 160.951
+position: 15952   score: 160.951
+position: 15953   score: 160.951
+position: 15954   score: 160.951
+position: 15955   score: 160.951
+position: 15956   score: 160.951
+position: 15957   score: 160.951
+position: 15958   score: 160.951
+position: 15959   score: 160.951
+position: 15960   score: 160.951
+position: 15961   score: 160.951
+position: 15962   score: 162.655
+position: 15963   score: 162.655
+position: 15964   score: 162.655
+position: 15965   score: 162.655
+position: 15966   score: 162.655
+position: 15967   score: 162.655
+position: 15968   score: 162.655
+position: 15969   score: 162.655
+position: 15970   score: 162.655
+position: 15971   score: 162.655
+position: 15972   score: 162.655
+position: 15973   score: 162.655
+position: 15974   score: 162.655
+position: 15975   score: 162.655
+position: 15976   score: 162.655
+position: 15977   score: 162.655
+position: 15978   score: 162.655
+position: 15979   score: 162.655
+position: 15980   score: 162.655
+position: 15981   score: 162.655
+position: 15982   score: 162.655
+position: 15983   score: 162.655
+position: 15984   score: 162.655
+position: 15985   score: 162.655
+position: 15986   score: 162.655
+position: 15987   score: 162.655
+position: 15988   score: 164.324
+position: 15989   score: 164.324
+position: 15990   score: 164.324
+position: 15991   score: 164.324
+position: 15992   score: 164.324
+position: 15993   score: 164.324
+position: 15994   score: 164.324
+position: 15995   score: 164.324
+position: 15996   score: 164.324
+position: 15997   score: 164.324
+position: 15998   score: 164.324
+position: 15999   score: 164.324
+position: 16000   score: 164.324
+position: 16001   score: 164.324
+position: 16002   score: 164.324
+position: 16003   score: 164.324
+position: 16004   score: 164.324
+position: 16005   score: 164.324
+position: 16006   score: 164.324
+position: 16007   score: 164.324
+position: 16008   score: 164.324
+position: 16009   score: 164.324
+position: 16010   score: 164.324
+position: 16011   score: 164.324
+position: 16012   score: 164.324
+position: 16013   score: 164.324
+position: 16014   score: 164.324
+position: 16015   score: 164.324
+position: 16016   score: 164.324
+position: 16017   score: 164.324
+position: 16018   score: 164.324
+position: 16019   score: 164.324
+position: 16020   score: 164.324
+position: 16021   score: 164.324
+position: 16022   score: 164.324
+position: 16023   score: 164.324
+position: 16024   score: 164.324
+position: 16025   score: 164.324
+position: 16026   score: 164.324
+position: 16027   score: 164.324
+position: 16028   score: 164.324
+position: 16029   score: 164.324
+position: 16030   score: 164.324
+position: 16031   score: 164.324
+position: 16032   score: 164.324
+position: 16033   score: 164.324
+position: 16034   score: 164.324
+position: 16035   score: 164.324
+position: 16036   score: 164.324
+position: 16037   score: 164.324
+position: 16038   score: 164.324
+position: 16039   score: 164.324
+position: 16040   score: 164.324
+position: 16041   score: 164.324
+position: 16042   score: 164.324
+position: 16043   score: 164.324
+position: 16044   score: 164.324
+position: 16045   score: 164.324
+position: 16046   score: 164.324
+position: 16047   score: 164.324
+position: 16048   score: 164.324
+position: 16049   score: 164.324
+position: 16050   score: 164.324
+position: 16051   score: 164.324
+position: 16052   score: 164.324
+position: 16053   score: 164.324
+position: 16054   score: 164.324
+position: 16055   score: 164.324
+position: 16056   score: 164.324
+position: 16057   score: 164.324
+position: 16058   score: 164.324
+position: 16059   score: 164.324
+position: 16060   score: 164.324
+position: 16061   score: 164.324
+position: 16062   score: 164.324
+position: 16063   score: 164.324
+position: 16064   score: 164.324
+position: 16065   score: 164.324
+position: 16066   score: 164.324
+position: 16067   score: 164.324
+position: 16068   score: 164.324
+position: 16069   score: 166.083
+position: 16070   score: 166.083
+position: 16071   score: 166.083
+position: 16072   score: 166.083
+position: 16073   score: 167.779
+position: 16074   score: 167.779
+position: 16075   score: 167.779
+position: 16076   score: 167.779
+position: 16077   score: 167.779
+position: 16078   score: 167.779
+position: 16079   score: 167.779
+position: 16080   score: 167.779
+position: 16081   score: 167.779
+position: 16082   score: 167.779
+position: 16083   score: 167.779
+position: 16084   score: 167.779
+position: 16085   score: 167.779
+position: 16086   score: 167.779
+position: 16087   score: 167.779
+position: 16088   score: 167.779
+position: 16089   score: 167.779
+position: 16090   score: 167.779
+position: 16091   score: 167.779
+position: 16092   score: 167.779
+position: 16093   score: 167.779
+position: 16094   score: 167.779
+position: 16095   score: 167.779
+position: 16096   score: 167.779
+position: 16097   score: 167.779
+position: 16098   score: 167.779
+position: 16099   score: 166.08
+position: 16100   score: 166.08
+position: 16101   score: 164.36
+position: 16102   score: 164.36
+position: 16103   score: 164.36
+position: 16104   score: 164.36
+position: 16105   score: 164.36
+position: 16106   score: 164.36
+position: 16107   score: 164.36
+position: 16108   score: 164.36
+position: 16109   score: 164.36
+position: 16110   score: 164.36
+position: 16111   score: 164.36
+position: 16112   score: 164.36
+position: 16113   score: 164.36
+position: 16114   score: 164.36
+position: 16115   score: 164.36
+position: 16116   score: 164.36
+position: 16117   score: 164.36
+position: 16118   score: 164.36
+position: 16119   score: 164.36
+position: 16120   score: 162.598
+position: 16121   score: 162.598
+position: 16122   score: 162.598
+position: 16123   score: 162.598
+position: 16124   score: 162.598
+position: 16125   score: 162.598
+position: 16126   score: 162.598
+position: 16127   score: 160.85
+position: 16128   score: 160.85
+position: 16129   score: 160.85
+position: 16130   score: 160.85
+position: 16131   score: 160.85
+position: 16132   score: 160.85
+position: 16133   score: 160.85
+position: 16134   score: 160.85
+position: 16135   score: 160.85
+position: 16136   score: 160.85
+position: 16137   score: 160.85
+position: 16138   score: 160.85
+position: 16139   score: 160.85
+position: 16140   score: 160.85
+position: 16141   score: 160.85
+position: 16142   score: 160.85
+position: 16143   score: 160.85
+position: 16144   score: 160.85
+position: 16145   score: 160.85
+position: 16146   score: 160.85
+position: 16147   score: 160.85
+position: 16148   score: 160.85
+position: 16149   score: 160.85
+position: 16150   score: 160.85
+position: 16151   score: 160.85
+position: 16152   score: 160.85
+position: 16153   score: 160.85
+position: 16154   score: 160.85
+position: 16155   score: 159.154
+position: 16156   score: 157.454
+position: 16157   score: 157.454
+position: 16158   score: 157.454
+position: 16159   score: 157.454
+position: 16160   score: 157.454
+position: 16161   score: 157.454
+position: 16162   score: 157.454
+position: 16163   score: 157.454
+position: 16164   score: 157.454
+position: 16165   score: 157.454
+position: 16166   score: 155.627
+position: 16167   score: 155.627
+position: 16168   score: 155.627
+position: 16169   score: 155.627
+position: 16170   score: 155.627
+position: 16171   score: 155.627
+position: 16172   score: 155.627
+position: 16173   score: 155.627
+position: 16174   score: 155.627
+position: 16175   score: 155.627
+position: 16176   score: 155.627
+position: 16177   score: 155.627
+position: 16178   score: 155.627
+position: 16179   score: 155.627
+position: 16180   score: 155.627
+position: 16181   score: 155.627
+position: 16182   score: 155.627
+position: 16183   score: 155.627
+position: 16184   score: 155.627
+position: 16185   score: 155.627
+position: 16186   score: 155.627
+position: 16187   score: 155.627
+position: 16188   score: 155.627
+position: 16189   score: 153.953
+position: 16190   score: 153.953
+position: 16191   score: 153.953
+position: 16192   score: 153.953
+position: 16193   score: 153.953
+position: 16194   score: 153.953
+position: 16195   score: 153.953
+position: 16196   score: 153.953
+position: 16197   score: 153.953
+position: 16198   score: 153.953
+position: 16199   score: 153.953
+position: 16200   score: 153.953
+position: 16201   score: 153.953
+position: 16202   score: 153.953
+position: 16203   score: 153.953
+position: 16204   score: 153.953
+position: 16205   score: 153.953
+position: 16206   score: 153.953
+position: 16207   score: 153.953
+position: 16208   score: 152.189
+position: 16209   score: 152.189
+position: 16210   score: 152.189
+position: 16211   score: 152.189
+position: 16212   score: 152.189
+position: 16213   score: 152.189
+position: 16214   score: 152.189
+position: 16215   score: 152.189
+position: 16216   score: 152.189
+position: 16217   score: 152.189
+position: 16218   score: 150.505
+position: 16219   score: 150.505
+position: 16220   score: 150.505
+position: 16221   score: 150.505
+position: 16222   score: 150.505

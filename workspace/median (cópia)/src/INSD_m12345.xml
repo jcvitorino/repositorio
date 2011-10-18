@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE INSDSet PUBLIC "-//NCBI//INSD INSDSeq/EN" "http://www.ncbi.nlm.nih.gov/dtd/INSD_INSDSeq.dtd">
+<INSDSet>
+<INSDSeq>
+  <INSDSeq_locus>MUSMYCN</INSDSeq_locus>
+  <INSDSeq_length>1540</INSDSeq_length>
+  <INSDSeq_strandedness>double</INSDSeq_strandedness>
+  <INSDSeq_moltype>DNA</INSDSeq_moltype>
+  <INSDSeq_topology>linear</INSDSeq_topology>
+  <INSDSeq_division>ROD</INSDSeq_division>
+  <INSDSeq_update-date>19-MAR-1992</INSDSeq_update-date>
+  <INSDSeq_create-date>27-APR-1993</INSDSeq_create-date>
+  <INSDSeq_definition>Mouse (ST4) c-myc proto-oncogene, promoter region</INSDSeq_definition>
+  <INSDSeq_primary-accession>M12345</INSDSeq_primary-accession>
+  <INSDSeq_accession-version>M12345.1</INSDSeq_accession-version>
+  <INSDSeq_other-seqids>
+    <INSDSeqid>gb|M12345.1|MUSMYCN</INSDSeqid>
+    <INSDSeqid>gi|199964</INSDSeqid>
+  </INSDSeq_other-seqids>
+  <INSDSeq_keywords>
+    <INSDKeyword>myc proto-oncogene</INSDKeyword>
+    <INSDKeyword>proto-oncogene</INSDKeyword>
+  </INSDSeq_keywords>
+  <INSDSeq_source>Mus musculus (house mouse)</INSDSeq_source>
+  <INSDSeq_organism>Mus musculus</INSDSeq_organism>
+  <INSDSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi; Muroidea; Muridae; Murinae; Mus</INSDSeq_taxonomy>
+  <INSDSeq_references>
+    <INSDReference>
+      <INSDReference_reference>1 (bases 1 to 1502)</INSDReference_reference>
+      <INSDReference_position>1..1502</INSDReference_position>
+      <INSDReference_authors>
+        <INSDAuthor>Corcoran,L.M.</INSDAuthor>
+        <INSDAuthor>Cory,S.</INSDAuthor>
+        <INSDAuthor>Adams,J.M.</INSDAuthor>
+      </INSDReference_authors>
+      <INSDReference_title>Transposition of the immunoglobulin heavy chain enhancer to the myc oncogene in a murine plasmacytoma</INSDReference_title>
+      <INSDReference_journal>Cell 40 (1), 71-79 (1985)</INSDReference_journal>
+      <INSDReference_pubmed>2981633</INSDReference_pubmed>
+    </INSDReference>
+    <INSDReference>
+      <INSDReference_reference>2 (bases 1 to 1540)</INSDReference_reference>
+      <INSDReference_position>1..1540</INSDReference_position>
+      <INSDReference_authors>
+        <INSDAuthor>Corcoran,L.M.</INSDAuthor>
+      </INSDReference_authors>
+      <INSDReference_journal>Unpublished (1986)</INSDReference_journal>
+    </INSDReference>
+  </INSDSeq_references>
+  <INSDSeq_comment>Original source text: Mouse (cell line ST4, from S-MuLV infected BALB/c mouse) DNA.; A printed copy of the sequence in [1],[2] was kindly provided by L.M.Corcoran 21-OCT-1985.</INSDSeq_comment>
+  <INSDSeq_feature-table>
+    <INSDFeature>
+      <INSDFeature_key>source</INSDFeature_key>
+      <INSDFeature_location>1..1540</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1</INSDInterval_from>
+          <INSDInterval_to>1540</INSDInterval_to>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>organism</INSDQualifier_name>
+          <INSDQualifier_value>Mus musculus</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>mol_type</INSDQualifier_name>
+          <INSDQualifier_value>genomic DNA</INSDQualifier_value>
+        </INSDQualifier>
+        <INSDQualifier>
+          <INSDQualifier_name>db_xref</INSDQualifier_name>
+          <INSDQualifier_value>taxon:10090</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>misc_feature</INSDFeature_key>
+      <INSDFeature_location>72..73</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>72</INSDInterval_from>
+          <INSDInterval_to>73</INSDInterval_to>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>ST4 proviral insertion site</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>misc_feature</INSDFeature_key>
+      <INSDFeature_location>96..97</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>96</INSDInterval_from>
+          <INSDInterval_to>97</INSDInterval_to>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>Tikaut proviral insertion site</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>misc_feature</INSDFeature_key>
+      <INSDFeature_location>876..877</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>876</INSDInterval_from>
+          <INSDInterval_to>877</INSDInterval_to>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>ST1 proviral insertion site</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>variation</INSDFeature_key>
+      <INSDFeature_location>1124</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_point>1124</INSDInterval_point>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>g in ST4; a in ABPC17</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>misc_feature</INSDFeature_key>
+      <INSDFeature_location>1129..1130</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1129</INSDInterval_from>
+          <INSDInterval_to>1130</INSDInterval_to>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>note</INSDQualifier_name>
+          <INSDQualifier_value>ABPC17 Ig H-chain enhancer insertion site</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+    <INSDFeature>
+      <INSDFeature_key>mRNA</INSDFeature_key>
+      <INSDFeature_location>1491..&gt;1540</INSDFeature_location>
+      <INSDFeature_intervals>
+        <INSDInterval>
+          <INSDInterval_from>1491</INSDInterval_from>
+          <INSDInterval_to>1540</INSDInterval_to>
+          <INSDInterval_accession>M12345.1</INSDInterval_accession>
+        </INSDInterval>
+      </INSDFeature_intervals>
+      <INSDFeature_partial3 value="true"/>
+      <INSDFeature_quals>
+        <INSDQualifier>
+          <INSDQualifier_name>product</INSDQualifier_name>
+          <INSDQualifier_value>myc mRNA</INSDQualifier_value>
+        </INSDQualifier>
+      </INSDFeature_quals>
+    </INSDFeature>
+  </INSDSeq_feature-table>
+  <INSDSeq_sequence>TCTAGAACCAATGCACAGAGCAAAAGACTCATGTTTCTGGTTGGTTAATAAGCTAGATTATCGTGTATATATAAAGTGTGTATGTATACGTTTGGGGATTGTACAGAATGCACAGCGTAGTATTCAGGAAAAAGGAAACTGGGAAATTAATGTATAAATTAAAATCAGCTTTTAATTAGCTTAACACACACATACGAAGGCAAAAATGTAACGTTACTTTGATCTGATCAGGGCCGACTTTTTTTTTTAAGTGCATAATTACGATTCCAGTAATAAAAGGGGAAAGCTTGGGTTTGTCCTGGGAGGAAGGGGTTAACGGTTTTCTTTATTCTAGGGTCTCTGCAGGCTCCCCAGATCTGGGTTGGCAATTCACTCCTCCCCCTTTCTGGGAAGTCCGGGTTTTCCCCAACCCCCCAATTCATGGCATATTCTCGCGTCTAGCCTTGATTTTCCCCACCCCAGCTCCTAAACCAGAGTCTGCTGCAAACTGGCTCCACAGGGGCAAAGAGGATTTGCCTCTTGTGAAAACCGACTGTGGCCCTGGAACTGTGTGGAGGTGTATGGGGTGTAGACCGGCAGAGACTCCTCCCGGAGGAGCCGGTAGAGCGCACCCGCCGCCACTTTACTGGACTGCGCAGGGAGACCTACAGGGGAAAGAGCCGCCTCCACACCACCCGCCGGTGGAAGTCCGAACCGGAGGTGCTGGAGTGTGTGTGTGGGGGGGGGGGGGGGAATCTGCCTTTTGGCAGCAAATTGGGGGGGGGGTCGTTCTGGAAAGAATGTGCCCAGTCAACATAACTGTACGACCAAAGGCAAAATACACAATGCCTTCCCCGCGAGATGGAGTGGCTGTTTATCCCTAAGTGGCTCTCCAAGTATACGTGGCAGTGAGTTGCTGAGCAATTTTAATAAAATTCCAGACATCGTTTTTCCTGCATAGACCTCATCTGCGGTTGATCACCCTCTATCACTCCACACACTGAGCGGGGGCTCCTAGATAACTCATTCGTTCGTCCTTCCCCCTTTCTAAATTCTGTTTTCCCCAGCCTTAGAGAGACGCCTGGCCGCCCGGGACGTGCGTGACGCGGTCCAGGGTACATGGCGTATTGTGTGGAGCGAGGCAGCTGTTCCACCTGCGGTGACTGATATACGCAGGGCAAGAACACAGTTCAGCCGAGCGCTGCGCCCGAACAACCGTACAGAAAGGGAAAGGACTAGCGCGCGAGAAGAGAAAATGGTCGGGCGCGCAGTTAATTCATGCTGCGCTATTACTGTTTACACCCCGGAGCCGGAGTACTGGACTGCGGGCTGAGGCTCCTCCTCCTCTTTCCCCGGCTCCCCACTAGCCCCCTCCCGAGTTCCCAAAGCAGAGGGCGGGGAAACGAGAGGAAGGAAAAAAATAGAGAGAGGTGGGGAAGGGAGAAAGAGAGGTTCTCTGGCTAATCCCCGCCCACCCGCCCTTTATATTCCGGGGGTCTGCGCGGCCGAGGACCCCTGGCTGCGCTGCTCTCAGCTGCCGGGTCCGACTCGCCTCACTCAG</INSDSeq_sequence>
+</INSDSeq>
+</INSDSet>

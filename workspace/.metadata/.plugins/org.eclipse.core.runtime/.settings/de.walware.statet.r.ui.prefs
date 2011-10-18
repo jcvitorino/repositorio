@@ -1,0 +1,5 @@
+#Tue Jul 05 11:11:52 BRT 2011
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+RConnector/rconnector.id=de.walware.statet.r.launching.RNewConsoleConnector
+useQuickDiffPrefPage=true

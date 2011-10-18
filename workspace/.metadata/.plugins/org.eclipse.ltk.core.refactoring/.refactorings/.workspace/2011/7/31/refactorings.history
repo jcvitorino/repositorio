@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;MotifAlgo/Debug/hex.diff&apos;" deleteContents="false" description="Delete resource &apos;MotifAlgo/Debug/hex.diff&apos;" element1="/MotifAlgo/Debug/hex.diff" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1311704976299"/>
+</session>

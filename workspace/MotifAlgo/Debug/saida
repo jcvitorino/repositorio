@@ -1,0 +1,14 @@
+Oligo-Analisys
+ L 600
+ T 1200
+ learningSeqSize 6887
+ seqTotalsize 1230
+Seq ATATAT freq 0.0097561  exp_freq 0.000692094 occ 12 exp_occ 0.830513 occ_P 9.34664e-11 Occ_E 9.97408e-11 sig 6.68306
+Seq GTCGGT freq 0.00406504  exp_freq 6.29142e-05 occ 5 exp_occ 0.0754971 occ_P 1.88016e-08 Occ_E 1.90397e-08 sig 4.40228
+Seq TATATA freq 0.00650407  exp_freq 0.000657316 occ 8 exp_occ 0.788779 occ_P 1.65797e-06 Occ_E 1.81458e-06 sig 2.42316
+Seq TGATAT freq 0.00487805  exp_freq 0.000350303 occ 6 exp_occ 0.420364 occ_P 4.98084e-06 Occ_E 5.29487e-06 sig 1.95808
+Seq ATATCA freq 0.00487805  exp_freq 0.000439041 occ 6 exp_occ 0.52685 occ_P 1.73635e-05 Occ_E 1.87548e-05 sig 1.40882
+Seq CGGTCG freq 0.00243902  exp_freq 5.0177e-05 occ 3 exp_occ 0.0602124 occ_P 3.41771e-05 Occ_E 3.46965e-05 sig 1.14165
+Seq TCGGTC freq 0.00243902  exp_freq 7.21777e-05 occ 3 exp_occ 0.0866132 occ_P 9.90814e-05 Occ_E 0.000101259 sig 0.676503
+Seq TTTCTT freq 0.00487805  exp_freq 0.000626156 occ 6 exp_occ 0.751387 occ_P 0.000116848 Occ_E 0.000130607 sig 0.565972
+Seq TATATT freq 0.00406504  exp_freq 0.000512274 occ 5 exp_occ 0.614729 occ_P 0.000393265 Occ_E 0.000437207 sig 0.04125

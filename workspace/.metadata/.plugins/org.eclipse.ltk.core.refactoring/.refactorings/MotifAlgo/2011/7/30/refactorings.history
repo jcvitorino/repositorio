@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;MotifAlgo/Debug/1471-2105-6-262-S1.TXT&apos; to &apos;dros.fasta&apos;" description="Rename resource &apos;1471-2105-6-262-S1.TXT&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Debug/1471-2105-6-262-S1.TXT" name="dros.fasta" stamp="1311106629268" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;MotifAlgo/Debug/cr25s.fsa&apos; to &apos;cr25s.fasta&apos;" description="Rename resource &apos;cr25s.fsa&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Debug/cr25s.fsa" name="cr25s.fasta" stamp="1311187764045" updateReferences="true"/>
+</session>
