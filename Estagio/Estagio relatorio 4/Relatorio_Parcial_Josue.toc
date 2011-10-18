@@ -1,0 +1,9 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Coleta dos dados e pre-processamento}{5}{section.1.1}
+\contentsline {chapter}{\numberline {2}Ferramenta an\IeC {\'a}lise de elementos regulat\IeC {\'o}rios}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Median String}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Oligo-Analysis}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}HexDiff}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Documenta\IeC {\c c}\IeC {\~a}o b\IeC {\'a}sica}{10}{section.2.4}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{15}{figure.2.8}

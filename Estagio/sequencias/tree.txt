@@ -1,0 +1,9 @@
+Arabidopsis thaliana
+Oryza sativa
+Sorghum bicolor
+Vitis vinifera
+
+Glycine max
+Medicago
+Cucumis
+Prunus

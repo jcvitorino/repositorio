@@ -1,0 +1,115 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.52 }
+
+\bibitem[Bigelow et al. 2004]{Bigelow2004CisOrtho}
+\abntrefinfo{Bigelow et al.}{BIGELOW et al.}{2004}
+{BIGELOW, H. et al. {CisOrtho: A program pipeline for genome-wide
+  identification of transcription factor target genes using phylogenetic
+  footprinting}.
+\emph{BMC Bioinformatics}, v.~5, n.~1, p.~27+, 2004.
+ISSN 1471-2105.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1186/1471-2105-5-27$>$.}
+
+\bibitem[Chan e Kibler 2005]{Chan2005}
+\abntrefinfo{Chan e Kibler}{CHAN; KIBLER}{2005}
+{CHAN, B.; KIBLER, D. {Using hexamers to predict cis-regulatory motifs in
+  Drosophila}.
+\emph{BMC Bioinformatics}, v.~6, n.~1, p.~262+, out. 2005.
+ISSN 1471-2105.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1186/1471-2105-6-262$>$.}
+
+\bibitem[Das e Dai 2007]{Das2007}
+\abntrefinfo{Das e Dai}{DAS; DAI}{2007}
+{DAS, M.; DAI, H.~K. {A survey of DNA motif finding algorithms}.
+\emph{BMC Bioinformatics}, v.~8, n. Suppl 7, p.~S21+, 2007.
+ISSN 1471-2105.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1186/1471-2105-8-S7-S21$>$.}
+
+\bibitem[Ewens e Grant 2005]{Ewens2005}
+\abntrefinfo{Ewens e Grant}{EWENS; GRANT}{2005}
+{EWENS, W.~J.; GRANT, G.~R. \emph{{Statis[t]ical methods in bioinformatics : an
+  introduction}}. 2nd. ed. Springer, 2005. Hardcover.
+ISBN 0387400826. Dispon{\'\i}vel em:
+  $<$http://www.amazon.com/exec/obidos/redirect?tag=citeulike07-20\&path=ASIN/0387400826$>$.}
+
+\bibitem[Helden, Andr\'{e} e Collado-Vides 1998]{Helden1998}
+\abntrefinfo{Helden, Andr\'{e} e Collado-Vides}{HELDEN; ANDR\'{e};
+  COLLADO-VIDES}{1998}
+{HELDEN, J. van; ANDR\'{e}, B.; COLLADO-VIDES, J. {Extracting regulatory sites
+  from the upstream region of yeast genes by computational analysis of
+  oligonucleotide frequencies1}.
+\emph{Journal of Molecular Biology}, Centro de Investigaci\'{o}n sobre
+  Fijaci\'{o}n de Nitr\'{o}geno, Universidad Nacional Aut\'{o}noma de
+  M\'{e}xico, AP565A Cuernavaca, Morelos, 62100, M\'{e}xico.
+  jvanheld@ebi.ac.uk, v.~281, n.~5, p. 827--842, set. 1998.
+ISSN 00222836.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1006/jmbi.1998.1947$>$.}
+
+\bibitem[Holloway, Kon e DeLisi 2008]{Holloway2008}
+\abntrefinfo{Holloway, Kon e DeLisi}{HOLLOWAY; KON; DELISI}{2008}
+{HOLLOWAY, D.; KON, M.; DELISI, C. {Classifying transcription factor targets
+  and discovering relevant biological features}.
+\emph{Biology Direct}, v.~3, n.~1, p.~22+, maio 2008.
+ISSN 1745-6150.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1186/1745-6150-3-22$>$.}
+
+\bibitem[Jones e Pevzner 2004]{Jones2004book}
+\abntrefinfo{Jones e Pevzner}{JONES; PEVZNER}{2004}
+{JONES, N.~C.; PEVZNER, P. \emph{{An introduction to bioinformatics
+  algorithms}}. MIT Press, 2004.
+ISBN 9780262101066. Dispon{\'\i}vel em:
+  $<$http://www.worldcat.org/isbn/9780262101066$>$.}
+
+\bibitem[Lan et al. 2007]{Lan2007}
+\abntrefinfo{Lan et al.}{LAN et al.}{2007}
+{LAN, H. et al. {Combining classifiers to predict gene function in Arabidopsis
+  thaliana using large-scale gene expression measurements}.
+\emph{BMC Bioinformatics}, v.~8, n.~1, p.~358+, set. 2007.
+ISSN 1471-2105.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1186/1471-2105-8-358$>$.}
+
+\bibitem[Priest, Filichkin e Mockler 2009]{Priest2009}
+\abntrefinfo{Priest, Filichkin e Mockler}{PRIEST; FILICHKIN; MOCKLER}{2009}
+{PRIEST, H.~D.; FILICHKIN, S.~A.; MOCKLER, T.~C. {cis-Regulatory elements in
+  plant cell signaling}.
+\emph{Current Opinion in Plant Biology}, v.~12, n.~5, p. 643--649, out. 2009.
+ISSN 13695266.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1016/j.pbi.2009.07.016$>$.}
+
+\bibitem[Thomas-Chollier et al. 2008]{Thomas-Chollier2008}
+\abntrefinfo{Thomas-Chollier et al.}{THOMAS-CHOLLIER et al.}{2008}
+{THOMAS-CHOLLIER, M. et al. {RSAT: regulatory sequence analysis tools}.
+\emph{Nucleic Acids Research}, v.~36, n. suppl 2, p. W119--W127, jul. 2008.
+ISSN 1362-4962.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1093/nar/gkn304$>$.}
+
+\bibitem[Walenz e Florea 2011]{Walenz:2011:Online}
+\abntrefinfo{Walenz e Florea}{WALENZ; FLOREA}{2011}
+{WALENZ, B.; FLOREA, L. \emph{Meryl}. jul. 2011.
+Dispon{\'\i}vel em: $<$http://sourceforge.net/projects/kmer/$>$.}
+
+\bibitem[Wang et al. 2009]{Wang2009}
+\abntrefinfo{Wang et al.}{WANG et al.}{2009}
+{WANG, S. et al. An \&lt;i\&gt;in silico\&lt;/i\&gt; strategy identified the
+  target gene candidates regulated by dehydration responsive element binding
+  proteins ({DREBs}) in \&{lt;i\&gt;Arabidopsis}\&lt;/i\&gt; genome.
+\emph{Plant Molecular Biology}, Springer Netherlands, v.~69, n.~1, p. 167--178,
+  jan. 2009.
+ISSN 0167-4412.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1007/s11103-008-9414-5$>$.}
+
+\bibitem[Zhang et al. 2005]{Zhang2005}
+\abntrefinfo{Zhang et al.}{ZHANG et al.}{2005}
+{ZHANG, W. et al. {Cis-regulatory element based targeted gene finding:
+  genome-wide identification of abscisic acid- and abiotic stress-responsive
+  genes in Arabidopsis thaliana}.
+\emph{Bioinformatics}, Oxford University Press, v.~21, n.~14, p. 3074--3081,
+  jul. 2005.
+ISSN 1367-4803.
+Dispon{\'\i}vel em: $<$http://dx.doi.org/10.1093/bioinformatics/bti490$>$.}
+
+\end{thebibliography}

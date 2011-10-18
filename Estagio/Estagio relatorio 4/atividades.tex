@@ -1,0 +1,15 @@
+\begin{LARGE}
+Atividades desenvolvidas
+\end{LARGE}  
+
+Neste mês foi continuado o estudo do  método de busca de elementos regulatórios OligoAnalisys \cite{Helden1998}, que focaliza a busca de padrões em genes co-regulados.
+
+O programa implementado anteriormente apresentava um baixo desempenho com complexidade $O(l n^t)$, onde $t$ é o numero de sequências, $n$ tamanho da sequência de DNA e $l$ tamanho do elemento regulatório, para a busca da frequência de nucleotídeos, então foram feitas análises na implementação e estudos na literatura para melhorar o desempenho do programa.
+
+Na literatura foi encontrado o \textit{Median String Problem} \cite{Jones2004book}, que tem uma complexidade de $O(4^l n t)$. Este algoritmo busca em conjunto de palavras uma palavra média que aparece com mais frequência. Este algoritmo pode ser usado para encontrar a frequência de nucleotídeos, uma vez que, é necessário encontrar dentro da sequência de DNA, subsequências que aparecem com uma maior frequência.
+
+Este algoritmo foi implementado e testado em conjunto de sequências aleatórias com elementos regulatórios inseridos em posições randômicas. Os elementos regulatórios inseridos foram encontrados com exito, e com um tempo de execução favorável, entretanto da sequência se utilizada foi pequena (100 pb), dez vezes menor que o usual.
+
+Esta implementação foi feita na linguagem R \cite{R2011}, ela esta sendo reescrita na linguagem C++ com auxilio da biblioteca Rcpp \cite{Eddelbuettel2011}, para que aumente ainda mais o desempenho, então serão feitos testes com conjuntos de dados maiores e também reais.
+
+Em paralelo foram feitos estudos de outros métodos com \cite{Chan2005} e \cite{Kon2007}, para o total entendimento do último foi necessário um estudo aprofundado na técnica de SVM tendo como referencias \cite{Burges1998Support} e \cite{Vapnik1995Support}

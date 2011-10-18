@@ -1,0 +1,7 @@
+AY244760.1
+DQ055133.1
+DQ055134.2(incerto)
+DQ054363.1
+
+
+http://www.phytozome.net/biomart/martresults?file=martquery_0915105256_718.txt.gz.

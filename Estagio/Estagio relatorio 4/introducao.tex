@@ -1,0 +1,22 @@
+\chapter{Introdução}
+
+Em cada célula dos organismos vivos, para que ocorra a transcrição de um gene é necessário a ação conjunta dos fatores de transcrição e dos elementos regulatórios. Os fatores de transcrição são proteínas que se ligam nos elementos regulatórios. Já os elementos regulatórios são pequenos segmentos de DNA localizados em uma região antes do gene que será transcrito. Essa região é chamada de região promotora (ou reguladora).
+
+É de grande importância a identificação dos elementos regulatórios. Uma vez que eles estão ligados com a expressão de um gene. O conhecimento agregado com a identificação desses elementos pode levar a melhoramentos genéticos de organismos importantes para o consumo e a economia mundial, como por exemplo de grãos como o arroz, soja e milho.
+
+No empenho de encontrar elementos regulatórios diversos algoritmos foram propostos. \cite{Das2007} os classificaram em três grupos:
+
+\begin{itemize}
+	\item Os baseados em sequências promotoras de genes que são regulados pelos mesmos fatores de transcrição (genes co-regulados); estes métodos se concentram em apenas um único genoma.
+	\subitem Este ainda é subdividido em : predição probabilística e predição baseada em palavras.
+	
+	\item Os que utilizam sequências promotoras de genes ortólogos, que são sequências de DNA similares a várias espécies, indicando que estas espécies derivaram de um ancestral comum, também chamados de métodos de rastros filogenéticos.
+	
+	\item Os métodos que combinam rastros filogenéticos e sequências promotoras de genes co-regulados.
+\end{itemize}
+
+Também existem métodos que focam na busca de agrupamentos de elementos regulatórios na região promotora, conhecidos como \textit{CRM} (do inglês \textit{Cis Regulatory Modules}). Os CRMs integram a conexão de vários TFs resultando em um controle combinatório, e em um padrão específico da expressão de um gene \cite{Priest2009}.
+
+Assim como a identificação dos elementos regulatórios é de grande importância, também é a identificação de fatores de transcrição e a associação da funcionalidade de cada fator de transcrição na expressão e respostas da célula. Estudos como de \cite{Holloway2008}, \\ \cite{Lan2007},\cite{Zhang2005} e \cite{Bigelow2004CisOrtho}, focaram na identificação de genes que são expressados quando há a ação conjunta de determinados fatores de transcrição e elementos regulatórios, ação que só ocorre em casos específicos, como por exemplo em \cite{Wang2009} onde a ação do fator de transcrição \textit{dehydration responsive element binding proteins} (DREB) e do elemento regulatório identificado como \textit{dehydration responsive element} (DRE) que é formado pela sequencia consenso de bases nitrogenadas (A/GCCGAC), atuam na resposta a estresses abióticos nas plantas, como: alta salinidade, baixa temperaturas e seca. Segundo \cite{Zhang2005} para que o DRE seja funcional ele tem que estar acompanhado por outros elementos regulatórios, mas a especificidade desses elementos regulatórios é baixa, fazendo que muitos desses varie de gene para gene. O objetivo deste trabalho é a implementação e a utilização de alguns dos métodos para identificação de elementos regulatórios, para identificar o conjunto de elementos que atuam em conjunto com o DRE formando um CRM, e então com essa informação fazer a classificação de genes alvos do DREB, utilizando o método de aprendizado de máquina de vetor de suporte.
+
+No Capitulo \ref{cap1} é descrito como foi obtida as sequências para teste, assim como o pré-processamento das sequência para adequar a entrada nos diversos algoritmos de busca de elementos regulatórios. No Capitulo \ref{cap2} são apresentados os algoritmos desenvolvidos, que foram utilizados na predição de elementos regulatórios. No capitulo 3 é mostrado detalhes da implementação da máquina de vetor de suporte. Finalizando é descritas as conclusões obtidas após a realização deste estágio.
