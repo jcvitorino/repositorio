@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;TFtarget/src/TFtarget.cpp&apos;" deleteContents="false" description="Delete resource &apos;TFtarget/src/TFtarget.cpp&apos;" element1="/TFtarget/src/TFtarget.cpp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1318982526988"/>&#x0A;<refactoring comment="Delete resource &apos;TFtarget/Debug/resultado.fasta&apos;" deleteContents="false" description="Delete resource &apos;TFtarget/Debug/resultado.fasta&apos;" element1="/TFtarget/Debug/resultado.fasta" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1318987923225"/>
+</session>

@@ -21787,3 +21787,1982 @@ make all
 make: Nada a ser feito para `all'.
 
 **** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: MotifAlgo
+Invoking: Cross G++ Linker
+g++  -o "MotifAlgo"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: MotifAlgo
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: At global scope:
+../src/OligoAnalisys.cpp:128:1: error: expected declaration before ‘}’ token
+make: ** [src/OligoAnalisys.o] Erro 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:73:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘void OligoAnalisys::printFindOlig(std::list<CalculatedOligo>)’:
+../src/OligoAnalisys.cpp:179:32: error: no match for ‘operator<<’ in ‘std::operator<< [with _Traits = std::char_traits<char>](((std::basic_ostream<char>&)(& std::cout)), ((const char*)"Seq")) << kmerFreq::getOlig() const()’
+/usr/include/c++/4.5/ostream:108:7: note: candidates are: std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ostream_type& (*)(std::basic_ostream<_CharT, _Traits>::__ostream_type&)) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:117:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__ios_type& (*)(std::basic_ostream<_CharT, _Traits>::__ios_type&)) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>, std::basic_ostream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+/usr/include/c++/4.5/ostream:127:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(std::ios_base& (*)(std::ios_base&)) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:165:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long int) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:169:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long unsigned int) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:173:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(bool) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/bits/ostream.tcc:91:5: note:                 std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(short int) [with _CharT = char, _Traits = std::char_traits<char>]
+/usr/include/c++/4.5/ostream:180:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(short unsigned int) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/bits/ostream.tcc:105:5: note:                 std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(int) [with _CharT = char, _Traits = std::char_traits<char>]
+/usr/include/c++/4.5/ostream:191:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(unsigned int) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:200:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long int) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:204:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long long unsigned int) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:209:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(double) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:213:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(float) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:221:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(long double) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/ostream:225:7: note:                 std::basic_ostream<_CharT, _Traits>::__ostream_type& std::basic_ostream<_CharT, _Traits>::operator<<(const void*) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__ostream_type = std::basic_ostream<char>]
+/usr/include/c++/4.5/bits/ostream.tcc:119:5: note:                 std::basic_ostream<_CharT, _Traits>& std::basic_ostream<_CharT, _Traits>::operator<<(std::basic_ostream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char, _Traits = std::char_traits<char>, std::basic_ostream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+make: ** [src/OligoAnalisys.o] Erro 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:76:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/HexDiff.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HexDiff.d" -MT"src/HexDiff.d" -o "src/HexDiff.o" "../src/HexDiff.cpp"
+../src/HexDiff.cpp: In member function ‘void HexDiff::performFrequency()’:
+../src/HexDiff.cpp:58:34: warning: deprecated conversion from string constant to ‘char*’
+../src/HexDiff.cpp:59:34: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/HexDiff.cpp
+ 
+Building file: ../src/MotifAlgo.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MotifAlgo.d" -MT"src/MotifAlgo.d" -o "src/MotifAlgo.o" "../src/MotifAlgo.cpp"
+../src/MotifAlgo.cpp: In member function ‘std::map<std::basic_string<char>, kmerFreq> MotifAlgo::computeTotalFrequency(DNA, int, double)’:
+../src/MotifAlgo.cpp:138:31: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/MotifAlgo.cpp
+ 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building file: ../src/medianString.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/medianString.d" -MT"src/medianString.d" -o "src/medianString.o" "../src/medianString.cpp"
+../src/medianString.cpp: In function ‘int hammingDistance(std::string, std::string)’:
+../src/medianString.cpp:17:31: warning: comparison between signed and unsigned integer expressions
+../src/medianString.cpp: In function ‘Freq computeFrequency(DNA, DNAseq)’:
+../src/medianString.cpp:200:6: warning: unused variable ‘dist’
+Finished building: ../src/medianString.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/HexDiff.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HexDiff.d" -MT"src/HexDiff.d" -o "src/HexDiff.o" "../src/HexDiff.cpp"
+../src/HexDiff.cpp: In member function ‘void HexDiff::performFrequency()’:
+../src/HexDiff.cpp:58:34: warning: deprecated conversion from string constant to ‘char*’
+../src/HexDiff.cpp:59:34: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/HexDiff.cpp
+ 
+Building file: ../src/MotifAlgo.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MotifAlgo.d" -MT"src/MotifAlgo.d" -o "src/MotifAlgo.o" "../src/MotifAlgo.cpp"
+../src/MotifAlgo.cpp: In member function ‘std::map<std::basic_string<char>, kmerFreq> MotifAlgo::computeTotalFrequency(DNA, int, double)’:
+../src/MotifAlgo.cpp:138:31: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/MotifAlgo.cpp
+ 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::findInSeq(std::list<CalculatedOligo>, DNA, int)’:
+../src/OligoAnalisys.cpp:165:37: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building file: ../src/medianString.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/medianString.d" -MT"src/medianString.d" -o "src/medianString.o" "../src/medianString.cpp"
+../src/medianString.cpp: In function ‘int hammingDistance(std::string, std::string)’:
+../src/medianString.cpp:17:31: warning: comparison between signed and unsigned integer expressions
+../src/medianString.cpp: In function ‘Freq computeFrequency(DNA, DNAseq)’:
+../src/medianString.cpp:200:6: warning: unused variable ‘dist’
+Finished building: ../src/medianString.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****

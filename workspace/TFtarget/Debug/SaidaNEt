@@ -1,0 +1,38 @@
+Oligo-Analisys
+ L 1800
+ T 3600
+ learningSeqSize 14183
+ seqTotalsize 3690
+Seq GTCGGC freq 0.00243902  exp_freq 4.3103e-05 occ 9 exp_occ 0.155171 occ_P 1.21887e-13 Occ_E 2.04281e-14 sig 10.3717
+Seq TATATA freq 0.0108401  exp_freq 0.000649252 occ 40 exp_occ 2.33731 occ_P 5.47555e-35 Occ_E 1.17462e-13 sig 9.61204
+Seq ATATAT freq 0.0108401  exp_freq 0.000713049 occ 40 exp_occ 2.56697 occ_P 1.8533e-33 Occ_E 1.19904e-13 sig 9.6031
+Seq AGAGAG freq 0.00243902  exp_freq 0.000143234 occ 9 exp_occ 0.515643 occ_P 4.20374e-09 Occ_E 4.43041e-09 sig 5.03549
+Seq GAGAGA freq 0.00243902  exp_freq 0.000177894 occ 9 exp_occ 0.64042 occ_P 2.60983e-08 Occ_E 2.7868e-08 sig 4.23683
+Seq TGAAGA freq 0.00271003  exp_freq 0.000328198 occ 10 exp_occ 1.18151 occ_P 4.4402e-07 Occ_E 4.96728e-07 sig 2.98582
+Seq TCTTCA freq 0.00271003  exp_freq 0.000336173 occ 10 exp_occ 1.21022 occ_P 5.48568e-07 Occ_E 6.15444e-07 sig 2.89275
+Seq TGATTC freq 0.00216802  exp_freq 0.000193997 occ 8 exp_occ 0.69839 occ_P 6.93778e-07 Occ_E 7.51501e-07 sig 2.80601
+Seq TTGATT freq 0.00271003  exp_freq 0.000379791 occ 10 exp_occ 1.36725 occ_P 1.58863e-06 Occ_E 1.8106e-06 sig 2.42412
+Seq TTCTTC freq 0.00243902  exp_freq 0.000303241 occ 9 exp_occ 1.09167 occ_P 2.0217e-06 Occ_E 2.26588e-06 sig 2.3267
+Seq GTTTTG freq 0.00271003  exp_freq 0.000392243 occ 10 exp_occ 1.41208 occ_P 2.09755e-06 Occ_E 2.40149e-06 sig 2.30146
+Seq CTTCAT freq 0.00216802  exp_freq 0.000253178 occ 8 exp_occ 0.911441 occ_P 4.7198e-06 Occ_E 5.2441e-06 sig 1.96227
+Seq ATGAAG freq 0.00216802  exp_freq 0.000258455 occ 8 exp_occ 0.930438 occ_P 5.46212e-06 Occ_E 6.08279e-06 sig 1.89783
+Seq CTCTCT freq 0.00243902  exp_freq 0.000344942 occ 9 exp_occ 1.24179 occ_P 5.54983e-06 Occ_E 6.32378e-06 sig 1.88096
+Seq GAATCA freq 0.00216802  exp_freq 0.000280985 occ 8 exp_occ 1.01155 occ_P 9.83086e-06 Occ_E 1.10561e-05 sig 1.63834
+Seq GCCGAC freq 0.00243902  exp_freq 0.000391733 occ 9 exp_occ 1.41024 occ_P 1.47393e-05 Occ_E 1.71137e-05 sig 1.44859
+Seq TCTCTC freq 0.00243902  exp_freq 0.000400561 occ 9 exp_occ 1.44202 occ_P 1.74507e-05 Occ_E 2.03344e-05 sig 1.3737
+Seq GAAGAA freq 0.00243902  exp_freq 0.000403256 occ 9 exp_occ 1.45172 occ_P 1.83577e-05 Occ_E 2.14148e-05 sig 1.35122
+Seq GCATTT freq 0.00189702  exp_freq 0.000255477 occ 7 exp_occ 0.919716 occ_P 4.38437e-05 Occ_E 4.94402e-05 sig 0.987856
+Seq GATTCG freq 0.00135501  exp_freq 0.000114247 occ 5 exp_occ 0.41129 occ_P 6.48591e-05 Occ_E 6.95739e-05 sig 0.83949
+Seq TGTCGG freq 0.00108401  exp_freq 5.86409e-05 occ 4 exp_occ 0.211107 occ_P 6.69104e-05 Occ_E 6.98347e-05 sig 0.837866
+Seq TTGCTT freq 0.00162602  exp_freq 0.000190474 occ 6 exp_occ 0.685707 occ_P 7.25036e-05 Occ_E 8.02517e-05 sig 0.777482
+Seq AGGCCT freq 0.00108401  exp_freq 6.13876e-05 occ 4 exp_occ 0.220995 occ_P 7.95652e-05 Occ_E 8.32116e-05 sig 0.761753
+Seq TTTTTT freq 0.00487805  exp_freq 0.00180271 occ 18 exp_occ 6.48975 occ_P 9.73578e-05 Occ_E 0.000145864 sig 0.517988
+Seq CTTCTT freq 0.00189702  exp_freq 0.000321079 occ 7 exp_occ 1.15588 occ_P 0.000171529 Occ_E 0.000199852 sig 0.381228
+Seq AATCAA freq 0.00271003  exp_freq 0.000669684 occ 10 exp_occ 2.41086 occ_P 0.000162952 Occ_E 0.000207325 sig 0.365286
+Seq TTTGGC freq 0.00189702  exp_freq 0.00032647 occ 7 exp_occ 1.17529 occ_P 0.000189035 Occ_E 0.000220849 sig 0.337841
+Seq TCGGCG freq 0.000813008  exp_freq 3.21235e-05 occ 3 exp_occ 0.115645 occ_P 0.000229445 Occ_E 0.00023623 sig 0.308602
+Seq TGAAGG freq 0.00108401  exp_freq 8.23435e-05 occ 4 exp_occ 0.296437 occ_P 0.000238885 Occ_E 0.000253762 sig 0.277509
+Seq GTGGAA freq 0.00162602  exp_freq 0.000260562 occ 6 exp_occ 0.938022 occ_P 0.000369304 Occ_E 0.00042517 sig 0.0533738
+Seq CAAAAC freq 0.00271003  exp_freq 0.000735303 occ 10 exp_occ 2.64709 occ_P 0.000327829 Occ_E 0.000428207 sig 0.0502833
+Seq ATTTAG freq 0.00189702  exp_freq 0.000366946 occ 7 exp_occ 1.32101 occ_P 0.000370402 Occ_E 0.000441753 sig 0.0367568
+Seq CTTGCT freq 0.00108401  exp_freq 9.73984e-05 occ 4 exp_occ 0.350634 occ_P 0.00044296 Occ_E 0.000475898 sig 0.00442302
