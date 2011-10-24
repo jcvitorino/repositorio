@@ -188,6 +188,52 @@ list<CalculatedOligo> OligoAnalisys::findInSeq(list<CalculatedOligo> listOlig, D
 	return out;
 }
 
+vector<Frame> OligoAnalisys::computeScore(list<CalculatedOligo> Hd, DNA posSet, DNA negSet) {
+	vector<Frame> frameSet;
+	DNA tmpSet;
+	DNAseq tmpSeq;
+	vector<HexValue> hexValue;
+	list<CalculatedOligo>::iterator it;
+	vector<DNAseq>::iterator it2;
+	double occ = 0.0;
+	for (it2 = posSet.chain.begin(); it2 != posSet.chain.end(); it2++) {
+		for (it = Hd.begin(); it != Hd.end(); ++it) {
+			occ = computeOccurencies((*it2), it->getOlig());
+			hexValue.push_back(HexValue(it->getOlig(),(occ)));
+		}
+		frameSet.push_back(Frame((*it2),hexValue,1));
+		hexValue.clear();
+	}
+
+	for (it2 = negSet.chain.begin(); it2 != negSet.chain.end(); it2++) {
+		for (it = Hd.begin(); it != Hd.end(); ++it) {
+			occ = computeOccurencies((*it2), it->getOlig());
+			hexValue.push_back(HexValue(it->getOlig(),(occ )));
+		}
+		frameSet.push_back(Frame(*(it2),hexValue,-1));
+		hexValue.clear();
+	}
+
+	return frameSet;
+}
+
+void OligoAnalisys::printFrameSet(vector<Frame> frameSet){
+	vector<Frame>::iterator it;
+	vector<HexValue>::iterator it2;
+	string str = "";
+	for(it = frameSet.begin(); it != frameSet.end(); it++){
+		cout << it->label << ";";
+		for(it2 = it->hexScore.begin(); it2 != it->hexScore.end(); it2++){
+			cout << it2->getValue() << ";";
+			if(it2 == it->hexScore.end() - 1){
+				cout << it2->getValue();
+			}
+		}
+		cout << endl;
+	}
+
+}
+
 void OligoAnalisys::printFindOlig(list<CalculatedOligo> listOlig){
 	list<CalculatedOligo>::iterator it;
 	for(it = listOlig.begin(); it != listOlig.end(); it++){

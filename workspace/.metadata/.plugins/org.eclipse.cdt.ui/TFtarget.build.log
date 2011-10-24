@@ -2,55 +2,6 @@
 **** Build of configuration Debug for project TFtarget ****
 
 make all 
-Building file: ../src/HexDiff.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HexDiff.d" -MT"src/HexDiff.d" -o "src/HexDiff.o" "../src/HexDiff.cpp"
-../src/HexDiff.cpp: In member function ‘void HexDiff::performFrequency()’:
-../src/HexDiff.cpp:58:34: warning: deprecated conversion from string constant to ‘char*’
-../src/HexDiff.cpp:59:34: warning: deprecated conversion from string constant to ‘char*’
-Finished building: ../src/HexDiff.cpp
- 
-Building file: ../src/MotifAlgo.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MotifAlgo.d" -MT"src/MotifAlgo.d" -o "src/MotifAlgo.o" "../src/MotifAlgo.cpp"
-../src/MotifAlgo.cpp: In member function ‘std::map<std::basic_string<char>, kmerFreq> MotifAlgo::computeTotalFrequency(DNA, int, double)’:
-../src/MotifAlgo.cpp:138:31: warning: deprecated conversion from string constant to ‘char*’
-Finished building: ../src/MotifAlgo.cpp
- 
-Building file: ../src/OligoAnalisys.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
-../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
-../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
-../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::findInSeq(std::list<CalculatedOligo>, DNA, int)’:
-../src/OligoAnalisys.cpp:165:37: warning: comparison between signed and unsigned integer expressions
-Finished building: ../src/OligoAnalisys.cpp
- 
-Building file: ../src/main.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
-../src/main.cpp: In function ‘int main(int, char**)’:
-../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
-../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
-../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
-../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
-../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
-../src/main.cpp:75:19: warning: deprecated conversion from string constant to ‘char*’
-Finished building: ../src/main.cpp
- 
-Building file: ../src/medianString.cpp
-Invoking: GCC C++ Compiler
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/medianString.d" -MT"src/medianString.d" -o "src/medianString.o" "../src/medianString.cpp"
-../src/medianString.cpp: In function ‘int hammingDistance(std::string, std::string)’:
-../src/medianString.cpp:17:31: warning: comparison between signed and unsigned integer expressions
-../src/medianString.cpp: In function ‘Freq computeFrequency(DNA, DNAseq)’:
-../src/medianString.cpp:200:6: warning: unused variable ‘dist’
-Finished building: ../src/medianString.cpp
- 
-Building target: TFtarget
-Invoking: GCC C++ Linker
-g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
-Finished building target: TFtarget
- 
+make: Nada a ser feito para `all'.
 
 **** Build Finished ****

@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
 		s1.readFasta(finFSA);
 		s2.readFasta(finFSA2);
 		s3.readFasta(finFSA3);
-		HexDiff hex(s1, s2, s3, 156, 1200, 150);
+		HexDiff hex(s1, s2, 156, 1200, 150);
 		hex.performFrequency();
 		//hex.loocv();
 		hex.chooseHexamers();
@@ -52,22 +52,26 @@ int main(int argc, char *argv[]) {
 		//cout << "Oligo-Analisys" << endl;
 		//char* finFSA4 = "cr25s.fasta";
 		//char* finFSA4 = "oligo.fasta";
-		char* finFSA4 = "in.fasta";
+		char* finFSA4 = "sampling_500.fasta";
 		//char* finFSA5 = "up_600.fasta";
 		//char* finFSA5 = "up_olig.fasta";
 		char* finFSA5 = "resultado.fasta";
+		char* finFSA6 = "ramdomSet.fasta";
 		//char* finFSA4 = "30_seqs_43000_43000_bp.fasta";
 		DNA s4;
 		DNA s5;
+		DNA s6;
 		s4.readFasta(finFSA4);
 		s5.readFasta(finFSA5);
+		s6.readFasta(finFSA6);
 		OligoAnalisys *olig = new OligoAnalisys();
 		//s1 = processSet(s1);
 		list<CalculatedOligo> l = olig->performAnalysis(s4,s5, 80, 6);
 		l = olig->selectOlig(l);
-		olig->printCalculatedOligoModel(l);
-		l = olig->findInSeq(l,s4,6);
-		olig->printFindOlig(l);
+		//olig->printCalculatedOligoModel(l);
+		olig->printFrameSet(olig->computeScore(l,s4,s6));
+		//l = olig->findInSeq(l,s4,6);
+		//olig->printFindOlig(l);
 
 	} else if (argv[1][0] == '3') {
 		MotifAlgo algo;

@@ -7,11 +7,11 @@
 
 #include "HexDiff.h"
 
-HexDiff::HexDiff(DNA posSet, DNA negSet, DNA testSet, int lengthHd,
-		int windowSize, double threshold) {
+HexDiff::HexDiff(DNA posSet, DNA negSet, int lengthHd, int windowSize,
+		double threshold) {
 	this->posSet = posSet;
 	this->negSet = negSet;
-	this->testSet = testSet;
+
 	this->lengthHd = lengthHd;
 	this->windowSize = windowSize;
 	this->threshold = threshold;
@@ -44,15 +44,16 @@ void HexDiff::performFrequency() {
 		negSet.addSeq(negSet.chain[n].reverse_compliment());
 	}
 
+	// Calcula o tamanho da do conjunto positivo
 	for (int m = 0; m < (2 * posSetLength); ++m) {
 		//posSet.addSeq(posSet.chain[m].compliment());
-		 seqSizePos = seqSizePos + posSet.chain[m].length();
+		seqSizePos = seqSizePos + posSet.chain[m].length();
 
 	}
-
+	// Calcula o tamanho da do conjunto negativo
 	for (int m = 0; m < (2 * negSetLength); ++m) {
 		//posSet.addSeq(posSet.chain[m].compliment());
-		 seqSizeNeg = seqSizeNeg + negSet.chain[m].length();
+		seqSizeNeg = seqSizeNeg + negSet.chain[m].length();
 
 	}
 	posSet.writeFasta("posSet.fasta");
@@ -69,7 +70,7 @@ void HexDiff::performFrequency() {
 		getline(file, line);
 		DNAseq seq;
 		seq.seq = line;
-		HexRatio hexR(seq, freq/seqSizePos);
+		HexValue hexR(seq, freq / seqSizePos);
 		HdPos.push_back(hexR);
 	}
 	file.close();
@@ -85,7 +86,7 @@ void HexDiff::performFrequency() {
 		getline(file, line);
 		DNAseq seq;
 		seq.seq = line;
-		HexRatio hexR(seq, freq/seqSizeNeg);
+		HexValue hexR(seq, freq / seqSizeNeg);
 		HdNeg.push_back(hexR);
 	}
 	file.close();
@@ -96,11 +97,11 @@ void HexDiff::performFrequency() {
 	double ratio = 0;
 	int i = 0;
 	int cont = pow(4.0, 6);
-	list<HexRatio>::iterator it;
+	list<HexValue>::iterator it;
 	while (i < cont) {
 		for (it = HdPos.begin(); it != HdPos.end(); ++it) {
 			if (it->getHex().seq == s.seq) {
-				posFq = it->getRatio();
+				posFq = it->getValue();
 				HdPos.erase(it);
 				break;
 			}
@@ -108,23 +109,22 @@ void HexDiff::performFrequency() {
 
 		for (it = HdNeg.begin(); it != HdNeg.end(); ++it) {
 			if (it->getHex().seq == s.seq) {
-				negFq = it->getRatio();
+				negFq = it->getValue();
 				HdNeg.erase(it);
 				break;
 			}
 		}
 
 		// find the ratio between positive and negative set
-		if (posFq == 0 ) {
+		if (posFq == 0) {
 			ratio = 0;
-		} else if(negFq == 0){
+		} else if (negFq == 0) {
 			ratio = 0;
-		}
-		else {
+		} else {
 			ratio = posFq / negFq;
 		}
 
-		HexRatio hexR(s, ratio);
+		HexValue hexR(s, ratio);
 		Hd.push_back(hexR);
 		s = nextLeaf(s, 6);
 		i++;
@@ -134,177 +134,153 @@ void HexDiff::performFrequency() {
 
 }
 
-void HexDiff::loocv() {
-	ifstream file;
-	string line;
-	double freq;
-	file.open("hexdiff", ios::in);
-	while (file.good()) {
-		getline(file, line);
-		DNAseq seq;
-		seq.seq = line;
-		getline(file, line);
-		freq = atof(line.c_str());
-		HexRatio hexR(seq, freq);
-		Hd.push_back(hexR);
-	}
-	file.close();
-}
-
 void HexDiff::chooseHexamers() {
 	Hd.sort(compareRatio);
-	list<HexRatio>::iterator it1, it2;
+	list<HexValue>::iterator it1, it2;
 	it1 = Hd.begin();
 	it2 = Hd.end();
 	advance(it1, lengthHd);
 	Hd.erase(it1, it2);
 }
 
-void HexDiff::computeScore() {
+vector<Frame> HexDiff::computeScore() {
+	vector<Frame> frameSet;
 	DNA tmpSet;
 	DNAseq tmpSeq;
-	list<HexRatio>::iterator it;
-	Freq freq;
-	double sum = 0;
-
-	cout << "teste seq tam " << testSet.chain[0].length()<<endl;
-
-	for (int i  = 0; i < ((testSet.chain[0].length() - windowSize) + 1); ++i) {
-		tmpSeq.seq = testSet.chain[0].seq.substr(i, windowSize);
-		tmpSet.addSeq(tmpSeq);
-		// Compute the frequency for each Hd in the test Set
+	vector<HexValue> hexValue;
+	list<HexValue>::iterator it;
+	vector<DNAseq>::iterator it2;
+	double occ = 0.0;
+	for (it2 = posSet.chain.begin(); it2 != posSet.chain.end(); it2++) {
 		for (it = Hd.begin(); it != Hd.end(); ++it) {
-			freq = computeFrequency(tmpSet, it->getHex());
-			sum = sum + (freq.freq * it->getRatio());
+			occ = computeOccurencies((*it2), it->getHex());
+			hexValue.push_back(HexValue(it->getHex(),(occ * it->getValue())));
 		}
-		if (sum > threshold) {
-			Score s(i, sum);
-			scoreList.push_back(s);
-		}
-		tmpSeq.clear();
-		tmpSet.chain.clear();
-		sum = 0;
+		frameSet.push_back(Frame((*it2),hexValue,1));
+		hexValue.clear();
 	}
+
+	for (it2 = negSet.chain.begin(); it2 != negSet.chain.end(); it2++) {
+		for (it = Hd.begin(); it != Hd.end(); ++it) {
+			occ = computeOccurencies((*it2), it->getHex());
+			hexValue.push_back(HexValue(it->getHex(),(occ * it->getValue())));
+		}
+		frameSet.push_back(Frame(*(it2),hexValue,-1));
+		hexValue.clear();
+	}
+
+	return frameSet;
 }
+void HexDiff::printFrameSet(vector<Frame> frameSet){
+	vector<Frame>::iterator it;
+	vector<HexValue>::iterator it2;
+	string str = "";
+	for(it = frameSet.begin(); it != frameSet.end(); it++){
+		cout << it->label << ";";
+		for(it2 = it->hexScore.begin(); it2 != it->hexScore.end(); it2++){
+			cout << it2->getValue() << ";";
+			if(it2 == it->hexScore.end() - 1){
+				cout << it2->getValue();
+			}
+		}
+		cout << endl;
+	}
 
-/*
- void HexDiff::computeScore() {
- XNA tmpSet;
- XNAseq tmpSeq;
- list<HexRatio>::iterator it;
- double freq;
- ifstream file;
- string line;
- vector<HexRatio> HdTmp;
- vector<HexRatio>::iterator itHT;
- double sum = 0;
- for (int i = 0; i < ((testSet.chain[0].length() - windowSize) + 1); ++i) {
- tmpSeq.seq = testSet.chain[0].seq.substr(i, windowSize);
- tmpSet.addSeq(tmpSeq);
- tmpSet.writeFasta("tmp.fasta");
-
- // compute positive frequency
- system("./meryl -B -m 6 -s tmp.fasta -o tmp");
- system("./meryl -Dt -s tmp > tmpOut");
- file.open("tmpOut", ios::in);
- while (file.good()) {
- getline(file, line);
- line.erase(0, 1);
- freq = atof(line.c_str());
- getline(file, line);
- XNAseq seq;
- seq.seq = line;
- HexRatio hexR(seq, freq);
- HdTmp.push_back(hexR);
- }
- file.close();
-
- // Compute the frequency for each Hd in the test Set
- for (itHT = HdTmp.begin(); itHT != HdTmp.end(); ++itHT) {
- for (it = Hd.begin(); it != Hd.end(); ++it) {
- if ( it->getHex().seq == itHT->getHex().seq){
- sum = sum + (itHT->getRatio() * it->getRatio());
- }
- }
- }
- if (sum > threshold) {
- Score s(i, sum);
- scoreList.push_back(s);
- }
- tmpSeq.clear();
- tmpSet.chain.clear();
- sum = 0;
- HdTmp.clear();
- }
- }
- */
-
+}
 void HexDiff::printHd() {
-	list<HexRatio>::iterator it;
+	list<HexValue>::iterator it;
 	for (it = Hd.begin(); it != Hd.end(); ++it) {
-		cout << it->getHex().seq << ' ' << it->getRatio() << endl;
-	}
-}
-
-void HexDiff::printScore() {
-	list<Score>::iterator it;
-	for (it = scoreList.begin(); it != scoreList.end(); ++it) {
-		cout << "position: " << it->getPosition() << "   score: "
-				<< it->getScore() << endl;
+		cout << it->getHex().seq << ' ' << it->getValue() << endl;
 	}
 }
 /********************
  * HexRatio Methods *
  ********************/
-HexRatio::HexRatio(DNAseq hex, double ratio) {
+HexValue::HexValue(DNAseq hex, double ratio) {
 	this->hex = hex;
-	this->ratio = ratio;
+	this->value = ratio;
 }
-DNAseq HexRatio::getHex() const {
+DNAseq HexValue::getHex() const {
 	return hex;
 }
 
-double HexRatio::getRatio() const {
-	return ratio;
+double HexValue::getValue() const {
+	return value;
 }
 
-void HexRatio::setHex(DNAseq hex) {
+void HexValue::setHex(DNAseq hex) {
 	this->hex = hex;
 }
 
-void HexRatio::setRatio(double ratio) {
-	this->ratio = ratio;
+void HexValue::setValue(double ratio) {
+	this->value = ratio;
 }
 
 /*****************
- * Score Methods *
+ * FrameScore Methods *
  *****************/
-Score::Score(int position, double score) {
-	this->position = position;
-	this->score = score;
+Frame::Frame(DNAseq seq, vector<HexValue> hexScore,int label) {
+	this->seq = seq;
+	this->hexScore = hexScore;
+	this->label = label;
 }
 
-int Score::getPosition() const {
-	return position;
-}
-
-double Score::getScore() const {
-	return score;
-}
-
-void Score::setPosition(int position) {
-	this->position = position;
-}
-
-void Score::setScore(double score) {
-	this->score = score;
-}
-
-bool compareRatio(HexRatio first, HexRatio second) {
-	if (first.getRatio() > second.getRatio()) {
+bool compareRatio(HexValue first, HexValue second) {
+	if (first.getValue() > second.getValue()) {
 		return true;
 	} else {
 		return false;
 	}
+
+}
+/*
+
+DNAseq nextLeaf(DNAseq a, int L) {
+	int j = L - 1;
+	while (j != -1) {
+		if (a.seq[j] != 'T') {
+			if (a.seq[j] == 'A') {
+				a.seq[j] = 'C';
+				return a;
+			}
+			if (a.seq[j] == 'C') {
+				a.seq[j] = 'G';
+				return a;
+			}
+			if (a.seq[j] == 'G') {
+				a.seq[j] = 'T';
+				return a;
+			}
+
+		}
+		a.seq[j] = 'A';
+		j = j - 1;
+	}
+	return a;
+}
+
+int hammingDistance(string s, string t) {
+	if (s.length() != t.length()) {
+		cout << "s and t must have same length in hammingDistance()" << endl;
+		exit(0);
+	}
+	int ct = 0;
+	for (int i = 0; i < s.length(); ++i) {
+		if (s[i] != t[i])
+			++ct;
+	}
+	return ct;
+}
+*/
+
+double computeOccurencies(DNAseq setSeq, DNAseq seq) {
+	double freq = 0;
+	for (int j = 0; j < ((setSeq.length() - seq.length()) + 1); j++) {
+		int dist = hammingDistance(seq.seq, setSeq.seq.substr(j, seq.length()));
+		if (dist == 0) {
+			freq++;
+		}
+	}
+	return freq;
 
 }

@@ -9,6 +9,7 @@
 #define OLIGOANALISYS_H_
 
 #include "medianString.h"
+#include "HexDiff.h"
 
 using namespace std;
 
@@ -37,8 +38,6 @@ public:
 	void clearPositionOcc();
 	vector<string> getPositionOcc();
 	void printPositionOcc();
-
-
 };
 
 class OligoAnalisys: public MotifAlgo {
@@ -53,7 +52,9 @@ public:
 	list<CalculatedOligo> selectOlig(list<CalculatedOligo>);
 	void printCalculatedOligoModel(list<CalculatedOligo>);
 	list<CalculatedOligo> findInSeq(list<CalculatedOligo>,DNA seq,int len);
+	void printFrameSet(vector<Frame> frameSet);
 	void printFindOlig(list<CalculatedOligo>);
+	vector<Frame> computeScore(list<CalculatedOligo> Hd, DNA posSet, DNA negSet);
 };
 
 extern bool compareOccSig(CalculatedOligo first, CalculatedOligo second);

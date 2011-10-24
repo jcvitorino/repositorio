@@ -2,6 +2,17 @@
 **** Build of configuration Debug for project Preprocessamento ****
 
 make all 
-make: Nada a ser feito para `all'.
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:81:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
 
 **** Build Finished ****

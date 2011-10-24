@@ -7172,3 +7172,39 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.epp.usagedata.recording 1 0 2011-10-18 22:59:46.198
 !MESSAGE Usage data uploaded to http://udc.eclipse.org/upload.php in 21198 milliseconds.
+!SESSION 2011-10-20 14:08:41.273 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.ui 2 0 2011-10-20 15:33:58.976
+!MESSAGE The 'org.eclipse.cdt.mylyn.ui.InclusionProposalComputer' proposal computer from the 'org.eclipse.cdt.mylyn.ui' plug-in did not complete normally. The extension violated the API contract of the 'computeContextInformation()' operation.
+
+!ENTRY org.eclipse.cdt.ui 2 0 2011-10-20 15:34:00.377
+!MESSAGE The 'org.eclipse.cdt.ui.InclusionProposalComputer' proposal computer from the 'org.eclipse.cdt.ui' plug-in did not complete normally. The extension violated the API contract of the 'computeContextInformation()' operation.
+!SESSION 2011-10-22 21:03:52.500 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2011-10-22 21:08:59.479
+!MESSAGE Indexed 'DREBSearch' (4 sources, 190 headers) in 10,82 sec: 16.358 declarations; 27.771 references; 0 unresolved inclusions; 0 syntax errors; 110 unresolved names (0,25%)
+!SESSION 2011-10-24 14:25:47.148 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2011-10-24 14:39:39.825
+!MESSAGE Indexed 'ExtractSequence' (4 sources, 180 headers) in 13,65 sec: 15.523 declarations; 25.685 references; 0 unresolved inclusions; 0 syntax errors; 103 unresolved names (0,25%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2011-10-24 14:41:28.983
+!MESSAGE Indexed 'Preprocessamento' (3 sources, 179 headers) in 5,06 sec: 15.539 declarations; 26.144 references; 0 unresolved inclusions; 0 syntax errors; 103 unresolved names (0,25%)

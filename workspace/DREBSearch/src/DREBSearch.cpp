@@ -13,9 +13,9 @@ using namespace std;
 
 int main() {
 	 // conjunto negativo
-	char* finFSA2= "ramdomSet2.fasta";
+	char* finFSA2= "ramdomSet3.fasta";
 	// conjunto positivo
-	char* finFSA = "sampling_500.fasta";
+	char* finFSA = "resultado2.fasta";
 	// conjunto positivo
 	//char* finFSA = "sampling_500.fasta";
 	DNA s1, s2;

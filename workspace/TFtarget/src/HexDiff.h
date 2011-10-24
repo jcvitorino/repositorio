@@ -8,53 +8,55 @@
 #ifndef HEXDIFF_H_
 #define HEXDIFF_H_
 
+#include <list>
+#include <cmath>
 #include "medianString.h"
+using namespace std;
 
-class HexRatio {
+class HexValue {
 private:
 	DNAseq hex;
-	double ratio;
+	double value;
 public:
-	HexRatio(DNAseq hex, double ratio);
+	HexValue(DNAseq hex, double value);
 	DNAseq getHex() const;
-	double getRatio() const;
+	double getValue() const;
 	void setHex(DNAseq hex);
-	void setRatio(double ratio);
+	void setValue(double ratio);
 };
 
-class Score {
-private:
-	int position;
-	double score;
+class Frame {
 public:
-	Score(int position,double score);
-	int getPosition() const;
-	double getScore() const;
-	void setPosition(int position);
-	void setScore(double score);
+	DNAseq seq;
+	vector<HexValue> hexScore;
+	int label;
+	Frame(DNAseq seq, vector<HexValue> hexScore,int label);
+	double totalScore();
 };
 
 class HexDiff {
 public:
-	HexDiff(DNA posSet, DNA negSet, DNA testSet, int lengthHd, int windowSize, double threshold);
+	HexDiff(DNA posSet, DNA negSet, int lengthHd, int windowSize,
+			double threshold);
 	virtual ~HexDiff();
 	DNA posSet; // Positive Set
 	DNA negSet; // Negative Set
-	DNA testSet;
-	list<HexRatio> Hd;
-	list<HexRatio> HdPos;
-	list<HexRatio> HdNeg;
+	list<HexValue> Hd;
+	list<HexValue> HdPos;
+	list<HexValue> HdNeg;
 	double threshold;
 	int lengthHd;
 	int windowSize;
-	list<Score> scoreList;
+	list<Frame> scoreList;
 	void performFrequency();
 	void chooseHexamers();
-	void computeScore();
+	vector<Frame> computeScore();
 	void printHd();
-	void printScore();
-	void loocv();
+	void printFrameSet(vector<Frame>);
 };
 
-extern bool compareRatio(HexRatio first, HexRatio second);
+extern bool compareRatio(HexValue first, HexValue second);
+//extern DNAseq nextLeaf(DNAseq a, int L);
+//extern int hammingDistance(string s, string t);
+extern double computeOccurencies(DNAseq setSeq, DNAseq seq);
 #endif /* HEXDIFF_H_ */
