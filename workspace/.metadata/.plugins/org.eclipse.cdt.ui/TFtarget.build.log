@@ -2,6 +2,15 @@
 **** Build of configuration Debug for project TFtarget ****
 
 make all 
-make: Nada a ser feito para `all'.
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
 
 **** Build Finished ****

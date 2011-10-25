@@ -53,6 +53,7 @@ public:
 	void printCalculatedOligoModel(list<CalculatedOligo>);
 	list<CalculatedOligo> findInSeq(list<CalculatedOligo>,DNA seq,int len);
 	void printFrameSet(vector<Frame> frameSet);
+	void writeFrameSetCSV(string file,vector<Frame> frameSet);
 	void printFindOlig(list<CalculatedOligo>);
 	vector<Frame> computeScore(list<CalculatedOligo> Hd, DNA posSet, DNA negSet);
 };

@@ -1,0 +1,62 @@
+//============================================================================
+// Name        : median.cpp
+// Author      : josue
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <stdlib.h>
+#include <vector>
+#include "medianString.h"
+#include "OligoAnalisys.h"
+#include "HexDiff.h"
+#include "MotifAlgo.h"
+
+using namespace std;
+
+DNA processSet(DNA seq);
+
+int main(int argc, char *argv[]) {
+
+		char* finFSA4 = "sampling_500.fasta";
+		char* finFSA5 = "resultado.fasta";
+		char* finFSA6 = "ramdomSet.fasta";
+		DNA s4;
+		DNA s5;
+		DNA s6;
+		s4.readFasta(finFSA4);
+		s5.readFasta(finFSA5);
+		s6.readFasta(finFSA6);
+		OligoAnalisys *olig = new OligoAnalisys();
+		//s1 = processSet(s1);
+		list<CalculatedOligo> l = olig->performAnalysis(s4,s5, 80, 6);
+		l = olig->selectOlig(l);
+		//olig->printCalculatedOligoModel(l);
+		olig->writeFrameSetCSV("testeloko.csv",olig->computeScore(l,s4,s6));
+		//l = olig->findInSeq(l,s4,6);
+		//olig->printFindOlig(l);
+
+	return 0;
+}
+
+DNA processSet(DNA seq) {
+	int numberOfSequences = seq.chain.size();
+	int length = 0;
+	int lengthAux = 0;
+	length = seq.chain[0].length();
+
+	for (int i = 1; i < numberOfSequences; i++) {
+		lengthAux = seq.chain[i].length();
+		if (lengthAux < length) {
+			length = lengthAux;
+		}
+	}
+
+	for (int j = 0; j < numberOfSequences; j++) {
+		seq.chain[j].seq.erase(seq.chain[j].seq.begin() + length,
+				seq.chain[j].seq.end());
+	}
+	return seq;
+}

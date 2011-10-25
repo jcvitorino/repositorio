@@ -58,7 +58,9 @@ class DNA {
 public:
 	vector<DNAseq> chain;
 	DNA(); // constructor
-	void readFasta(char *file); // read Fasta format sequence
-	void writeFasta(char *file); // write Fasta format sequence
+	void readFasta(string file); // read Fasta format sequence
+	void writeFasta(string file); // write Fasta format sequence
+	void writeCSV(string file);
+	void appendToFastaFile(string file);
 	void addSeq(DNAseq ds); // add a new chain member
 };

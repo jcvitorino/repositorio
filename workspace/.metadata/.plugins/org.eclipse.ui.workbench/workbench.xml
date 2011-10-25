@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="33" version="2.0">
 <workbenchAdvisor/>
-<window height="744" maximized="true" width="683" x="0" y="24">
+<window height="745" maximized="true" width="679" x="283" y="48">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -31,18 +31,13 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.cpp" partName="main.cpp" path="/home/josue/repositorio/workspace/Preprocessamento/src/main.cpp" title="main.cpp" tooltip="Preprocessamento/src/main.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Preprocessamento/src/main.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="165" selectionTopPixel="204"/>
-</editor>
-<editor id="org.eclipse.cdt.ui.editor.CEditor" name="OligoAnalisys.cpp" partName="OligoAnalisys.cpp" path="/home/josue/repositorio/workspace/TFtarget/src/OligoAnalisys.cpp" title="OligoAnalisys.cpp" tooltip="TFtarget/src/OligoAnalisys.cpp" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TFtarget/src/OligoAnalisys.cpp"/>
-<editorState selectionHorizontalPixel="0" selectionLength="186" selectionOffset="8064" selectionTopPixel="5273"/>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.cpp" partName="main.cpp" path="/home/josue/repositorio/workspace/TFtarget/src/main.cpp" title="main.cpp" tooltip="TFtarget/src/main.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/TFtarget/src/main.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="586" selectionTopPixel="331"/>
 </editor>
 </editors>
 <views>
@@ -55,7 +50,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (1 item)"/>
+<category IMemento.internal.id="Warnings (5 items)"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="397" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
@@ -198,176 +193,171 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/HexDiff.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/HexDiff.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/main.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/medianString.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/medianString.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/HexDiff.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/DNA.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/OligoAnalisys.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/OligoAnalisys.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Preprocessamento/src/main.cpp"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/OligoAnalisys.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/DREBSearch/src/DREBSearch.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/main.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/OligoAnalisys.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/main.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/OligoAnalisys.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ExtractSequence/src/ExtractSequence.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/DREBSearch/src/HexDiff.cpp"/>
+<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/usr/include/c++/4.5/bits/stl_iterator_base_funcs.h" project="DREBSearch"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Preprocessamento/src/main.cpp"/>
-<editor factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/usr/include/stdlib.h" project="Preprocessamento"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Preprocessamento/src/main.cpp"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/OligoAnalisys.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/TFtarget/src/main.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DREBSearch/Debug/ramdomSet.fasta"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DREBSearch/Debug/ramdomSet2.fasta"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DREBSearch/Debug/ramdomSet3.fasta"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DREBSearch/Debug/resultado.fasta"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/DREBSearch/Debug/resultado2.fasta"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/TFtarget/entrada/ramdomSet_206.fasta"/>
 </editors>
-<item historyLabel="medianString.h" index="3">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="main.cpp" index="0">
+<position/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="301" y="15"/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="405" y="0"/>
+<item historyLabel="main.cpp" index="0">
+<position/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="108" y="41"/>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="301" y="15"/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="2884" y="34"/>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5062" y="27"/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="108" y="41"/>
+<item historyLabel="main.cpp" index="0">
+<position/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="218" y="0"/>
+<item historyLabel="main.cpp" index="0">
+<position/>
 </item>
-<item historyLabel="medianString.cpp" index="4">
-<position info="not_deleted" x="108" y="41"/>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5141" y="0"/>
 </item>
-<item historyLabel="HexDiff.h" index="1">
-<position info="not_deleted" x="1131" y="0"/>
+<item historyLabel="main.cpp" index="0">
+<position/>
 </item>
-<item historyLabel="HexDiff.cpp" index="0">
-<position info="not_deleted" x="5770" y="0"/>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5141" y="0"/>
+</item>
+<item historyLabel="OligoAnalisys.h" index="3">
+<position info="not_deleted" x="1425" y="0"/>
+</item>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5230" y="0"/>
+</item>
+<item historyLabel="main.cpp" index="0">
+<position info="not_deleted" x="1061" y="0"/>
 </item>
 <item historyLabel="main.cpp" index="2">
-<position info="not_deleted" x="1769" y="0"/>
+<position info="not_deleted" x="4139" y="0"/>
+</item>
+<item historyLabel="main.cpp" index="0">
+<position/>
+</item>
+<item historyLabel="main.cpp" index="2">
+<position info="not_deleted" x="385" y="187"/>
+</item>
+<item historyLabel="main.cpp" index="0">
+<position/>
+</item>
+<item historyLabel="main.cpp" index="0">
+<position info="not_deleted" x="1094" y="0"/>
+</item>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5291" y="0"/>
+</item>
+<item historyLabel="main.cpp" index="0">
+<position info="not_deleted" x="1094" y="0"/>
+</item>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5047" y="0"/>
+</item>
+<item historyLabel="DREBSearch.cpp" index="4">
+<position info="not_deleted" x="722" y="0"/>
 </item>
 <item historyLabel="HexDiff.cpp" index="5">
-<position info="not_deleted" x="5770" y="0"/>
+<position/>
 </item>
-<item historyLabel="main.cpp" index="2">
-<position info="not_deleted" x="1799" y="0"/>
+<item historyLabel="stl_iterator_base_funcs.h" index="6">
+<position info="not_deleted" x="5983" y="7"/>
 </item>
-<item historyLabel="DNA.h" index="6">
-<position info="not_deleted" x="1040" y="0"/>
+<item historyLabel="HexDiff.cpp" index="5">
+<position/>
 </item>
-<item historyLabel="main.cpp" index="2">
-<position info="not_deleted" x="1799" y="0"/>
+<item historyLabel="DREBSearch.cpp" index="4">
+<position info="not_deleted" x="861" y="0"/>
 </item>
-<item historyLabel="OligoAnalisys.cpp" index="7">
-<position info="not_deleted" x="5606" y="0"/>
+<item historyLabel="HexDiff.cpp" index="5">
+<position info="not_deleted" x="3284" y="12"/>
 </item>
-<item historyLabel="main.cpp" index="2">
-<position info="not_deleted" x="2079" y="0"/>
+<item historyLabel="DREBSearch.cpp" index="4">
+<position info="not_deleted" x="861" y="0"/>
 </item>
-<item historyLabel="OligoAnalisys.cpp" index="7">
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5047" y="0"/>
+</item>
+<item historyLabel="main.cpp" index="7">
+<position/>
+</item>
+<item historyLabel="OligoAnalisys.cpp" index="1">
+<position info="not_deleted" x="5047" y="0"/>
+</item>
+<item historyLabel="main.cpp" index="8">
+<position info="not_deleted" x="1026" y="0"/>
+</item>
+<item historyLabel="OligoAnalisys.cpp" index="1">
 <position info="not_deleted" x="301" y="15"/>
 </item>
-<item historyLabel="main.cpp" index="2">
-<position info="not_deleted" x="1661" y="0"/>
+<item historyLabel="main.cpp" index="8">
+<position info="not_deleted" x="649" y="0"/>
 </item>
-<item historyLabel="OligoAnalisys.cpp" index="8">
-<position info="not_deleted" x="301" y="15"/>
-</item>
-<item historyLabel="OligoAnalisys.h" index="9">
-<position info="not_deleted" x="1416" y="0"/>
-</item>
-<item historyLabel="DREBSearch.cpp" index="10">
-<position info="not_deleted" x="317" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="11">
-<position info="not_deleted" x="1923" y="0"/>
-</item>
-<item historyLabel="DREBSearch.cpp" index="10">
-<position info="not_deleted" x="492" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="11">
-<position info="not_deleted" x="2259" y="0"/>
-</item>
-<item historyLabel="OligoAnalisys.cpp" index="12">
-<position info="not_deleted" x="1762" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="13">
-<position info="not_deleted" x="2259" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="13">
-<position info="not_deleted" x="2208" y="0"/>
-</item>
-<item historyLabel="OligoAnalisys.cpp" index="14">
-<position info="not_deleted" x="5077" y="12"/>
-</item>
-<item historyLabel="main.cpp" index="13">
-<position/>
-</item>
-<item historyLabel="ExtractSequence.cpp" index="15">
+<item historyLabel="ramdomSet.fasta" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="16">
+<item historyLabel="ramdomSet2.fasta" index="10">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position info="not_deleted" x="148" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="13">
+<item historyLabel="ramdomSet3.fasta" index="11">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position info="not_deleted" x="446" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="13">
-<position info="not_deleted" x="558" y="9"/>
-</item>
-<item historyLabel="main.cpp" index="16">
-<position info="not_deleted" x="446" y="0"/>
-</item>
-<item historyLabel="main.cpp" index="16">
+<item historyLabel="resultado.fasta" index="12">
 <position/>
 </item>
-<item historyLabel="stdlib.h" index="17">
-<position info="not_deleted" x="4530" y="4"/>
+<item historyLabel="ramdomSet3.fasta" index="11">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position/>
+<item historyLabel="ramdomSet2.fasta" index="10">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position/>
+<item historyLabel="resultado.fasta" index="12">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="13">
-<position info="not_deleted" x="558" y="9"/>
+<item historyLabel="resultado2.fasta" index="13">
+<position info="not_deleted" x="18" y="6"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position/>
+<item historyLabel="ramdomSet.fasta" index="9">
+<position info="not_deleted" x="119232" y="6"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position/>
+<item historyLabel="resultado2.fasta" index="13">
+<position info="not_deleted" x="7517" y="6"/>
 </item>
-<item historyLabel="main.cpp" index="16">
-<position info="not_deleted" x="3045" y="0"/>
+<item historyLabel="ramdomSet.fasta" index="9">
+<position info="not_deleted" x="10607" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="13">
-<position info="not_deleted" x="558" y="9"/>
+<item historyLabel="main.cpp" index="8">
+<position info="not_deleted" x="617" y="0"/>
 </item>
-<item historyLabel="main.cpp" index="13">
-<position info="not_deleted" x="5725" y="0"/>
+<item historyLabel="ramdomSet_206.fasta" index="14">
+<position info="not_deleted" x="2102" y="6"/>
 </item>
-<item historyLabel="main.cpp" index="18">
-<position info="not_deleted" x="3934" y="0"/>
+<item historyLabel="main.cpp" index="8">
+<position info="not_deleted" x="865" y="0"/>
 </item>
-<item historyLabel="OligoAnalisys.cpp" index="19">
-<position info="not_deleted" x="8064" y="186"/>
+<item historyLabel="main.cpp" index="7">
+<position info="not_deleted" x="290" y="0"/>
 </item>
-<item active="true" historyLabel="main.cpp" index="18">
-<position info="not_deleted" x="3934" y="0"/>
+<item active="true" historyLabel="main.cpp" index="8">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -387,50 +377,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="OligoAnalisys.cpp" tooltip="TFtarget/src/OligoAnalisys.cpp">
-<persistable path="/TFtarget/src/OligoAnalisys.cpp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.cpp" tooltip="TFtarget/src/main.cpp">
+<persistable path="/TFtarget/src/main.cpp"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.cpp" tooltip="Preprocessamento/src/main.cpp">
 <persistable path="/Preprocessamento/src/main.cpp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.cpp" tooltip="TFtarget/src/main.cpp">
-<persistable path="/TFtarget/src/main.cpp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ramdomSet_206.fasta" tooltip="TFtarget/entrada/ramdomSet_206.fasta">
+<persistable path="/TFtarget/entrada/ramdomSet_206.fasta"/>
 </file>
-<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdlib.h" tooltip="/usr/include/stdlib.h">
-<persistable path="/usr/include/stdlib.h" project="Preprocessamento"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="resultado2.fasta" tooltip="DREBSearch/Debug/resultado2.fasta">
+<persistable path="/DREBSearch/Debug/resultado2.fasta"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="ExtractSequence.cpp" tooltip="ExtractSequence/src/ExtractSequence.cpp">
-<persistable path="/ExtractSequence/src/ExtractSequence.cpp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="resultado.fasta" tooltip="DREBSearch/Debug/resultado.fasta">
+<persistable path="/DREBSearch/Debug/resultado.fasta"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ramdomSet3.fasta" tooltip="DREBSearch/Debug/ramdomSet3.fasta">
+<persistable path="/DREBSearch/Debug/ramdomSet3.fasta"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ramdomSet2.fasta" tooltip="DREBSearch/Debug/ramdomSet2.fasta">
+<persistable path="/DREBSearch/Debug/ramdomSet2.fasta"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="ramdomSet.fasta" tooltip="DREBSearch/Debug/ramdomSet.fasta">
+<persistable path="/DREBSearch/Debug/ramdomSet.fasta"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="HexDiff.cpp" tooltip="DREBSearch/src/HexDiff.cpp">
+<persistable path="/DREBSearch/src/HexDiff.cpp"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stl_iterator_base_funcs.h" tooltip="/usr/include/c++/4.5/bits/stl_iterator_base_funcs.h">
+<persistable path="/usr/include/c++/4.5/bits/stl_iterator_base_funcs.h" project="DREBSearch"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DREBSearch.cpp" tooltip="DREBSearch/src/DREBSearch.cpp">
 <persistable path="/DREBSearch/src/DREBSearch.cpp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="medianString.cpp" tooltip="TFtarget/src/medianString.cpp">
-<persistable path="/TFtarget/src/medianString.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="medianString.h" tooltip="TFtarget/src/medianString.h">
-<persistable path="/TFtarget/src/medianString.h"/>
-</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DNA.h" tooltip="TFtarget/src/DNA.h">
 <persistable path="/TFtarget/src/DNA.h"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="HexDiff.h" tooltip="TFtarget/src/HexDiff.h">
-<persistable path="/TFtarget/src/HexDiff.h"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DNA.cpp" tooltip="TFtarget/src/DNA.cpp">
+<persistable path="/TFtarget/src/DNA.cpp"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="HexDiff.cpp" tooltip="TFtarget/src/HexDiff.cpp">
-<persistable path="/TFtarget/src/HexDiff.cpp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="OligoAnalisys.h" tooltip="TFtarget/src/OligoAnalisys.h">
+<persistable path="/TFtarget/src/OligoAnalisys.h"/>
 </file>
-<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stl_list.h" tooltip="/usr/include/c++/4.5/bits/stl_list.h">
-<persistable path="/usr/include/c++/4.5/bits/stl_list.h" project="TFtarget"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MotifAlgo.h" tooltip="TFtarget/src/MotifAlgo.h">
-<persistable path="/TFtarget/src/MotifAlgo.h"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MotifAlgo.cpp" tooltip="TFtarget/src/MotifAlgo.cpp">
-<persistable path="/TFtarget/src/MotifAlgo.cpp"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DNAseq.cpp" tooltip="TFtarget/src/DNAseq.cpp">
-<persistable path="/TFtarget/src/DNAseq.cpp"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="DNA.cpp" tooltip="Preprocessamento/src/DNA.cpp">
+<persistable path="/Preprocessamento/src/DNA.cpp"/>
 </file>
 </mruList>
 </workbench>

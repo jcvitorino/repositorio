@@ -234,6 +234,34 @@ void OligoAnalisys::printFrameSet(vector<Frame> frameSet){
 
 }
 
+void OligoAnalisys::writeFrameSetCSV(string file,vector<Frame> frameSet) {
+	try {
+		ofstream Fout(file.c_str());
+		if (!Fout)
+			throw strcat("Cannot open output CVS file ", file.c_str());
+
+		vector<Frame>::iterator it;
+		vector<HexValue>::iterator it2;
+		string str = "";
+		for(it = frameSet.begin(); it != frameSet.end(); it++){
+			Fout << it->label << ";";
+			for(it2 = it->hexScore.begin(); it2 != it->hexScore.end(); it2++){
+				Fout << it2->getValue() << ";";
+				if(it2 == it->hexScore.end() - 1){
+					Fout << it2->getValue();
+				}
+			}
+			Fout << endl;
+		}
+
+	}
+
+	catch (char* pMsg) {
+		cerr << endl << "Exception:" << pMsg << endl;
+	}
+}
+
+
 void OligoAnalisys::printFindOlig(list<CalculatedOligo> listOlig){
 	list<CalculatedOligo>::iterator it;
 	for(it = listOlig.begin(); it != listOlig.end(); it++){

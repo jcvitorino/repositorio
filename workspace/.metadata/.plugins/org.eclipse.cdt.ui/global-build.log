@@ -25121,3 +25121,1537 @@ make all
 make: Nada a ser feito para `all'.
 
 **** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:81:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/DNA.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNA.d" -MT"src/DNA.d" -o "src/DNA.o" "../src/DNA.cpp"
+../src/DNA.cpp: In member function ‘void DNA::readFasta(std::string)’:
+../src/DNA.cpp:39:62: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp: In member function ‘void DNA::writeFasta(std::string)’:
+../src/DNA.cpp:118:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:121:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:128:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::appendToFastaFile(std::string)’:
+../src/DNA.cpp:146:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:149:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:156:38: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/DNA.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:81:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/DNA.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNA.d" -MT"src/DNA.d" -o "src/DNA.o" "../src/DNA.cpp"
+../src/DNA.cpp: In member function ‘void DNA::readFasta(std::string)’:
+../src/DNA.cpp:39:62: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp: In member function ‘void DNA::writeFasta(std::string)’:
+../src/DNA.cpp:118:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:121:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:128:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::writeCSV(std::string)’:
+../src/DNA.cpp:153:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:156:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:163:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::appendToFastaFile(std::string)’:
+../src/DNA.cpp:182:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:185:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:192:38: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/DNA.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:81:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/DNA.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNA.d" -MT"src/DNA.d" -o "src/DNA.o" "../src/DNA.cpp"
+../src/DNA.cpp: In member function ‘void DNA::readFasta(std::string)’:
+../src/DNA.cpp:39:62: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp: In member function ‘void DNA::writeFasta(std::string)’:
+../src/DNA.cpp:118:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:121:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:128:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::writeCSV(std::string)’:
+../src/DNA.cpp:153:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:156:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:163:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::appendToFastaFile(std::string)’:
+../src/DNA.cpp:182:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:185:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:192:38: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/DNA.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/DNA.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNA.d" -MT"src/DNA.d" -o "src/DNA.o" "../src/DNA.cpp"
+../src/DNA.cpp: In member function ‘void DNA::readFasta(std::string)’:
+../src/DNA.cpp:37:62: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp: In member function ‘void DNA::writeFasta(std::string)’:
+../src/DNA.cpp:116:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:119:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:126:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::writeCSV(std::string)’:
+../src/DNA.cpp:151:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:154:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:153:10: warning: unused variable ‘j’
+../src/DNA.cpp: In member function ‘void DNA::appendToFastaFile(std::string)’:
+../src/DNA.cpp:178:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:181:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:188:38: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/DNA.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/DNA.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNA.d" -MT"src/DNA.d" -o "src/DNA.o" "../src/DNA.cpp"
+../src/DNA.cpp: In member function ‘void DNA::readFasta(std::string)’:
+../src/DNA.cpp:37:62: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp: In member function ‘void DNA::writeFasta(std::string)’:
+../src/DNA.cpp:116:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:119:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:126:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::writeCSV(std::string)’:
+../src/DNA.cpp:151:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:154:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:153:10: warning: unused variable ‘j’
+../src/DNA.cpp: In member function ‘void DNA::appendToFastaFile(std::string)’:
+../src/DNA.cpp:170:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:173:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:180:38: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/DNA.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:79:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:82:18: warning: unused variable ‘posPos’
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:142:2: error: expected ‘,’ or ‘;’ before ‘for’
+../src/main.cpp:142:18: error: ‘i’ was not declared in this scope
+../src/main.cpp:142:30: error: expected ‘;’ before ‘)’ token
+../src/main.cpp:138:6: warning: unused variable ‘halfSize’
+../src/main.cpp:139:6: warning: unused variable ‘totalSize’
+../src/main.cpp:141:6: warning: unused variable ‘incre’
+make: ** [src/main.o] Erro 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:82:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:84:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:84:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:84:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:84:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:84:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::findInSeq(std::list<CalculatedOligo>, DNA, int)’:
+../src/OligoAnalisys.cpp:165:37: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘void OligoAnalisys::writeFrameSetCSV(std::string, std::vector<Frame>)’:
+../src/OligoAnalisys.cpp:241:61: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:59:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:79:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:59:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:79:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:59:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:79:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::findInSeq(std::list<CalculatedOligo>, DNA, int)’:
+../src/OligoAnalisys.cpp:165:37: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘void OligoAnalisys::writeFrameSetCSV(std::string, std::vector<Frame>)’:
+../src/OligoAnalisys.cpp:241:61: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:26:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:29:18: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:55:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:58:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:59:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:79:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/function.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/DNA.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNA.d" -MT"src/DNA.d" -o "src/DNA.o" "../src/DNA.cpp"
+../src/DNA.cpp: In member function ‘void DNA::readFasta(std::string)’:
+../src/DNA.cpp:37:62: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp: In member function ‘void DNA::writeFasta(std::string)’:
+../src/DNA.cpp:116:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:119:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:126:38: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp: In member function ‘void DNA::writeCSV(std::string)’:
+../src/DNA.cpp:151:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:154:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:153:10: warning: unused variable ‘j’
+../src/DNA.cpp: In member function ‘void DNA::appendToFastaFile(std::string)’:
+../src/DNA.cpp:170:63: warning: deprecated conversion from string constant to ‘char*’
+../src/DNA.cpp:173:30: warning: comparison between signed and unsigned integer expressions
+../src/DNA.cpp:180:38: warning: comparison between signed and unsigned integer expressions
+Finished building: ../src/DNA.cpp
+ 
+Building file: ../src/DNAseq.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DNAseq.d" -MT"src/DNAseq.d" -o "src/DNAseq.o" "../src/DNAseq.cpp"
+Finished building: ../src/DNAseq.cpp
+ 
+Building file: ../src/HexDiff.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/HexDiff.d" -MT"src/HexDiff.d" -o "src/HexDiff.o" "../src/HexDiff.cpp"
+Finished building: ../src/HexDiff.cpp
+ 
+Building file: ../src/MotifAlgo.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MotifAlgo.d" -MT"src/MotifAlgo.d" -o "src/MotifAlgo.o" "../src/MotifAlgo.cpp"
+Finished building: ../src/MotifAlgo.cpp
+ 
+Building file: ../src/OligoAnalisys.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/OligoAnalisys.d" -MT"src/OligoAnalisys.d" -o "src/OligoAnalisys.o" "../src/OligoAnalisys.cpp"
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::performAnalysis(DNA, DNA, double, int)’:
+../src/OligoAnalisys.cpp:33:45: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘std::list<CalculatedOligo> OligoAnalisys::findInSeq(std::list<CalculatedOligo>, DNA, int)’:
+../src/OligoAnalisys.cpp:165:37: warning: comparison between signed and unsigned integer expressions
+../src/OligoAnalisys.cpp: In member function ‘void OligoAnalisys::writeFrameSetCSV(std::string, std::vector<Frame>)’:
+../src/OligoAnalisys.cpp:241:61: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/OligoAnalisys.cpp
+ 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘int main(int, char**)’:
+../src/main.cpp:23:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:24:19: warning: deprecated conversion from string constant to ‘char*’
+../src/main.cpp:25:19: warning: deprecated conversion from string constant to ‘char*’
+Finished building: ../src/main.cpp
+ 
+Building file: ../src/medianString.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/medianString.d" -MT"src/medianString.d" -o "src/medianString.o" "../src/medianString.cpp"
+../src/medianString.cpp: In function ‘int hammingDistance(std::string, std::string)’:
+../src/medianString.cpp:17:31: warning: comparison between signed and unsigned integer expressions
+../src/medianString.cpp: In function ‘Freq computeFrequency(DNA, DNAseq)’:
+../src/medianString.cpp:200:6: warning: unused variable ‘dist’
+Finished building: ../src/medianString.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+./src/main.o: In function `intToString(int)':
+/home/josue/repositorio/workspace/TFtarget/Debug/../src/main.cpp:21: multiple definition of `intToString(int)'
+./src/OligoAnalisys.o:/home/josue/repositorio/workspace/TFtarget/Debug/../src/OligoAnalisys.cpp:349: first defined here
+collect2: ld returned 1 exit status
+make: ** [TFtarget] Erro 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+./src/main.o: In function `intToString(int)':
+/home/josue/repositorio/workspace/TFtarget/Debug/../src/main.cpp:45: multiple definition of `intToString(int)'
+./src/OligoAnalisys.o:/home/josue/repositorio/workspace/TFtarget/Debug/../src/OligoAnalisys.cpp:349: first defined here
+collect2: ld returned 1 exit status
+make: ** [TFtarget] Erro 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+../src/main.cpp: In function ‘void preprocessa(int, int)’:
+../src/main.cpp:84:18: warning: unused variable ‘posPos’
+Finished building: ../src/main.cpp
+ 
+Building target: Preprocessamento
+Invoking: Cross G++ Linker
+g++  -o "Preprocessamento"  ./src/DNA.o ./src/DNAseq.o ./src/main.o   
+Finished building target: Preprocessamento
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project DREBSearch ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project MotifAlgo ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project Preprocessamento ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project TFtarget ****
+
+make all 
+Building file: ../src/main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/main.d" -MT"src/main.d" -o "src/main.o" "../src/main.cpp"
+Finished building: ../src/main.cpp
+ 
+Building target: TFtarget
+Invoking: GCC C++ Linker
+g++  -o "TFtarget"  ./src/DNA.o ./src/DNAseq.o ./src/HexDiff.o ./src/MotifAlgo.o ./src/OligoAnalisys.o ./src/main.o ./src/medianString.o   
+Finished building target: TFtarget
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project bbv ****
+
+make all 
+make: Nada a ser feito para `all'.
+
+**** Build Finished ****

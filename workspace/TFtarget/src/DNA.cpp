@@ -10,8 +10,6 @@
 DNA::DNA() {
 }
 
-
-
 /*
  /////////////////////////////////////////////////////////////////////////
  //ATM, the FASTA definition line must follow the conventions of the FASTA
@@ -31,12 +29,12 @@ DNA::DNA() {
  Local Sequence identifier         lcl|identifier
  ///////////////////////////////////////////////////////////////////////////
  */
-void DNA::readFasta(char *file) // read Fasta format sequences
+void DNA::readFasta(string file) // read Fasta format sequences
 		{
 	try {
-		ifstream Fin(file);
+		ifstream Fin(file.c_str());
 		if (!Fin)
-			throw strcat("Cannot open input Fasta file ", file);
+			throw strcat("Cannot open input Fasta file ", file.c_str());
 		bool fastaFormat = false;
 		string buf;
 		int newLine;
@@ -93,7 +91,8 @@ void DNA::readFasta(char *file) // read Fasta format sequences
 			}
 			if (newLine == 3) { // end of file
 				if (!fastaFormat)
-					throw strcat(file, " is not in Fasta format.");
+					throw strcat((char *) file.c_str(),
+							" is not in Fasta format.");
 				else {
 					// otherwise, need to store the old chain first, then to
 					// build a new chain
@@ -109,13 +108,12 @@ void DNA::readFasta(char *file) // read Fasta format sequences
 	}
 }
 
-
-void DNA::writeFasta(char* file) {
+void DNA::writeFasta(string file) {
 
 	try {
-		ofstream Fout(file);
+		ofstream Fout(file.c_str());
 		if (!Fout)
-			throw strcat("Cannot open output Fasta file ", file);
+			throw strcat("Cannot open output Fasta file ", file.c_str());
 
 		int i, j;
 		for (i = 0; i < chain.size(); i++) {
@@ -139,10 +137,61 @@ void DNA::writeFasta(char* file) {
 	}
 }
 
+void DNA::writeCSV(string file) {
+	vector<DNAseq>::iterator it;
+	for (it = chain.begin(); it != chain.end(); it++) {
+		it->seq = it->id + it->description + it->seq;
+		it->id = "";
+		it->description = "";
+	}
+
+	try {
+		ofstream Fout(file.c_str());
+		if (!Fout)
+			throw strcat("Cannot open output Fasta file ", file.c_str());
+
+		int i, j;
+		for (i = 0; i < chain.size(); i++) {
+			Fout << chain[i].seq;
+			Fout << endl;
+		}
+	}
+
+	catch (char* pMsg) {
+		cerr << endl << "Exception:" << pMsg << endl;
+	}
+}
+
+void DNA::appendToFastaFile(string file) {
+
+	try {
+		ofstream Fout(file.c_str(), ios::app);
+		if (!Fout)
+			throw strcat("Cannot open output Fasta file ", file.c_str());
+
+		int i, j;
+		for (i = 0; i < chain.size(); i++) {
+			if (chain[i].id != chain[i].description) {
+				Fout << ">" << chain[i].id << " " << chain[i].description
+						<< endl;
+			} else {
+				Fout << ">" << chain[i].description << endl;
+			}
+			for (j = 0; j < chain[i].seq.size(); j++) {
+				Fout << chain[i].seq[j];
+				if ((j + 1) % 60 == 0)
+					Fout << endl;
+			}
+			Fout << endl;
+		}
+	}
+
+	catch (char* pMsg) {
+		cerr << endl << "Exception:" << pMsg << endl;
+	}
+}
 
 void DNA::addSeq(DNAseq ds) {
 	chain.push_back(ds);
 }
-
-
 

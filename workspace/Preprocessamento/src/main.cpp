@@ -3,6 +3,11 @@
  *
  *  Created on: 10/08/2011
  *      Author: josue
+ *
+ *      Recebe 3 parametros o tamanho do frame e a quantidade de sequencia de frames aumentada o tamanho vai
+ *      aumetar conforme o 3 parametro
+ *
+ *      para o problema do dreb colocar 106 12 50 como parametro
  */
 
 #include "DNA.h"
@@ -17,14 +22,12 @@ string intToString(int number) {
 	return ss.str(); //return a string with the contents of the stream
 }
 
-int main(int argc, char **argv) {
+void preprocessa(int halfSize,int totalSize){
 	DNA d1, d2, d3, d4;
 	vector<DNAseq>::iterator it, it2;
 	string str, str2, ant;
 	srand(time(NULL));
 	int r = 0;
-	int halfSize = ((atoi(&argv[1][0]) - 6 )/2); // metade do tamanho necessario para a separacao
-	int totalSize = atoi(&argv[1][0]) - 1; // tamanho total
 	int out = totalSize + 1;
 	d1.readFasta("../arquivos/entrada.fasta");
 	d2.readFasta("../arquivos/genes.fasta");
@@ -55,14 +58,14 @@ int main(int argc, char **argv) {
 			str = it->id.substr(0, 9);
 			if (str != str2 && str != ant) {
 				ant = str;
-				if (d4.chain.size() < 500 && it->seq.length() >= 1000) {
+				if (d4.chain.size() < 135 && it->seq.length() >= 1000) {
 					r = rand() % 700 + 1;
 					str = it->seq.substr(r, halfSize);
 					str = str + "GCCGAC" + it->seq.substr(r + 7, halfSize - 1);
 					str2 = it->id.substr(0, 9);
 					DNAseq seq = DNAseq(str2, "", str);
 					d4.addSeq(seq);
-				} else if (d4.chain.size() < 1000 && it->seq.length() >= 1000) {
+				} else if (d4.chain.size() < 170 && it->seq.length() >= 1000) {
 					r = rand() % 700 + 1;
 					str = it->seq.substr(r, halfSize);
 					str = str + "ACCGAC" + it->seq.substr(r + 7, halfSize - 1);
@@ -128,13 +131,20 @@ int main(int argc, char **argv) {
 	cout << "DFS size " << d1.chain[0].seq.length() + 1 << endl;
 	d1.writeFasta("../arquivos/resultado_"+intToString(out)+".fasta");
 
-	for (it = d1.chain.begin(); it != d1.chain.end(); it++) {
-		it->id =  "\""+it->id;
-		it->description =  it->description+"\"";
-		it->seq = "\""+it->seq+"\"";
+	d1.writeCSV("../arquivos/resultado_"+intToString(out)+".csv");
 
+}
+
+
+int main(int argc, char **argv) {
+	int halfSize = ((atoi(&argv[1][0]) - 6 )/2); // metade do tamanho necessario para a separacao
+	int totalSize = atoi(&argv[1][0]) - 1; // tamanho total
+	int max = atoi(&argv[2][0]);
+	int incre = atoi(&argv[3][0]);
+	for (int i = 0; i < max; ++i) {
+		preprocessa(halfSize,totalSize);
+		halfSize = halfSize + incre;
+		totalSize = totalSize + incre;
 	}
-
-	d1.writeFasta("../arquivos/resultado_"+intToString(out)+".csv");
 	return 0;
 }

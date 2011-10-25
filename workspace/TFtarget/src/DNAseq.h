@@ -11,8 +11,8 @@
 #include <algorithm>
 #include <string>
 #include <string.h>
-#include "function.h"
-
+#include <vector>
+#include <sstream>
 using namespace std;
 
 #ifdef WIN32
@@ -62,6 +62,7 @@ public:
 	string seq;
 
 	DNAseq(); // constructor
+	DNAseq(string id, string description, string seq); // constructor
 	void clear(); // clear the content of object
 	void cleanSeq(); // clean the sequence, remove non "AGCT"(+"U" for RNA) charactors
 	void set_id(string input_id);
@@ -74,6 +75,13 @@ public:
 	int length();
 };
 
+extern bool not_nucleotide(char ch);
+extern char compliment_DNA(char ch);
+extern char compliment_RNA(char ch);
+extern char replace_nucleotide(char ch);
+extern bool space(char c);
+extern bool not_space(char c);
+extern bool StringToInt(const string &s, int &i);
 
 
 #endif /* DNASEQ_H_ */

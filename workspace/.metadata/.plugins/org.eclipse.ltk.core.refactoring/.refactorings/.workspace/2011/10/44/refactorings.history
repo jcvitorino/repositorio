@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/TFtarget/src/DNA.cpp" element2="/TFtarget/src/DNA.h" element3="/TFtarget/src/DNAseq.cpp" element4="/TFtarget/src/DNAseq.h" element5="/TFtarget/src/function.cpp" element6="/TFtarget/src/function.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1319503126405"/>
+</session>
