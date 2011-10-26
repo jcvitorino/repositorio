@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<process version="5.1.011">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="5.1.011" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <parameter key="parallelize_main_process" value="false"/>
+    <process expanded="true" height="-20" width="-50">
+      <operator activated="true" class="retrieve" compatibility="5.1.011" expanded="true" height="60" name="Retrieve" width="90" x="102" y="236">
+        <parameter key="repository_entry" value="//repositorio/saida_pequena_markov"/>
+      </operator>
+      <operator activated="true" class="optimize_parameters_grid" compatibility="5.1.011" expanded="true" height="94" name="Optimize Parameters (Grid)" width="90" x="252" y="237">
+        <list key="parameters">
+          <parameter key="SVM.kernel_type" value="radial"/>
+          <parameter key="SVM.kernel_gamma" value="[0.0;20;15;linear]"/>
+          <parameter key="SVM.C" value="[-1.0;70;20;linear]"/>
+        </list>
+        <parameter key="parallelize_optimization_process" value="true"/>
+        <process expanded="true" height="446" width="762">
+          <operator activated="true" class="x_validation" compatibility="5.0.000" expanded="true" height="112" name="Validation" width="90" x="45" y="30">
+            <description>A cross-validation evaluating a decision tree model.</description>
+            <parameter key="create_complete_model" value="false"/>
+            <parameter key="average_performances_only" value="true"/>
+            <parameter key="leave_one_out" value="false"/>
+            <parameter key="number_of_validations" value="10"/>
+            <parameter key="sampling_type" value="2"/>
+            <parameter key="use_local_random_seed" value="false"/>
+            <parameter key="local_random_seed" value="1992"/>
+            <parameter key="parallelize_training" value="true"/>
+            <parameter key="parallelize_testing" value="true"/>
+            <process expanded="true" height="654" width="466">
+              <operator activated="true" class="support_vector_machine" compatibility="5.1.011" expanded="true" height="112" name="SVM" width="90" x="188" y="30">
+                <parameter key="kernel_type" value="radial"/>
+                <parameter key="kernel_gamma" value="20.0"/>
+                <parameter key="kernel_sigma1" value="1.0"/>
+                <parameter key="kernel_sigma2" value="0.0"/>
+                <parameter key="kernel_sigma3" value="2.0"/>
+                <parameter key="kernel_shift" value="1.0"/>
+                <parameter key="kernel_degree" value="2.0"/>
+                <parameter key="kernel_a" value="1.0"/>
+                <parameter key="kernel_b" value="0.0"/>
+                <parameter key="kernel_cache" value="200"/>
+                <parameter key="C" value="70.0"/>
+                <parameter key="convergence_epsilon" value="0.001"/>
+                <parameter key="max_iterations" value="100000"/>
+                <parameter key="scale" value="true"/>
+                <parameter key="calculate_weights" value="true"/>
+                <parameter key="return_optimization_performance" value="true"/>
+                <parameter key="L_pos" value="1.0"/>
+                <parameter key="L_neg" value="1.0"/>
+                <parameter key="epsilon" value="0.0"/>
+                <parameter key="epsilon_plus" value="0.0"/>
+                <parameter key="epsilon_minus" value="0.0"/>
+                <parameter key="balance_cost" value="false"/>
+                <parameter key="quadratic_loss_pos" value="false"/>
+                <parameter key="quadratic_loss_neg" value="false"/>
+                <parameter key="estimate_performance" value="false"/>
+              </operator>
+              <connect from_port="training" to_op="SVM" to_port="training set"/>
+              <connect from_op="SVM" from_port="model" to_port="model"/>
+              <portSpacing port="source_training" spacing="0"/>
+              <portSpacing port="sink_model" spacing="0"/>
+              <portSpacing port="sink_through 1" spacing="0"/>
+            </process>
+            <process expanded="true" height="654" width="466">
+              <operator activated="true" class="apply_model" compatibility="5.0.000" expanded="true" height="76" name="Apply Model" width="90" x="45" y="30">
+                <list key="application_parameters"/>
+                <parameter key="create_view" value="false"/>
+              </operator>
+              <operator activated="true" class="performance" compatibility="5.0.000" expanded="true" height="76" name="Performance" width="90" x="179" y="30">
+                <parameter key="use_example_weights" value="true"/>
+              </operator>
+              <connect from_port="model" to_op="Apply Model" to_port="model"/>
+              <connect from_port="test set" to_op="Apply Model" to_port="unlabelled data"/>
+              <connect from_op="Apply Model" from_port="labelled data" to_op="Performance" to_port="labelled data"/>
+              <connect from_op="Performance" from_port="performance" to_port="averagable 1"/>
+              <portSpacing port="source_model" spacing="0"/>
+              <portSpacing port="source_test set" spacing="0"/>
+              <portSpacing port="source_through 1" spacing="0"/>
+              <portSpacing port="sink_averagable 1" spacing="0"/>
+              <portSpacing port="sink_averagable 2" spacing="0"/>
+            </process>
+          </operator>
+          <connect from_port="input 1" to_op="Validation" to_port="training"/>
+          <connect from_op="Validation" from_port="averagable 1" to_port="performance"/>
+          <portSpacing port="source_input 1" spacing="0"/>
+          <portSpacing port="source_input 2" spacing="0"/>
+          <portSpacing port="sink_performance" spacing="0"/>
+          <portSpacing port="sink_result 1" spacing="0"/>
+        </process>
+      </operator>
+      <connect from_op="Retrieve" from_port="output" to_op="Optimize Parameters (Grid)" to_port="input 1"/>
+      <connect from_op="Optimize Parameters (Grid)" from_port="performance" to_port="result 2"/>
+      <connect from_op="Optimize Parameters (Grid)" from_port="parameter" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+    </process>
+  </operator>
+</process>
